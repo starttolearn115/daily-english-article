@@ -1,0 +1,10 @@
+{
+    "date": "2026-07-22",
+    "title": "The Impact of Artificial Intelligence on Modern Education",
+    "content": "Artificial intelligence (AI) is rapidly transforming various sectors, and education is no exception. In recent years, AI-powered tools have been integrated into classrooms to provide personalized learning experiences. \n\nFor instance, adaptive learning platforms can analyze a student's performance and adjust the difficulty of questions accordingly. This ensures that each student learns at their own pace.",
+    "vocabulary": [
+        {"word": "transform", "part_of_speech": "v.", "meaning": "改變；轉換"},
+        {"word": "integrate", "part_of_speech": "v.", "meaning": "整合；融入"},
+        {"word": "adaptive", "part_of_speech": "adj.", "meaning": "適應的"}
+    ]
+}
