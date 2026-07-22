@@ -2,9 +2,8 @@ name: Daily Article Update
 
 on:
   schedule:
-    # 每天台灣時間凌晨 0:00 執行 (UTC 時間前一天 16:00)
     - cron: '0 16 * * *' 
-  workflow_dispatch: # 允許手動觸發
+  workflow_dispatch:
 
 jobs:
   update-article:
@@ -19,7 +18,13 @@ jobs:
         with:
           python-version: '3.x'
 
+      # 就是少了下面這一步！讓系統安裝 Gemini 套件
+      - name: Install dependencies
+        run: pip install google-generativeai
+
       - name: Run update script
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python update_article.py
 
       - name: Commit and push changes
@@ -27,5 +32,5 @@ jobs:
           git config --global user.name 'GitHub Actions Bot'
           git config --global user.email 'actions@github.com'
           git add article.json
-          git commit -m "Automated daily article update" || exit 0
+          git commit -m "Automated daily article update by Gemini" || exit 0
           git push
