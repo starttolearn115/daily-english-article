@@ -1,0 +1,31 @@
+name: Daily Article Update
+
+on:
+  schedule:
+    # 每天台灣時間凌晨 0:00 執行 (UTC 時間前一天 16:00)
+    - cron: '0 16 * * *' 
+  workflow_dispatch: # 允許手動觸發
+
+jobs:
+  update-article:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Run update script
+        run: python update_article.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'GitHub Actions Bot'
+          git config --global user.email 'actions@github.com'
+          git add article.json
+          git commit -m "Automated daily article update" || exit 0
+          git push
