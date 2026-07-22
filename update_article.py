@@ -1,32 +1,64 @@
 import json
+import os
 from datetime import datetime
-
-# 這裡示範「每天從預設題庫中挑選」或「串接 AI 生成」的邏輯
-# 若要完全自動，強烈建議在這裡使用 OpenAI API (ChatGPT) 來生成學測級別的文章
+import google.generativeai as genai
 
 def generate_daily_article():
-    # 模擬今天產生的文章資料
+    # 讀取藏在 GitHub Secrets 裡的 Gemini 金鑰
+    api_key = os.environ.get("GEMINI_API_KEY")
+    if not api_key:
+        raise ValueError("找不到 GEMINI_API_KEY，請確認 GitHub Secrets 設定是否正確。")
+    
+    genai.configure(api_key=api_key)
     today_str = datetime.now().strftime("%Y-%m-%d")
     
-    new_article = {
-        "date": today_str,
-        "title": "New Discoveries in Space Exploration",
-        "content": "Space exploration has always fascinated humanity. Recently, astronomers discovered a new exoplanet that closely resembles Earth. This discovery has sparked debates about the possibility of extraterrestrial life.\n\nScientists plan to send probes to gather more data in the coming decades.",
+    prompt = """
+    請幫我寫一篇適合台灣高中生閱讀的英文短文（約 150-200 字），難度符合學測英文。
+    主題隨機，可以是科技、環保、心理學、歷史等。
+    請務必以 JSON 格式回傳，必須嚴格包含以下欄位：
+    {
+        "title": "文章標題 (英文)",
+        "content": "文章內容 (英文，適當分段，段落間用 \\n\\n 隔開)",
         "vocabulary": [
-            {"word": "fascinate", "part_of_speech": "v.", "meaning": "使著迷"},
-            {"word": "exoplanet", "part_of_speech": "n.", "meaning": "系外行星"},
-            {"word": "extraterrestrial", "part_of_speech": "adj.", "meaning": "地球外的；外星的"}
+            {"word": "單字", "part_of_speech": "詞性縮寫，例如 v., n., adj.", "meaning": "繁體中文解釋"}
         ]
     }
-    return new_article
+    請挑選 3-5 個學測級別的核心單字放入 vocabulary 中。
+    """
+
+    try:
+        # 呼叫 Gemini API (使用 1.5 flash 模型，並強制要求回傳 JSON)
+        model = genai.GenerativeModel(
+            'gemini-1.5-flash',
+            generation_config={"response_mime_type": "application/json"}
+        )
+        
+        response = model.generate_content(prompt)
+        
+        # 解析 Gemini 回傳的 JSON 格式
+        article_data = json.loads(response.text)
+        article_data["date"] = today_str 
+        return article_data
+        
+    except Exception as e:
+        print(f"產生文章時發生錯誤: {e}")
+        # 如果 API 失敗，提供一篇備用文章
+        return {
+            "date": today_str,
+            "title": "A Day of Review",
+            "content": "Today our AI took a short break to recharge its circuits. It's a great opportunity for you to review the vocabulary words you've learned over the past few days!\n\nConsistency is the key to mastering a new language.",
+            "vocabulary": [
+                {"word": "opportunity", "part_of_speech": "n.", "meaning": "機會"},
+                {"word": "consistency", "part_of_speech": "n.", "meaning": "一致性；堅持"}
+            ]
+        }
 
 def main():
     article_data = generate_daily_article()
     
-    # 覆寫原本的 article.json
     with open('article.json', 'w', encoding='utf-8') as f:
         json.dump(article_data, f, ensure_ascii=False, indent=4)
-    print(f"[{article_data['date']}] 文章已成功更新！")
+    print(f"[{article_data['date']}] 文章已成功由 Gemini 生成並更新！")
 
 if __name__ == "__main__":
     main()
