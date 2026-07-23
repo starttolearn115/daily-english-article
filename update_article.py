@@ -29,9 +29,9 @@ def generate_daily_article():
     """
 
     try:
-        # 使用新版 SDK 呼叫 Gemini (使用 gemini-2.5-flash 模型，並強制要求回傳 JSON)
+        # 修正：將模型改為穩定開放的 gemini-1.5-flash
         response = client.models.generate_content(
-            model='gemini-2.5-flash',
+            model='gemini-1.5-flash',
             contents=prompt,
             config=types.GenerateContentConfig(
                 response_mime_type="application/json",
