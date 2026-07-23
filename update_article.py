@@ -1,7 +1,8 @@
 import json
 import os
 from datetime import datetime
-import google.generativeai as genai
+from google import genai
+from google.genai import types
 
 def generate_daily_article():
     # 讀取藏在 GitHub Secrets 裡的 Gemini 金鑰
@@ -9,7 +10,8 @@ def generate_daily_article():
     if not api_key:
         raise ValueError("找不到 GEMINI_API_KEY，請確認 GitHub Secrets 設定是否正確。")
     
-    genai.configure(api_key=api_key)
+    # 初始化新版客戶端
+    client = genai.Client(api_key=api_key)
     today_str = datetime.now().strftime("%Y-%m-%d")
     
     prompt = """
@@ -27,13 +29,14 @@ def generate_daily_article():
     """
 
     try:
-        # 呼叫 Gemini API (使用 1.5 flash 模型，並強制要求回傳 JSON)
-        model = genai.GenerativeModel(
-            'gemini-1.5-flash',
-            generation_config={"response_mime_type": "application/json"}
+        # 使用新版 SDK 呼叫 Gemini (使用 gemini-2.5-flash 模型，並強制要求回傳 JSON)
+        response = client.models.generate_content(
+            model='gemini-2.5-flash',
+            contents=prompt,
+            config=types.GenerateContentConfig(
+                response_mime_type="application/json",
+            )
         )
-        
-        response = model.generate_content(prompt)
         
         # 解析 Gemini 回傳的 JSON 格式
         article_data = json.loads(response.text)
