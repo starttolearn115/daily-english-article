@@ -1,17 +1,32 @@
 {
-    "date": "2026-07-23",
-    "title": "A Day of Review",
-    "content": "Today our AI took a short break to recharge its circuits. It's a great opportunity for you to review the vocabulary words you've learned over the past few days!\n\nConsistency is the key to mastering a new language.",
+    "title": "The Impact of Social Media on Mental Health",
+    "content": "Social media has become an integral part of our daily lives. According to a recent study, the average teenager spends over 4 hours on social media platforms every day. However, excessive social media use has been linked to various negative effects on mental health. Prolonged exposure to curated and manipulated content can lead to feelings of inadequacy and low self-esteem. Furthermore, the constant need for validation and acceptance can create unrealistic expectations and promote the use of social comparison. To mitigate these effects, it is essential to maintain a healthy balance between social media use and real-life interactions.\n\nOne way to achieve this balance is to observe the 50/30/20 rule. Allocate 50% of your screen time to essential activities, such as school work and communication with family and friends. Use 30% for social media and entertainment, and allocate the remaining 20% for self-care and relaxation. By implementing this rule, you can reduce the mental health risks associated with excessive social media use and maintain a healthy digital well-being.\n\nUltimately, social media is a tool, and it should not control our lives. We have the power to choose how we use it and maintain a positive relationship with it.",
     "vocabulary": [
         {
-            "word": "opportunity",
+            "word": "inadequacy",
             "part_of_speech": "n.",
-            "meaning": "機會"
+            "meaning": "自卑感，覺得自己不夠好"
         },
         {
-            "word": "consistency",
+            "word": "curated",
+            "part_of_speech": "adj.",
+            "meaning": "精心選擇或編集的"
+        },
+        {
+            "word": "validation",
             "part_of_speech": "n.",
-            "meaning": "一致性；堅持"
+            "meaning": "證實或確立"
+        },
+        {
+            "word": "mitigate",
+            "part_of_speech": "v.",
+            "meaning": "減少或緩和某種風險或負面結果"
+        },
+        {
+            "word": "allocation",
+            "part_of_speech": "n.",
+            "meaning": "分配或安排"
         }
-    ]
+    ],
+    "date": "2026-07-23"
 }
