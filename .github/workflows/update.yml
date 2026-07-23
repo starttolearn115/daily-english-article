@@ -18,9 +18,9 @@ jobs:
         with:
           python-version: '3.x'
 
-      # 就是少了下面這一步！讓系統安裝 Gemini 套件
       - name: Install dependencies
-        run: pip install google-generativeai
+        # 改為安裝最新的 google-genai 套件
+        run: pip install google-genai
 
       - name: Run update script
         env:
