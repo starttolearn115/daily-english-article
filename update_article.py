@@ -1,17 +1,16 @@
 import json
 import os
 from datetime import datetime
-from google import genai
-from google.genai import types
+from groq import Groq
 
 def generate_daily_article():
-    # 讀取藏在 GitHub Secrets 裡的 Gemini 金鑰
-    api_key = os.environ.get("GEMINI_API_KEY")
+    # 讀取 GitHub Secrets 裡的 Groq 金鑰
+    api_key = os.environ.get("GROQ_API_KEY")
     if not api_key:
-        raise ValueError("找不到 GEMINI_API_KEY，請確認 GitHub Secrets 設定是否正確。")
+        raise ValueError("找不到 GROQ_API_KEY，請確認 GitHub Secrets 設定是否正確。")
     
-    # 初始化新版客戶端
-    client = genai.Client(api_key=api_key)
+    # 初始化 Groq 客戶端
+    client = Groq(api_key=api_key)
     today_str = datetime.now().strftime("%Y-%m-%d")
     
     prompt = """
@@ -29,23 +28,24 @@ def generate_daily_article():
     """
 
     try:
-        # 👑 改用專門提供給開發者的純免費輕量級模型
-        response = client.models.generate_content(
-            model='gemini-1.5-flash-8b',
-            contents=prompt,
-            config=types.GenerateContentConfig(
-                response_mime_type="application/json",
-            )
+        # 使用 Meta 開發的 Llama 3 8B 模型，並要求回傳 JSON
+        chat_completion = client.chat.completions.create(
+            messages=[
+                {"role": "system", "content": "You are a helpful assistant that strictly outputs JSON."},
+                {"role": "user", "content": prompt}
+            ],
+            model="llama3-8b-8192", 
+            response_format={"type": "json_object"},
         )
         
-        # 解析 Gemini 回傳的 JSON 格式
-        article_data = json.loads(response.text)
+        # 解析 Groq 回傳的 JSON 格式
+        article_data = json.loads(chat_completion.choices[0].message.content)
         article_data["date"] = today_str 
         return article_data
         
     except Exception as e:
         print(f"產生文章時發生錯誤: {e}")
-        # 如果 API 失敗，提供一篇備用文章
+        # 備用文章
         return {
             "date": today_str,
             "title": "A Day of Review",
@@ -61,7 +61,7 @@ def main():
     
     with open('article.json', 'w', encoding='utf-8') as f:
         json.dump(article_data, f, ensure_ascii=False, indent=4)
-    print(f"[{article_data['date']}] 文章已成功由 Gemini 1.5 Flash 8B 生成並更新！")
+    print(f"[{article_data['date']}] 文章已成功由 Groq (Llama 3) 生成並更新！")
 
 if __name__ == "__main__":
     main()
