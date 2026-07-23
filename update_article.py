@@ -28,13 +28,13 @@ def generate_daily_article():
     """
 
     try:
-        # 使用 Meta 開發的 Llama 3 8B 模型，並要求回傳 JSON
+        # 👑 換上最新的 Llama 3.1 模型
         chat_completion = client.chat.completions.create(
             messages=[
                 {"role": "system", "content": "You are a helpful assistant that strictly outputs JSON."},
                 {"role": "user", "content": prompt}
             ],
-            model="llama3-8b-8192", 
+            model="llama-3.1-8b-instant", 
             response_format={"type": "json_object"},
         )
         
@@ -61,7 +61,7 @@ def main():
     
     with open('article.json', 'w', encoding='utf-8') as f:
         json.dump(article_data, f, ensure_ascii=False, indent=4)
-    print(f"[{article_data['date']}] 文章已成功由 Groq (Llama 3) 生成並更新！")
+    print(f"[{article_data['date']}] 文章已成功由 Groq (Llama 3.1) 生成並更新！")
 
 if __name__ == "__main__":
     main()
