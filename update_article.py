@@ -29,9 +29,9 @@ def generate_daily_article():
     """
 
     try:
-        # 修正：將模型改為穩定開放的 gemini-1.5-flash
+        # 👑 升級為 Google 最新推出的 Gemini 2.0 Flash 模型
         response = client.models.generate_content(
-            model='gemini-1.5-flash',
+            model='gemini-2.0-flash',
             contents=prompt,
             config=types.GenerateContentConfig(
                 response_mime_type="application/json",
@@ -61,7 +61,7 @@ def main():
     
     with open('article.json', 'w', encoding='utf-8') as f:
         json.dump(article_data, f, ensure_ascii=False, indent=4)
-    print(f"[{article_data['date']}] 文章已成功由 Gemini 生成並更新！")
+    print(f"[{article_data['date']}] 文章已成功由 Gemini 2.0 生成並更新！")
 
 if __name__ == "__main__":
     main()
