@@ -19,12 +19,13 @@ jobs:
           python-version: '3.x'
 
       - name: Install dependencies
-        # 改為安裝最新的 google-genai 套件
-        run: pip install google-genai
+        # 改為安裝 Groq 套件
+        run: pip install groq
 
       - name: Run update script
         env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          # 讀取剛剛設定的 Groq 鑰匙
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
         run: python update_article.py
 
       - name: Commit and push changes
@@ -32,5 +33,5 @@ jobs:
           git config --global user.name 'GitHub Actions Bot'
           git config --global user.email 'actions@github.com'
           git add article.json
-          git commit -m "Automated daily article update by Gemini" || exit 0
+          git commit -m "Automated daily article update by Groq" || exit 0
           git push
