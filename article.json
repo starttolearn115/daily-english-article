@@ -1,32 +1,270 @@
 {
-    "title": "The Impact of Social Media on Mental Health",
-    "content": "In recent years, social media has become an integral part of our daily lives. We use it to stay connected with friends, share experiences, and access information. However, excessive social media use has been linked to a range of negative effects on mental health.\n\n Studies have shown that people who spend more time on social media are more likely to experience symptoms of depression, anxiety, and loneliness. This is likely due to the curated and often unrealistic portrayals of others' lives, which can create undue pressure and comparison.\n\n Furthermore, the constant stream of notifications and updates can lead to feelings of FOMO (fear of missing out) and addiction. It is essential to maintain a healthy balance between social media use and other aspects of life, such as work, relationships, and self-care.",
+    "title": "今日學測單字挑戰 (英文標題, 以及 Daily GSAT Vocabulary)",
     "vocabulary": [
         {
-            "word": "excessive",
+            "word": "ambitious",
             "part_of_speech": "adj.",
-            "meaning": "超過正常的程度"
+            "meaning": "有雄心壯志的",
+            "example": "She is ambitious to become a successful businesswoman."
         },
         {
-            "word": "depression",
-            "part_of_speech": "n.",
-            "meaning": "抑鬱症"
-        },
-        {
-            "word": "anxiety",
-            "part_of_speech": "n.",
-            "meaning": "焦慮"
-        },
-        {
-            "word": "curated",
+            "word": "bitter",
             "part_of_speech": "adj.",
-            "meaning": "精心挑選"
+            "meaning": "苦澀的、令人反感的",
+            "example": "The bitter taste of the coffee woke me up."
         },
         {
-            "word": "FOMO",
-            "part_of_speech": "n.(acronym)",
-            "meaning": "恐懼會錯過什麼"
+            "word": "chaotic",
+            "part_of_speech": "adj.",
+            "meaning": "混亂的、無秩序的",
+            "example": "The chaotic traffic made me late for work."
+        },
+        {
+            "word": "cooperate",
+            "part_of_speech": "v.",
+            "meaning": "與他人合作、協助",
+            "example": "We must cooperate to achieve our goal."
+        },
+        {
+            "word": "dramatic",
+            "part_of_speech": "adj.",
+            "meaning": "戲劇性的、令人注目的",
+            "example": "The dramatic scene in the movie moved me to tears."
+        },
+        {
+            "word": "effortless",
+            "part_of_speech": "adj.",
+            "meaning": "不費力、自然的",
+            "example": "The singer's effortless voice impressed me."
+        },
+        {
+            "word": "extraordinary",
+            "part_of_speech": "adj.",
+            "meaning": "非凡的、特殊的",
+            "example": "The extraordinary talent of the artist amazed me."
+        },
+        {
+            "word": "fascinate",
+            "part_of_speech": "v.",
+            "meaning": "使某人著迷、引人入勝",
+            "example": "The fascinating city of Paris has charmed me."
+        },
+        {
+            "word": "gigantic",
+            "part_of_speech": "adj.",
+            "meaning": "巨大的、非凡的",
+            "example": "The gigantic statue in the city amazed tourists."
+        },
+        {
+            "word": "happy",
+            "part_of_speech": "adj.",
+            "meaning": "高興的、愉快的",
+            "example": "The happy couple shared their wedding day with friends."
+        },
+        {
+            "word": "heroic",
+            "part_of_speech": "adj.",
+            "meaning": "勇敢的、具有英雄情味的",
+            "example": "The heroic pilot saved the plane from disaster."
+        },
+        {
+            "word": "hypocrite",
+            "part_of_speech": "n.",
+            "meaning": "偽君子、兩面人",
+            "example": "The politician was accused of being a hypocrite."
+        },
+        {
+            "word": "imagination",
+            "part_of_speech": "n.",
+            "meaning": "想像力、幻想力",
+            "example": "The author's imagination created a vivid world."
+        },
+        {
+            "word": "incredible",
+            "part_of_speech": "adj.",
+            "meaning": "不可思議的、令人驚嘆的",
+            "example": "The incredible view from the mountain top thrilled me."
+        },
+        {
+            "word": "insane",
+            "part_of_speech": "adj.",
+            "meaning": "瘋狂的、離奇的",
+            "example": "The insane driver ran through the red light."
+        },
+        {
+            "word": "justice",
+            "part_of_speech": "n.",
+            "meaning": "正義、公平",
+            "example": "The judge fought for justice in the court."
+        },
+        {
+            "word": "kindness",
+            "part_of_speech": "n.",
+            "meaning": "善良、親切",
+            "example": "The doctor showed kindness to the patient."
+        },
+        {
+            "word": "laughter",
+            "part_of_speech": "n.",
+            "meaning": "笑聲、笑容",
+            "example": "The child's laughter filled the room."
+        },
+        {
+            "word": "liberty",
+            "part_of_speech": "n.",
+            "meaning": "自由、獨立",
+            "example": "The activist fought for liberty in the country."
+        },
+        {
+            "word": "love",
+            "part_of_speech": "n.",
+            "meaning": "愛情、愛意",
+            "example": "The couple shared their love story with friends."
+        },
+        {
+            "word": "luck",
+            "part_of_speech": "n.",
+            "meaning": "幸運、機會",
+            "example": "The winner attributed her luck to hard work."
+        },
+        {
+            "word": "majestic",
+            "part_of_speech": "adj.",
+            "meaning": "隆隆的、莊嚴的",
+            "example": "The majestic mountain range thrilled me."
+        },
+        {
+            "word": "masterpiece",
+            "part_of_speech": "n.",
+            "meaning": "杰作、傑出的作品",
+            "example": "The painter created a masterpiece in the art gallery."
+        },
+        {
+            "word": "narrative",
+            "part_of_speech": "adj.",
+            "meaning": "敘事的、具描述性",
+            "example": "The narrative poem told a story of love."
+        },
+        {
+            "word": "opposite",
+            "part_of_speech": "adj.",
+            "meaning": "相反、相反的",
+            "example": "The opposite of good is evil."
+        },
+        {
+            "word": "peace",
+            "part_of_speech": "n.",
+            "meaning": "平靜、和平",
+            "example": "The peaceful lake was reflected in the mist."
+        },
+        {
+            "word": "perfect",
+            "part_of_speech": "adj.",
+            "meaning": "完美的、無缺點的",
+            "example": "The perfect melody thrilled the audience."
+        },
+        {
+            "word": "persistent",
+            "part_of_speech": "adj.",
+            "meaning": "堅持不懈,",
+            "example": "The persistent student finally understood the concept."
+        },
+        {
+            "word": "poetic",
+            "part_of_speech": "adj.",
+            "meaning": "有詩意的、具有感性的",
+            "example": "The poetic language of the poet moved me to tears."
+        },
+        {
+            "word": "positive",
+            "part_of_speech": "adj.",
+            "meaning": "積極的、正面的",
+            "example": "The positive attitude of the manager led the team to success."
+        },
+        {
+            "word": "precarious",
+            "part_of_speech": "adj.",
+            "meaning": "不穩定的、風險的",
+            "example": "The precarious situation required immediate action."
+        },
+        {
+            "word": "precise",
+            "part_of_speech": "adj.",
+            "meaning": "精確的、準確的",
+            "example": "The precise measurement ensured the accuracy of the result."
+        },
+        {
+            "word": "profound",
+            "part_of_speech": "adj.",
+            "meaning": "深刻的、精確的",
+            "example": "The profound impact of the event changed my life."
+        },
+        {
+            "word": "relax",
+            "part_of_speech": "v.",
+            "meaning": "鬆弛、放鬆",
+            "example": "I relaxed on the beach after a long day."
+        },
+        {
+            "word": "respect",
+            "part_of_speech": "n.",
+            "meaning": "尊嚴、尊敬",
+            "example": "The leader respected the opinion of his team."
+        },
+        {
+            "word": "revolution",
+            "part_of_speech": "n.",
+            "meaning": "革命、變革",
+            "example": "The social revolution changed the society."
+        },
+        {
+            "word": "sophisticated",
+            "part_of_speech": "adj.",
+            "meaning": "先進的、複雜的",
+            "example": "The sophisticated technology impressed me."
+        },
+        {
+            "word": "sparkle",
+            "part_of_speech": "v.",
+            "meaning": "閃光、發光",
+            "example": "The diamond sparkle caught my eye."
+        },
+        {
+            "word": "spectacular",
+            "part_of_speech": "adj.",
+            "meaning": "令人嘆為觀止的、壯觀的",
+            "example": "The spectacular fireworks amazed the crowd."
+        },
+        {
+            "word": "sustain",
+            "part_of_speech": "v.",
+            "meaning": "持續、維持",
+            "example": "The team worked to sustain the momentum."
+        },
+        {
+            "word": "tenacious",
+            "part_of_speech": "adj.",
+            "meaning": "堅韌的、不放棄的",
+            "example": "The tenacious researcher solved the mystery."
+        },
+        {
+            "word": "treacherous",
+            "part_of_speech": "adj.",
+            "meaning": "險惡的、可靠性",
+            "example": "The treacherous terrain made the hike challenging."
+        },
+        {
+            "word": "unpredictable",
+            "part_of_speech": "adj.",
+            "meaning": "無法預測的、不可靠的",
+            "example": "The unpredictable weather made planning difficult."
+        },
+        {
+            "word": "unstable",
+            "part_of_speech": "adj.",
+            "meaning": "不可靠的、不穩定的",
+            "example": "The unstable condition of the patient required attention."
         }
     ],
-    "date": "2026-07-23"
+    "date": "2026-07-24"
 }
