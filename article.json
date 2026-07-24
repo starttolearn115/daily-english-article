@@ -2,207 +2,228 @@
     "title": "今日學測單字挑戰",
     "vocabulary": [
         {
-            "word": "persistent",
-            "part_of_speech": "v.",
-            "meaning": "反覆、堅持",
-            "example": "She persisted in her efforts to learn the new skill.",
-            "example_translation": "她堅持學習新技巧"
-        },
-        {
-            "word": "nuance",
+            "word": "Hypothesis",
             "part_of_speech": "n.",
-            "meaning": "細微差別、細細之間",
-            "example": "The nuances of the language were difficult to understand.",
-            "example_translation": "語言的細微差別很難理解"
+            "meaning": "假設",
+            "example": "According to our hypothesis, the new policy will increase sales.",
+            "example_translation": "根據我們的假設，我們新政策會增加銷量。"
         },
         {
-            "word": "rigorous",
+            "word": "Simplify",
+            "part_of_speech": "v.",
+            "meaning": "簡化",
+            "example": "The teacher tried to simplify the complex math problem.",
+            "example_translation": "老師試圖將複雜的數學題目簡化。"
+        },
+        {
+            "word": "Narrate",
+            "part_of_speech": "v.",
+            "meaning": "敘述",
+            "example": "She will narrate the story on the stage.",
+            "example_translation": "她將在舞台上敘述故事。"
+        },
+        {
+            "word": "Infer",
+            "part_of_speech": "v.",
+            "meaning": "推斷",
+            "example": "From the facts, we can infer that he is guilty.",
+            "example_translation": "由於的事實，我們可以推斷他有罪。"
+        },
+        {
+            "word": "Persevere",
+            "part_of_speech": "v.",
+            "meaning": "堅持",
+            "example": "He persevered in his study and eventually achieved his goal.",
+            "example_translation": "他堅持學習，最終達成了目標。"
+        },
+        {
+            "word": "Rhetoric",
+            "part_of_speech": "n.",
+            "meaning": "雄辯術",
+            "example": "The politician's rhetoric was widely criticized.",
+            "example_translation": "政客的雄辯術受到了廣泛批評。"
+        },
+        {
+            "word": "Illuminate",
+            "part_of_speech": "v.",
+            "meaning": "點亮",
+            "example": "The lamp will illuminate the dark room.",
+            "example_translation": "燈會點亮黑暗的房間。"
+        },
+        {
+            "word": "Rationalize",
+            "part_of_speech": "v.",
+            "meaning": "合理化",
+            "example": "People often rationalize their bad habits.",
+            "example_translation": "人們常會合理化他们的壞習慣。"
+        },
+        {
+            "word": "Meticulous",
             "part_of_speech": "adj.",
-            "meaning": "嚴格、認真的",
-            "example": "The professor was known for her rigorous teaching style.",
-            "example_translation": "該教授以其嚴格的教學風格聞名"
+            "meaning": "細緻",
+            "example": "She is a meticulous artist, always paying attention to details.",
+            "example_translation": "她是一個細緻的藝術家，總是注意到细节。"
         },
         {
-            "word": "sophisticated",
+            "word": "Converse",
+            "part_of_speech": "v.",
+            "meaning": "交談",
+            "example": "The two friends will converse for hours.",
+            "example_translation": "兩個朋友將會用幾個小時的時間交談。"
+        },
+        {
+            "word": "Vigilant",
             "part_of_speech": "adj.",
-            "meaning": "複雜、精神性",
-            "example": "The sophisticated design of the building impressed me.",
-            "example_translation": "建築的精緻設計令我印象深刻"
+            "meaning": "警醒",
+            "example": "The guard was vigilant and caught the thief.",
+            "example_translation": "警衛是警醒的，并且抓到了小偷。"
         },
         {
-            "word": "enumerate",
+            "word": "Dilemma",
+            "part_of_speech": "n.",
+            "meaning": "兩難",
+            "example": "He was faced with a dilemma: whether to take the job or not.",
+            "example_translation": "他面臨著兩難：是否接受工作。"
+        },
+        {
+            "word": "Narrative",
+            "part_of_speech": "n.",
+            "meaning": "敘事",
+            "example": "The novel is a narrative of a young girl's life.",
+            "example_translation": "那本小說是关于一個年轻女孩生活的一個敘事。"
+        },
+        {
+            "word": "Finesse",
+            "part_of_speech": "n.",
+            "meaning": "細致",
+            "example": "He performed the music with finesse and skill.",
+            "example_translation": "他在演奏時展示了細致的技巧。"
+        },
+        {
+            "word": "Condemn",
             "part_of_speech": "v.",
-            "meaning": "列舉、明細",
-            "example": "Let's enumerate the reasons why we can't attend the party.",
-            "example_translation": "讓我們列出我們不能出席派對的理由"
+            "meaning": "譴責",
+            "example": "The judge condemned the murder and sentenced him to death.",
+            "example_translation": "法官譴責了謀殺并判他死刑。"
         },
         {
-            "word": "inherent",
+            "word": "Reclusive",
             "part_of_speech": "adj.",
-            "meaning": "內在的、固有的",
-            "example": "The inherent value of the product is its quality.",
-            "example_translation": "產品的內在價值是其品質"
+            "meaning": "害羞",
+            "example": "The reclusive artist rarely shows his work to the public.",
+            "example_translation": "害羞的藝術家很少將他的作品獻給公眾。"
         },
         {
-            "word": "magnitude",
-            "part_of_speech": "n.",
-            "meaning": "程度、規模",
-            "example": "The magnitude of the earthquake was devastating.",
-            "example_translation": "地震的程度是毀滅性的"
-        },
-        {
-            "word": "rigor",
-            "part_of_speech": "n.",
-            "meaning": "嚴格、認真的",
-            "example": "The professor demanded rigor in her students' work.",
-            "example_translation": "該教授要求學生們工作嚴謹"
-        },
-        {
-            "word": "sensibility",
-            "part_of_speech": "n.",
-            "meaning": "感性、敏感性",
-            "example": "Her sensibility to art was evident in her creations.",
-            "example_translation": "她對藝術的感性在她的作品中可見一斑"
-        },
-        {
-            "word": "enumerate",
-            "part_of_speech": "v.",
-            "meaning": "列舉、明細",
-            "example": "Let's enumerate the reasons why we can't attend the party.",
-            "example_translation": "讓我們列出我們不能出席派對的理由"
-        },
-        {
-            "word": "inconsistency",
-            "part_of_speech": "n.",
-            "meaning": "矛盾、不一致",
-            "example": "The inconsistency in her story was suspicious.",
-            "example_translation": "她故事中的不一致令人懷疑"
-        },
-        {
-            "word": "magnify",
-            "part_of_speech": "v.",
-            "meaning": "放大、放大的",
-            "example": "She magnified the image on the screen.",
-            "example_translation": "她在螢幕上放大了圖像"
-        },
-        {
-            "word": "rhetoric",
-            "part_of_speech": "n.",
-            "meaning": "辭令、口辭",
-            "example": "The politician's rhetoric was persuasive, but lacked substance.",
-            "example_translation": "那政治家的辭令很說服力，但欠缺實質"
-        },
-        {
-            "word": "sensational",
+            "word": "Sophisticated",
             "part_of_speech": "adj.",
-            "meaning": "引人注目、轟動",
-            "example": "The sensational news of the scandal shocked the nation.",
-            "example_translation": "那轟動性的醜聞令全國震驚"
+            "meaning": "復雜",
+            "example": "The new technology is sophisticated and difficult to understand.",
+            "example_translation": "這新技術是複雜的，難以理解。"
         },
         {
-            "word": "enumerate",
-            "part_of_speech": "v.",
-            "meaning": "列舉、明細",
-            "example": "Let's enumerate the reasons why we can't attend the party.",
-            "example_translation": "讓我們列出我們不能出席派對的理由"
+            "word": "Narrator",
+            "part_of_speech": "n.",
+            "meaning": "敘事者",
+            "example": "The narrator told the story in a calm voice.",
+            "example_translation": "敘事者以平和的聲音講了故事。"
         },
         {
-            "word": "inexplicable",
+            "word": "Perplexed",
             "part_of_speech": "adj.",
-            "meaning": "無可解釋的",
-            "example": "The inexplicable behavior of the child was worrying.",
-            "example_translation": "那無可解釋的孩子的行為令人擔憂"
+            "meaning": "困惑",
+            "example": "I was perplexed by the complex math problem.",
+            "example_translation": "我被複雜的數學題目困惑了。"
         },
         {
-            "word": "magnitude",
+            "word": "Rigor",
             "part_of_speech": "n.",
-            "meaning": "程度、規模",
-            "example": "The magnitude of the earthquake was devastating.",
-            "example_translation": "地震的程度是毀滅性的"
+            "meaning": "嚴厲",
+            "example": "The professor demands rigor in his students' work.",
+            "example_translation": "教授要求他的學生工作嚴厲。"
         },
         {
-            "word": "rigor",
-            "part_of_speech": "n.",
-            "meaning": "嚴格、認真的",
-            "example": "The professor demanded rigor in her students' work.",
-            "example_translation": "該教授要求學生們工作嚴謹"
-        },
-        {
-            "word": "sensibility",
-            "part_of_speech": "n.",
-            "meaning": "感性、敏感性",
-            "example": "Her sensibility to art was evident in her creations.",
-            "example_translation": "她對藝術的感性在她的作品中可見一斑"
-        },
-        {
-            "word": "annotate",
-            "part_of_speech": "v.",
-            "meaning": "注解、記註",
-            "example": "She annotated the text with her own thoughts.",
-            "example_translation": "她在文中添加自己的想法"
-        },
-        {
-            "word": "inference",
-            "part_of_speech": "n.",
-            "meaning": "推斷、推論",
-            "example": "The inference from the data was impressive.",
-            "example_translation": "從數據中導出的推論令人印象深刻"
-        },
-        {
-            "word": "magnitude",
-            "part_of_speech": "n.",
-            "meaning": "程度、規模",
-            "example": "The magnitude of the earthquake was devastating.",
-            "example_translation": "地震的程度是毀滅性的"
-        },
-        {
-            "word": "rigor",
-            "part_of_speech": "n.",
-            "meaning": "嚴格、認真的",
-            "example": "The professor demanded rigor in her students' work.",
-            "example_translation": "該教授要求學生們工作嚴謹"
-        },
-        {
-            "word": "sensibility",
-            "part_of_speech": "n.",
-            "meaning": "感性、敏感性",
-            "example": "Her sensibility to art was evident in her creations.",
-            "example_translation": "她對藝術的感性在她的作品中可見一斑"
-        },
-        {
-            "word": "annotate",
-            "part_of_speech": "v.",
-            "meaning": "注解、記註",
-            "example": "She annotated the text with her own thoughts.",
-            "example_translation": "她在文中添加自己的想法"
-        },
-        {
-            "word": "inference",
-            "part_of_speech": "n.",
-            "meaning": "推斷、推論",
-            "example": "The inference from the data was impressive.",
-            "example_translation": "從數據中導出的推論令人印象深刻"
-        },
-        {
-            "word": "narrate",
-            "part_of_speech": "v.",
-            "meaning": "描述、敘述",
-            "example": "She narrated the story of her childhood.",
-            "example_translation": "她描述了她童年故事"
-        },
-        {
-            "word": "phenomenon",
-            "part_of_speech": "n.",
-            "meaning": "現象、特徵",
-            "example": "The phenomenon of Climate Change is alarming.",
-            "example_translation": "氣候變化現象令人震驚"
-        },
-        {
-            "word": "rigorous",
+            "word": "Mute",
             "part_of_speech": "adj.",
-            "meaning": "嚴格、認真的",
-            "example": "The professor was known for her rigorous teaching style.",
-            "example_translation": "該教授以其嚴格的教學風格聞名"
+            "meaning": "沈默",
+            "example": "He remained mute the whole interview.",
+            "example_translation": "他一整場面試都沉默不語。"
+        },
+        {
+            "word": "Inscrutable",
+            "part_of_speech": "adj.",
+            "meaning": "難解",
+            "example": "The artist's meaning was inscrutable to the audience.",
+            "example_translation": "藝術家的意思對觀眾是難解的。"
+        },
+        {
+            "word": "Dissolve",
+            "part_of_speech": "v.",
+            "meaning": "解散",
+            "example": "The company will dissolve in three months.",
+            "example_translation": "公司將在三年內解散。"
+        },
+        {
+            "word": "Narrativize",
+            "part_of_speech": "v.",
+            "meaning": "敘事化",
+            "example": "The historian narrativized the event in detail.",
+            "example_translation": " истор学家以細節的形式敘事化了事件。"
+        },
+        {
+            "word": "Venerate",
+            "part_of_speech": "v.",
+            "meaning": "敬仰",
+            "example": "People venerate their leaders, but also question their authority.",
+            "example_translation": "人們尊敬領導者，同時質疑他的權威。"
+        },
+        {
+            "word": "Reclusive",
+            "part_of_speech": "adj.",
+            "meaning": "害羞",
+            "example": "The reclusive artist rarely shows his work to the public.",
+            "example_translation": "害羞的藝術家很少將他的作品獻給公眾。"
+        },
+        {
+            "word": "Dilettante",
+            "part_of_speech": "n.",
+            "meaning": "庸俗",
+            "example": "He's a dilettante who thinks he can play the piano overnight.",
+            "example_translation": "他是一個庸俗的人，覺的他可以在一夜中學會彈鋼琴。"
+        },
+        {
+            "word": "Persuade",
+            "part_of_speech": "v.",
+            "meaning": "說服",
+            "example": "She tried to persuade him to change his mind.",
+            "example_translation": "她試圖說服他改變他的意見。"
+        },
+        {
+            "word": "Exhaust",
+            "part_of_speech": "v.",
+            "meaning": "疲勞",
+            "example": "He was exhausted after working for 12 hours.",
+            "example_translation": "他工作12個小時後感到疲勞。"
+        },
+        {
+            "word": "Nostalgia",
+            "part_of_speech": "n.",
+            "meaning": "懷舊",
+            "example": "Her nostalgia for the past made her melancholy.",
+            "example_translation": "她對過去的懷舊感令她感到悲傷。"
+        },
+        {
+            "word": "Skeptic",
+            "part_of_speech": "n.",
+            "meaning": "疑心",
+            "example": "The scientist was a skeptic of the new theory.",
+            "example_translation": "那位科學家對新理論持懷疑態度。"
+        },
+        {
+            "word": "Vigor",
+            "part_of_speech": "n.",
+            "meaning": "勁力",
+            "example": "She showed great vigor in the competition.",
+            "example_translation": "她在比賽中展現了強勁的氣勢。"
         }
     ],
     "date": "2026-07-24"
