@@ -13,22 +13,23 @@ def generate_daily_vocabulary():
     client = Groq(api_key=api_key)
     today_str = datetime.now().strftime("%Y-%m-%d")
     
+    # 精確定義五個欄位的要求
     prompt = """
     請幫我隨機挑選 30 個台灣高中「學測英文 (GSAT)」範圍的核心單字。
-    請務必以 JSON 格式回傳，必須嚴格包含以下欄位（絕對不能遺漏 example_translation）：
+    請務必以 JSON 格式回傳，必須嚴格按照以下結構，每個單字都必須包含這五個欄位：
     {
         "title": "今日學測單字挑戰",
         "vocabulary": [
             {
-                "word": "單字",
-                "part_of_speech": "詞性縮寫，例如 v., n., adj.",
-                "meaning": "繁體中文解釋",
+                "word": "英文單字本身",
+                "part_of_speech": "詞性（例如 v., n., adj.）",
+                "meaning": "單字的繁體中文意思",
                 "example": "包含該單字的英文例句",
-                "example_translation": "例句的繁體中文翻譯"
+                "example_translation": "該英文例句的繁體中文翻譯"
             }
         ]
     }
-    請確保 vocabulary 陣列中剛好有 30 個單字，且每個單字都有中文翻譯。
+    請確保 vocabulary 陣列中剛好有 30 個單字。絕對不能缺少任何一個欄位。
     """
 
     try:
@@ -40,7 +41,7 @@ def generate_daily_vocabulary():
             ],
             model="llama-3.1-8b-instant", 
             response_format={"type": "json_object"},
-            max_tokens=5000  # 稍微調降，30個單字非常安全
+            max_tokens=5000 
         )
         
         # 解析 Groq 回傳的 JSON 格式
@@ -50,10 +51,10 @@ def generate_daily_vocabulary():
         
     except Exception as e:
         print(f"產生單字時發生錯誤: {e}")
-        # 如果 API 失敗，提供備用單字
+        # 如果發生錯誤的備案
         return {
             "date": today_str,
-            "title": "單字產生中斷",
+            "title": "單字產生中斷，請重試",
             "vocabulary": [
                 {
                     "word": "opportunity", 
@@ -70,7 +71,7 @@ def main():
     
     with open('article.json', 'w', encoding='utf-8') as f:
         json.dump(article_data, f, ensure_ascii=False, indent=4)
-    print(f"[{article_data['date']}] 30個單字(含翻譯)已成功由 Groq 生成並更新！")
+    print(f"[{article_data['date']}] 30個完整單字資料已成功由 Groq 生成並更新！")
 
 if __name__ == "__main__":
     main()
