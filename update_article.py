@@ -3,7 +3,7 @@ import os
 from datetime import datetime
 from groq import Groq
 
-def generate_daily_article():
+def generate_daily_vocabulary():
     # 讀取 GitHub Secrets 裡的 Groq 金鑰
     api_key = os.environ.get("GROQ_API_KEY")
     if not api_key:
@@ -14,21 +14,24 @@ def generate_daily_article():
     today_str = datetime.now().strftime("%Y-%m-%d")
     
     prompt = """
-    請幫我寫一篇適合台灣高中生閱讀的英文短文（約 150-200 字），難度符合學測英文。
-    主題隨機，可以是科技、環保、心理學、歷史等。
+    請幫我隨機挑選 50 個台灣高中「學測英文 (GSAT)」範圍的核心單字。
     請務必以 JSON 格式回傳，必須嚴格包含以下欄位：
     {
-        "title": "文章標題 (英文)",
-        "content": "文章內容 (英文，適當分段，段落間用 \\n\\n 隔開)",
+        "title": "今日學測單字挑戰 (英文標題，例如 Daily GSAT Vocabulary)",
         "vocabulary": [
-            {"word": "單字", "part_of_speech": "詞性縮寫，例如 v., n., adj.", "meaning": "繁體中文解釋"}
+            {
+                "word": "單字",
+                "part_of_speech": "詞性縮寫，例如 v., n., adj.",
+                "meaning": "繁體中文解釋",
+                "example": "包含該單字的英文例句"
+            }
         ]
     }
-    請挑選 3-5 個學測級別的核心單字放入 vocabulary 中。
+    請確保 vocabulary 陣列中剛好有 50 個單字。
     """
 
     try:
-        # 👑 換上最新的 Llama 3.1 模型
+        # 使用 Llama 3.1 模型
         chat_completion = client.chat.completions.create(
             messages=[
                 {"role": "system", "content": "You are a helpful assistant that strictly outputs JSON."},
@@ -44,24 +47,23 @@ def generate_daily_article():
         return article_data
         
     except Exception as e:
-        print(f"產生文章時發生錯誤: {e}")
-        # 備用文章
+        print(f"產生單字時發生錯誤: {e}")
+        # 如果 API 失敗，提供備用單字
         return {
             "date": today_str,
-            "title": "A Day of Review",
-            "content": "Today our AI took a short break to recharge its circuits. It's a great opportunity for you to review the vocabulary words you've learned over the past few days!\n\nConsistency is the key to mastering a new language.",
+            "title": "System Break - Vocabulary Review",
             "vocabulary": [
-                {"word": "opportunity", "part_of_speech": "n.", "meaning": "機會"},
-                {"word": "consistency", "part_of_speech": "n.", "meaning": "一致性；堅持"}
+                {"word": "opportunity", "part_of_speech": "n.", "meaning": "機會", "example": "This is a great opportunity to review what you've learned."},
+                {"word": "consistency", "part_of_speech": "n.", "meaning": "一致性；堅持", "example": "Consistency is the key to mastering a new language."}
             ]
         }
 
 def main():
-    article_data = generate_daily_article()
+    article_data = generate_daily_vocabulary()
     
     with open('article.json', 'w', encoding='utf-8') as f:
         json.dump(article_data, f, ensure_ascii=False, indent=4)
-    print(f"[{article_data['date']}] 文章已成功由 Groq (Llama 3.1) 生成並更新！")
+    print(f"[{article_data['date']}] 50個單字已成功由 Groq (Llama 3.1) 生成並更新！")
 
 if __name__ == "__main__":
     main()
