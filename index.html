@@ -1,56 +1,32 @@
-<!DOCTYPE html>
-<html lang="zh-TW">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>學測英文每日一文</title>
-    <style>
-        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; background-color: #f9f9f9; }
-        .container { background-color: white; padding: 30px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); }
-        h1 { color: #2c3e50; text-align: center; border-bottom: 2px solid #3498db; padding-bottom: 10px; }
-        .date { text-align: center; color: #7f8c8d; font-size: 0.9em; margin-bottom: 20px; }
-        .content { font-size: 1.1em; color: #34495e; text-align: justify; white-space: pre-line; }
-        .vocab-box { margin-top: 30px; background-color: #e8f4f8; padding: 20px; border-radius: 8px; }
-        .vocab-title { font-weight: bold; color: #2980b9; margin-top: 0; }
-        ul { padding-left: 20px; }
-        li { margin-bottom: 8px; }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <div class="date" id="date">載入中...</div>
-        <h1 id="title">文章標題載入中...</h1>
-        <div class="content" id="content">請稍候，正在載入今日文章...</div>
-        
-        <div class="vocab-box">
-            <h3 class="vocab-title">📚 核心單字 (Vocabulary)</h3>
-            <ul id="vocab-list">
-                <!-- 單字會生成在這裡 -->
-            </ul>
-        </div>
-    </div>
+<script>
+    fetch('article.json')
+        .then(response => response.json())
+        .then(data => {
+            // 顯示日期與標題
+            document.getElementById('date').innerText = data.date;
+            document.getElementById('title').innerText = data.title;
+            
+            // 隱藏或刪除原本顯示文章內容的區塊 (如果你的 HTML 有 content 區塊的話)
+            const contentDiv = document.getElementById('content');
+            if(contentDiv) contentDiv.style.display = 'none';
 
-    <script>
-        // 自動獲取今日文章資料
-        fetch('article.json')
-            .then(response => response.json())
-            .then(data => {
-                document.getElementById('date').innerText = data.date;
-                document.getElementById('title').innerText = data.title;
-                document.getElementById('content').innerText = data.content;
-                
-                const vocabList = document.getElementById('vocab-list');
-                vocabList.innerHTML = ''; // 清空預設內容
-                data.vocabulary.forEach(word => {
-                    let li = document.createElement('li');
-                    li.innerHTML = `<strong>${word.word}</strong> (${word.part_of_speech}) - ${word.meaning}`;
-                    vocabList.appendChild(li);
-                });
-            })
-            .catch(error => {
-                document.getElementById('content').innerText = '無法載入文章，請稍後再試。';
-                console.error('Error fetching article:', error);
+            // 顯示 50 個單字、詞性、翻譯與例句
+            const vocabList = document.getElementById('vocabulary-list');
+            vocabList.innerHTML = ''; // 清空原本的內容
+            
+            data.vocabulary.forEach(item => {
+                const li = document.createElement('li');
+                li.style.marginBottom = "15px"; // 讓單字之間多一點間距
+                li.innerHTML = `
+                    <strong>${item.word}</strong> (${item.part_of_speech}) - ${item.meaning}
+                    <br>
+                    <span style="color: #555; font-style: italic;">例句：${item.example}</span>
+                `;
+                vocabList.appendChild(li);
             });
-    </script>
-</body>
-</html>
+        })
+        .catch(error => {
+            console.error('Error fetching vocabulary:', error);
+            document.getElementById('title').innerText = "載入失敗，請稍後再試。";
+        });
+</script>
