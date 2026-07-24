@@ -17,13 +17,14 @@ def generate_daily_vocabulary():
     請幫我隨機挑選 50 個台灣高中「學測英文 (GSAT)」範圍的核心單字。
     請務必以 JSON 格式回傳，必須嚴格包含以下欄位：
     {
-        "title": "今日學測單字挑戰 (英文標題，例如 Daily GSAT Vocabulary)",
+        "title": "今日學測單字挑戰",
         "vocabulary": [
             {
                 "word": "單字",
                 "part_of_speech": "詞性縮寫，例如 v., n., adj.",
                 "meaning": "繁體中文解釋",
-                "example": "包含該單字的英文例句"
+                "example": "包含該單字的英文例句",
+                "example_translation": "例句的繁體中文翻譯"
             }
         ]
     }
@@ -53,8 +54,13 @@ def generate_daily_vocabulary():
             "date": today_str,
             "title": "System Break - Vocabulary Review",
             "vocabulary": [
-                {"word": "opportunity", "part_of_speech": "n.", "meaning": "機會", "example": "This is a great opportunity to review what you've learned."},
-                {"word": "consistency", "part_of_speech": "n.", "meaning": "一致性；堅持", "example": "Consistency is the key to mastering a new language."}
+                {
+                    "word": "opportunity", 
+                    "part_of_speech": "n.", 
+                    "meaning": "機會", 
+                    "example": "This is a great opportunity to review what you've learned.",
+                    "example_translation": "這是一個複習你所學內容的絕佳機會。"
+                }
             ]
         }
 
@@ -63,7 +69,7 @@ def main():
     
     with open('article.json', 'w', encoding='utf-8') as f:
         json.dump(article_data, f, ensure_ascii=False, indent=4)
-    print(f"[{article_data['date']}] 50個單字已成功由 Groq (Llama 3.1) 生成並更新！")
+    print(f"[{article_data['date']}] 50個單字(含翻譯)已成功由 Groq 生成並更新！")
 
 if __name__ == "__main__":
     main()
