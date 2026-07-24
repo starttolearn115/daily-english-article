@@ -15,7 +15,7 @@ def generate_daily_vocabulary():
     
     prompt = """
     請幫我隨機挑選 50 個台灣高中「學測英文 (GSAT)」範圍的核心單字。
-    請務必以 JSON 格式回傳，必須嚴格包含以下欄位：
+    請務必以 JSON 格式回傳，必須嚴格包含以下欄位（絕對不能遺漏 example_translation）：
     {
         "title": "今日學測單字挑戰",
         "vocabulary": [
@@ -28,11 +28,11 @@ def generate_daily_vocabulary():
             }
         ]
     }
-    請確保 vocabulary 陣列中剛好有 50 個單字。
+    請確保 vocabulary 陣列中剛好有 50 個單字，且每個單字都有中文翻譯。
     """
 
     try:
-        # 使用 Llama 3.1 模型
+        # 使用 Llama 3.1 模型，並大幅提高輸出字數上限
         chat_completion = client.chat.completions.create(
             messages=[
                 {"role": "system", "content": "You are a helpful assistant that strictly outputs JSON."},
@@ -40,6 +40,7 @@ def generate_daily_vocabulary():
             ],
             model="llama-3.1-8b-instant", 
             response_format={"type": "json_object"},
+            max_tokens=6000  # 🌟 增加這行，確保 50 個單字的超長內容不會被切斷
         )
         
         # 解析 Groq 回傳的 JSON 格式
@@ -52,7 +53,7 @@ def generate_daily_vocabulary():
         # 如果 API 失敗，提供備用單字
         return {
             "date": today_str,
-            "title": "System Break - Vocabulary Review",
+            "title": "單字產生中斷 (字數過多或連線超時)",
             "vocabulary": [
                 {
                     "word": "opportunity", 
