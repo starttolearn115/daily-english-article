@@ -1,269 +1,187 @@
 {
-    "title": "今日學測單字挑戰 (英文標題, 以及 Daily GSAT Vocabulary)",
+    "title": "今日學測單字挑戰",
     "vocabulary": [
         {
-            "word": "ambitious",
-            "part_of_speech": "adj.",
-            "meaning": "有雄心壯志的",
-            "example": "She is ambitious to become a successful businesswoman."
+            "word": "ambition",
+            "part_of_speech": "名詞 (n.)",
+            "meaning": "抱持對未來的期望，欲實現的人生目標",
+            "example": "She has high ambitions for her future.",
+            "example_translation": "她對未來充滿了期望"
         },
         {
-            "word": "bitter",
-            "part_of_speech": "adj.",
-            "meaning": "苦澀的、令人反感的",
-            "example": "The bitter taste of the coffee woke me up."
+            "word": "authentic",
+            "part_of_speech": "形容詞 (adj.)",
+            "meaning": "真實的，不偽造的",
+            "example": "The authentic painting was worth millions.",
+            "example_translation": "那真正的繪畫值得數百萬元"
         },
         {
-            "word": "chaotic",
-            "part_of_speech": "adj.",
-            "meaning": "混亂的、無秩序的",
-            "example": "The chaotic traffic made me late for work."
+            "word": "catalyst",
+            "part_of_speech": "名詞 (n.)",
+            "meaning": "觸發因素，促進某一過程的催化劑",
+            "example": "The discovery of the catalyst led to a breakthrough.",
+            "example_translation": "對於那個觸發因素的發現，讓科學家取得了突破"
         },
         {
-            "word": "cooperate",
-            "part_of_speech": "v.",
-            "meaning": "與他人合作、協助",
-            "example": "We must cooperate to achieve our goal."
+            "word": "dilemma",
+            "part_of_speech": "名詞 (n.)",
+            "meaning": "困難的抉擇，兩難的處境",
+            "example": "She faced a dilemma in choosing between two jobs.",
+            "example_translation": "她在面臨選擇兩個工作的困境"
         },
         {
-            "word": "dramatic",
-            "part_of_speech": "adj.",
-            "meaning": "戲劇性的、令人注目的",
-            "example": "The dramatic scene in the movie moved me to tears."
+            "word": "eloquent",
+            "part_of_speech": "形容詞 (adj.)",
+            "meaning": "說話有力，表現得非常自然",
+            "example": "The eloquent speaker won the hearts of the audience.",
+            "example_translation": "那位說話有力的演講者贏得了現場觀眾的芳心"
         },
         {
-            "word": "effortless",
-            "part_of_speech": "adj.",
-            "meaning": "不費力、自然的",
-            "example": "The singer's effortless voice impressed me."
+            "word": "fabricate",
+            "part_of_speech": "動詞 (v.)",
+            "meaning": "製造假的東西，造謠",
+            "example": "Don't fabricate stories to deceive people.",
+            "example_translation": "不要製造故事來騙取他人"
         },
         {
-            "word": "extraordinary",
-            "part_of_speech": "adj.",
-            "meaning": "非凡的、特殊的",
-            "example": "The extraordinary talent of the artist amazed me."
+            "word": "hazardous",
+            "part_of_speech": "形容詞 (adj.)",
+            "meaning": "很危險，風險高",
+            "example": "Hazardous waste can pollute the environment.",
+            "example_translation": "有害廢物可以汙染環境"
         },
         {
-            "word": "fascinate",
-            "part_of_speech": "v.",
-            "meaning": "使某人著迷、引人入勝",
-            "example": "The fascinating city of Paris has charmed me."
+            "word": "inevitable",
+            "part_of_speech": "形容詞 (adj.)",
+            "meaning": "不可避免的，必然的",
+            "example": "The inevitable outcome of the election was clear.",
+            "example_translation": "選舉的結果已經不可避免"
         },
         {
-            "word": "gigantic",
-            "part_of_speech": "adj.",
-            "meaning": "巨大的、非凡的",
-            "example": "The gigantic statue in the city amazed tourists."
+            "word": "jeopardy",
+            "part_of_speech": "名詞 (n.)",
+            "meaning": "危機，風險",
+            "example": "The company is at risk of falling into jeopardy.",
+            "example_translation": "那家公司面臨著倒閉的風險"
         },
         {
-            "word": "happy",
-            "part_of_speech": "adj.",
-            "meaning": "高興的、愉快的",
-            "example": "The happy couple shared their wedding day with friends."
+            "word": "kooky",
+            "part_of_speech": "形容詞 (adj.)",
+            "meaning": "奇怪的，瘋狂的",
+            "example": "The kooky behavior of the artist was inspiring.",
+            "example_translation": "那個藝術家的奇怪行為讓人深受啟發"
         },
         {
-            "word": "heroic",
-            "part_of_speech": "adj.",
-            "meaning": "勇敢的、具有英雄情味的",
-            "example": "The heroic pilot saved the plane from disaster."
+            "word": "laudable",
+            "part_of_speech": "形容詞 (adj.)",
+            "meaning": "可嘉可讚的，值得表揚的",
+            "example": "The laudable effort of the charity is admirable.",
+            "example_translation": "這項功德無窮的慈善事業令人欽佩"
         },
         {
-            "word": "hypocrite",
-            "part_of_speech": "n.",
-            "meaning": "偽君子、兩面人",
-            "example": "The politician was accused of being a hypocrite."
+            "word": "meticulous",
+            "part_of_speech": "形容詞 (adj.)",
+            "meaning": "細致的，非常小心的",
+            "example": "The meticulous work of the craftsman was impressive.",
+            "example_translation": "那個手工藝人的細致工作令人印象深刻"
         },
         {
-            "word": "imagination",
-            "part_of_speech": "n.",
-            "meaning": "想像力、幻想力",
-            "example": "The author's imagination created a vivid world."
+            "word": "necesary",
+            "part_of_speech": "形容詞 (adj.)",
+            "meaning": "必需的，非常重要的",
+            "example": "Water is necesary for human survival.",
+            "example_translation": "水對於人類的生存至關重要"
         },
         {
-            "word": "incredible",
-            "part_of_speech": "adj.",
-            "meaning": "不可思議的、令人驚嘆的",
-            "example": "The incredible view from the mountain top thrilled me."
+            "word": "obstinate",
+            "part_of_speech": "形容詞 (adj.)",
+            "meaning": "頑固的，很不配合的",
+            "example": "The obstinate employee refused to follow the rules.",
+            "example_translation": "那個不願意配合的員工堅持抗拒公司規則"
         },
         {
-            "word": "insane",
-            "part_of_speech": "adj.",
-            "meaning": "瘋狂的、離奇的",
-            "example": "The insane driver ran through the red light."
+            "word": "paradox",
+            "part_of_speech": "名詞 (n.)",
+            "meaning": "矛盾的東西，反差極大的兩個特性",
+            "example": "The paradox of the situation was hard to understand.",
+            "example_translation": "那種令人困惑的情況充滿了矛盾"
         },
         {
-            "word": "justice",
-            "part_of_speech": "n.",
-            "meaning": "正義、公平",
-            "example": "The judge fought for justice in the court."
+            "word": "quarantine",
+            "part_of_speech": "名詞 (n.)",
+            "meaning": "隔離，隔離區",
+            "example": "The patient was sent to the quarantine.",
+            "example_translation": "那個病人被送到隔離區"
         },
         {
-            "word": "kindness",
-            "part_of_speech": "n.",
-            "meaning": "善良、親切",
-            "example": "The doctor showed kindness to the patient."
+            "word": "reckless",
+            "part_of_speech": "形容詞 (adj.)",
+            "meaning": "冒險的，毫不care的",
+            "example": "The reckless driver was fined.",
+            "example_translation": "那位冒險駕駛被罰款"
         },
         {
-            "word": "laughter",
-            "part_of_speech": "n.",
-            "meaning": "笑聲、笑容",
-            "example": "The child's laughter filled the room."
+            "word": "sedation",
+            "part_of_speech": "名詞 (n.)",
+            "meaning": "鎮定，安眠劑",
+            "example": "The patient was given sedation to calm down.",
+            "example_translation": "那位病人被注射鎮定劑"
         },
         {
-            "word": "liberty",
-            "part_of_speech": "n.",
-            "meaning": "自由、獨立",
-            "example": "The activist fought for liberty in the country."
-        },
-        {
-            "word": "love",
-            "part_of_speech": "n.",
-            "meaning": "愛情、愛意",
-            "example": "The couple shared their love story with friends."
-        },
-        {
-            "word": "luck",
-            "part_of_speech": "n.",
-            "meaning": "幸運、機會",
-            "example": "The winner attributed her luck to hard work."
-        },
-        {
-            "word": "majestic",
-            "part_of_speech": "adj.",
-            "meaning": "隆隆的、莊嚴的",
-            "example": "The majestic mountain range thrilled me."
-        },
-        {
-            "word": "masterpiece",
-            "part_of_speech": "n.",
-            "meaning": "杰作、傑出的作品",
-            "example": "The painter created a masterpiece in the art gallery."
-        },
-        {
-            "word": "narrative",
-            "part_of_speech": "adj.",
-            "meaning": "敘事的、具描述性",
-            "example": "The narrative poem told a story of love."
-        },
-        {
-            "word": "opposite",
-            "part_of_speech": "adj.",
-            "meaning": "相反、相反的",
-            "example": "The opposite of good is evil."
-        },
-        {
-            "word": "peace",
-            "part_of_speech": "n.",
-            "meaning": "平靜、和平",
-            "example": "The peaceful lake was reflected in the mist."
-        },
-        {
-            "word": "perfect",
-            "part_of_speech": "adj.",
-            "meaning": "完美的、無缺點的",
-            "example": "The perfect melody thrilled the audience."
-        },
-        {
-            "word": "persistent",
-            "part_of_speech": "adj.",
-            "meaning": "堅持不懈,",
-            "example": "The persistent student finally understood the concept."
-        },
-        {
-            "word": "poetic",
-            "part_of_speech": "adj.",
-            "meaning": "有詩意的、具有感性的",
-            "example": "The poetic language of the poet moved me to tears."
-        },
-        {
-            "word": "positive",
-            "part_of_speech": "adj.",
-            "meaning": "積極的、正面的",
-            "example": "The positive attitude of the manager led the team to success."
-        },
-        {
-            "word": "precarious",
-            "part_of_speech": "adj.",
-            "meaning": "不穩定的、風險的",
-            "example": "The precarious situation required immediate action."
-        },
-        {
-            "word": "precise",
-            "part_of_speech": "adj.",
-            "meaning": "精確的、準確的",
-            "example": "The precise measurement ensured the accuracy of the result."
-        },
-        {
-            "word": "profound",
-            "part_of_speech": "adj.",
-            "meaning": "深刻的、精確的",
-            "example": "The profound impact of the event changed my life."
-        },
-        {
-            "word": "relax",
-            "part_of_speech": "v.",
-            "meaning": "鬆弛、放鬆",
-            "example": "I relaxed on the beach after a long day."
-        },
-        {
-            "word": "respect",
-            "part_of_speech": "n.",
-            "meaning": "尊嚴、尊敬",
-            "example": "The leader respected the opinion of his team."
-        },
-        {
-            "word": "revolution",
-            "part_of_speech": "n.",
-            "meaning": "革命、變革",
-            "example": "The social revolution changed the society."
-        },
-        {
-            "word": "sophisticated",
-            "part_of_speech": "adj.",
-            "meaning": "先進的、複雜的",
-            "example": "The sophisticated technology impressed me."
-        },
-        {
-            "word": "sparkle",
-            "part_of_speech": "v.",
-            "meaning": "閃光、發光",
-            "example": "The diamond sparkle caught my eye."
-        },
-        {
-            "word": "spectacular",
-            "part_of_speech": "adj.",
-            "meaning": "令人嘆為觀止的、壯觀的",
-            "example": "The spectacular fireworks amazed the crowd."
-        },
-        {
-            "word": "sustain",
-            "part_of_speech": "v.",
-            "meaning": "持續、維持",
-            "example": "The team worked to sustain the momentum."
-        },
-        {
-            "word": "tenacious",
-            "part_of_speech": "adj.",
-            "meaning": "堅韌的、不放棄的",
-            "example": "The tenacious researcher solved the mystery."
-        },
-        {
-            "word": "treacherous",
-            "part_of_speech": "adj.",
-            "meaning": "險惡的、可靠性",
-            "example": "The treacherous terrain made the hike challenging."
+            "word": "tremendous",
+            "part_of_speech": "形容詞 (adj.)",
+            "meaning": "非常大的，非常厲害的",
+            "example": "The tremendous progress of the team was amazing.",
+            "example_translation": "那支隊伍的可觀進步令人難以置信"
         },
         {
             "word": "unpredictable",
-            "part_of_speech": "adj.",
-            "meaning": "無法預測的、不可靠的",
-            "example": "The unpredictable weather made planning difficult."
+            "part_of_speech": "形容詞 (adj.)",
+            "meaning": "不可預測的，很不穩定的",
+            "example": "The weather is unpredictable, be prepared.",
+            "example_translation": "不預計好的天氣，要準備好"
         },
         {
-            "word": "unstable",
-            "part_of_speech": "adj.",
-            "meaning": "不可靠的、不穩定的",
-            "example": "The unstable condition of the patient required attention."
+            "word": "vulnerable",
+            "part_of_speech": "形容詞 (adj.)",
+            "meaning": "容易受傷的，很脆弱的",
+            "example": "The vulnerable creature needs protection.",
+            "example_translation": "那個弱小的生物需要保護"
+        },
+        {
+            "word": "wonderful",
+            "part_of_speech": "形容詞 (adj.)",
+            "meaning": "令人驚嘆的，非常好的",
+            "example": "The wonderful scenery was breathtaking.",
+            "example_translation": "那個令人驚嘆的風景令人著迷"
+        },
+        {
+            "word": "xenophobia",
+            "part_of_speech": "名詞 (n.)",
+            "meaning": "排擠外國人的恐懼",
+            "example": "Xenophobia is a serious issue in some countries.",
+            "example_translation": "排外主義在一些國家是一個嚴重的問題"
+        },
+        {
+            "word": "yearning",
+            "part_of_speech": "名詞 (n.)",
+            "meaning": "渴望，願望",
+            "example": "She had a yearning for freedom.",
+            "example_translation": "她渴望自由"
+        },
+        {
+            "word": "zealous",
+            "part_of_speech": "形容詞 (adj.)",
+            "meaning": "非常熱心的，很忠誠的",
+            "example": "The zealous fan was supportive of his team.",
+            "example_translation": "那位非常熱心的球迷對他的球隊很有支持"
+        },
+        {
+            "word": "abundance",
+            "part_of_speech": "名詞 (n.)",
+            "meaning": "豐富的供給，充足的資源",
+            "example": "The abundance of water in the region made it suitable for agriculture.",
+            "example_translation": "當地豐富的水源使得該區適合農業開發"
         }
     ],
     "date": "2026-07-24"
