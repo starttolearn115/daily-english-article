@@ -1,13 +1,209 @@
 {
-    "date": "2026-07-24",
-    "title": "單字產生中斷 (字數過多或連線超時)",
+    "title": "今日學測單字挑戰",
     "vocabulary": [
         {
-            "word": "opportunity",
+            "word": "persistent",
+            "part_of_speech": "v.",
+            "meaning": "反覆、堅持",
+            "example": "She persisted in her efforts to learn the new skill.",
+            "example_translation": "她堅持學習新技巧"
+        },
+        {
+            "word": "nuance",
             "part_of_speech": "n.",
-            "meaning": "機會",
-            "example": "This is a great opportunity to review what you've learned.",
-            "example_translation": "這是一個複習你所學內容的絕佳機會。"
+            "meaning": "細微差別、細細之間",
+            "example": "The nuances of the language were difficult to understand.",
+            "example_translation": "語言的細微差別很難理解"
+        },
+        {
+            "word": "rigorous",
+            "part_of_speech": "adj.",
+            "meaning": "嚴格、認真的",
+            "example": "The professor was known for her rigorous teaching style.",
+            "example_translation": "該教授以其嚴格的教學風格聞名"
+        },
+        {
+            "word": "sophisticated",
+            "part_of_speech": "adj.",
+            "meaning": "複雜、精神性",
+            "example": "The sophisticated design of the building impressed me.",
+            "example_translation": "建築的精緻設計令我印象深刻"
+        },
+        {
+            "word": "enumerate",
+            "part_of_speech": "v.",
+            "meaning": "列舉、明細",
+            "example": "Let's enumerate the reasons why we can't attend the party.",
+            "example_translation": "讓我們列出我們不能出席派對的理由"
+        },
+        {
+            "word": "inherent",
+            "part_of_speech": "adj.",
+            "meaning": "內在的、固有的",
+            "example": "The inherent value of the product is its quality.",
+            "example_translation": "產品的內在價值是其品質"
+        },
+        {
+            "word": "magnitude",
+            "part_of_speech": "n.",
+            "meaning": "程度、規模",
+            "example": "The magnitude of the earthquake was devastating.",
+            "example_translation": "地震的程度是毀滅性的"
+        },
+        {
+            "word": "rigor",
+            "part_of_speech": "n.",
+            "meaning": "嚴格、認真的",
+            "example": "The professor demanded rigor in her students' work.",
+            "example_translation": "該教授要求學生們工作嚴謹"
+        },
+        {
+            "word": "sensibility",
+            "part_of_speech": "n.",
+            "meaning": "感性、敏感性",
+            "example": "Her sensibility to art was evident in her creations.",
+            "example_translation": "她對藝術的感性在她的作品中可見一斑"
+        },
+        {
+            "word": "enumerate",
+            "part_of_speech": "v.",
+            "meaning": "列舉、明細",
+            "example": "Let's enumerate the reasons why we can't attend the party.",
+            "example_translation": "讓我們列出我們不能出席派對的理由"
+        },
+        {
+            "word": "inconsistency",
+            "part_of_speech": "n.",
+            "meaning": "矛盾、不一致",
+            "example": "The inconsistency in her story was suspicious.",
+            "example_translation": "她故事中的不一致令人懷疑"
+        },
+        {
+            "word": "magnify",
+            "part_of_speech": "v.",
+            "meaning": "放大、放大的",
+            "example": "She magnified the image on the screen.",
+            "example_translation": "她在螢幕上放大了圖像"
+        },
+        {
+            "word": "rhetoric",
+            "part_of_speech": "n.",
+            "meaning": "辭令、口辭",
+            "example": "The politician's rhetoric was persuasive, but lacked substance.",
+            "example_translation": "那政治家的辭令很說服力，但欠缺實質"
+        },
+        {
+            "word": "sensational",
+            "part_of_speech": "adj.",
+            "meaning": "引人注目、轟動",
+            "example": "The sensational news of the scandal shocked the nation.",
+            "example_translation": "那轟動性的醜聞令全國震驚"
+        },
+        {
+            "word": "enumerate",
+            "part_of_speech": "v.",
+            "meaning": "列舉、明細",
+            "example": "Let's enumerate the reasons why we can't attend the party.",
+            "example_translation": "讓我們列出我們不能出席派對的理由"
+        },
+        {
+            "word": "inexplicable",
+            "part_of_speech": "adj.",
+            "meaning": "無可解釋的",
+            "example": "The inexplicable behavior of the child was worrying.",
+            "example_translation": "那無可解釋的孩子的行為令人擔憂"
+        },
+        {
+            "word": "magnitude",
+            "part_of_speech": "n.",
+            "meaning": "程度、規模",
+            "example": "The magnitude of the earthquake was devastating.",
+            "example_translation": "地震的程度是毀滅性的"
+        },
+        {
+            "word": "rigor",
+            "part_of_speech": "n.",
+            "meaning": "嚴格、認真的",
+            "example": "The professor demanded rigor in her students' work.",
+            "example_translation": "該教授要求學生們工作嚴謹"
+        },
+        {
+            "word": "sensibility",
+            "part_of_speech": "n.",
+            "meaning": "感性、敏感性",
+            "example": "Her sensibility to art was evident in her creations.",
+            "example_translation": "她對藝術的感性在她的作品中可見一斑"
+        },
+        {
+            "word": "annotate",
+            "part_of_speech": "v.",
+            "meaning": "注解、記註",
+            "example": "She annotated the text with her own thoughts.",
+            "example_translation": "她在文中添加自己的想法"
+        },
+        {
+            "word": "inference",
+            "part_of_speech": "n.",
+            "meaning": "推斷、推論",
+            "example": "The inference from the data was impressive.",
+            "example_translation": "從數據中導出的推論令人印象深刻"
+        },
+        {
+            "word": "magnitude",
+            "part_of_speech": "n.",
+            "meaning": "程度、規模",
+            "example": "The magnitude of the earthquake was devastating.",
+            "example_translation": "地震的程度是毀滅性的"
+        },
+        {
+            "word": "rigor",
+            "part_of_speech": "n.",
+            "meaning": "嚴格、認真的",
+            "example": "The professor demanded rigor in her students' work.",
+            "example_translation": "該教授要求學生們工作嚴謹"
+        },
+        {
+            "word": "sensibility",
+            "part_of_speech": "n.",
+            "meaning": "感性、敏感性",
+            "example": "Her sensibility to art was evident in her creations.",
+            "example_translation": "她對藝術的感性在她的作品中可見一斑"
+        },
+        {
+            "word": "annotate",
+            "part_of_speech": "v.",
+            "meaning": "注解、記註",
+            "example": "She annotated the text with her own thoughts.",
+            "example_translation": "她在文中添加自己的想法"
+        },
+        {
+            "word": "inference",
+            "part_of_speech": "n.",
+            "meaning": "推斷、推論",
+            "example": "The inference from the data was impressive.",
+            "example_translation": "從數據中導出的推論令人印象深刻"
+        },
+        {
+            "word": "narrate",
+            "part_of_speech": "v.",
+            "meaning": "描述、敘述",
+            "example": "She narrated the story of her childhood.",
+            "example_translation": "她描述了她童年故事"
+        },
+        {
+            "word": "phenomenon",
+            "part_of_speech": "n.",
+            "meaning": "現象、特徵",
+            "example": "The phenomenon of Climate Change is alarming.",
+            "example_translation": "氣候變化現象令人震驚"
+        },
+        {
+            "word": "rigorous",
+            "part_of_speech": "adj.",
+            "meaning": "嚴格、認真的",
+            "example": "The professor was known for her rigorous teaching style.",
+            "example_translation": "該教授以其嚴格的教學風格聞名"
         }
-    ]
+    ],
+    "date": "2026-07-24"
 }
