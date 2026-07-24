@@ -41,15 +41,11 @@
             padding: 20px;
             border-left: 6px solid #3498db;
             border-radius: 6px;
-            transition: transform 0.2s;
-        }
-        li:hover {
-            transform: translateX(5px);
-            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
         }
         .word {
             font-size: 1.4em;
             color: #e74c3c;
+            font-weight: bold;
         }
         .pos {
             color: #7f8c8d;
@@ -61,14 +57,22 @@
             font-weight: bold;
             margin-left: 10px;
         }
-        .example {
-            display: block;
+        .example-box {
             margin-top: 12px;
-            color: #555;
-            font-style: italic;
             background-color: #eef2f5;
-            padding: 10px;
-            border-radius: 4px;
+            padding: 12px;
+            border-radius: 6px;
+        }
+        .example-en {
+            color: #444;
+            font-style: italic;
+            display: block;
+            margin-bottom: 5px;
+        }
+        .example-zh {
+            color: #666;
+            font-size: 0.95em;
+            display: block;
         }
     </style>
 </head>
@@ -76,33 +80,36 @@
     <div class="container">
         <h1 id="title">準備單字中...</h1>
         <div class="date" id="date"></div>
-        
-        <!-- 單字列表的容器 -->
         <ul id="vocabulary-list"></ul>
     </div>
 
     <script>
-        // 在網址後面加上時間戳記，強制瀏覽器抓取最新資料（破解快取卡住的問題）
+        // 加上時間戳記強制更新快取，避免手機讀取到舊網頁
         const fetchUrl = 'article.json?t=' + new Date().getTime();
 
         fetch(fetchUrl)
             .then(response => response.json())
             .then(data => {
-                // 顯示日期與標題
                 document.getElementById('date').innerText = data.date;
                 document.getElementById('title').innerText = data.title;
                 
-                // 顯示 50 個單字
                 const vocabList = document.getElementById('vocabulary-list');
                 vocabList.innerHTML = ''; 
                 
                 data.vocabulary.forEach(item => {
                     const li = document.createElement('li');
+                    
+                    // 安全檢查，確保有抓到資料
+                    const transText = item.example_translation ? item.example_translation : "(未提供翻譯)";
+                    
                     li.innerHTML = `
                         <span class="word">${item.word}</span> 
                         <span class="pos">(${item.part_of_speech})</span> 
                         <span class="meaning">${item.meaning}</span>
-                        <span class="example">📝 ${item.example}</span>
+                        <div class="example-box">
+                            <span class="example-en">📝 ${item.example}</span>
+                            <span class="example-zh">💡 ${transText}</span>
+                        </div>
                     `;
                     vocabList.appendChild(li);
                 });
