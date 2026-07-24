@@ -1,32 +1,116 @@
-<script>
-    fetch('article.json')
-        .then(response => response.json())
-        .then(data => {
-            // 顯示日期與標題
-            document.getElementById('date').innerText = data.date;
-            document.getElementById('title').innerText = data.title;
-            
-            // 隱藏或刪除原本顯示文章內容的區塊 (如果你的 HTML 有 content 區塊的話)
-            const contentDiv = document.getElementById('content');
-            if(contentDiv) contentDiv.style.display = 'none';
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>每日學測單字挑戰</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f4f7f6;
+            color: #333;
+        }
+        .container {
+            background-color: #fff;
+            padding: 30px;
+            border-radius: 12px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+        }
+        h1 {
+            text-align: center;
+            color: #2c3e50;
+            margin-bottom: 5px;
+        }
+        .date {
+            text-align: center;
+            color: #7f8c8d;
+            font-size: 0.9em;
+            margin-bottom: 30px;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            background: #fafafa;
+            margin-bottom: 15px;
+            padding: 20px;
+            border-left: 6px solid #3498db;
+            border-radius: 6px;
+            transition: transform 0.2s;
+        }
+        li:hover {
+            transform: translateX(5px);
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+        .word {
+            font-size: 1.4em;
+            color: #e74c3c;
+        }
+        .pos {
+            color: #7f8c8d;
+            font-size: 0.9em;
+            margin-left: 5px;
+        }
+        .meaning {
+            font-size: 1.1em;
+            font-weight: bold;
+            margin-left: 10px;
+        }
+        .example {
+            display: block;
+            margin-top: 12px;
+            color: #555;
+            font-style: italic;
+            background-color: #eef2f5;
+            padding: 10px;
+            border-radius: 4px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1 id="title">準備單字中...</h1>
+        <div class="date" id="date"></div>
+        
+        <!-- 單字列表的容器 -->
+        <ul id="vocabulary-list"></ul>
+    </div>
 
-            // 顯示 50 個單字、詞性、翻譯與例句
-            const vocabList = document.getElementById('vocabulary-list');
-            vocabList.innerHTML = ''; // 清空原本的內容
-            
-            data.vocabulary.forEach(item => {
-                const li = document.createElement('li');
-                li.style.marginBottom = "15px"; // 讓單字之間多一點間距
-                li.innerHTML = `
-                    <strong>${item.word}</strong> (${item.part_of_speech}) - ${item.meaning}
-                    <br>
-                    <span style="color: #555; font-style: italic;">例句：${item.example}</span>
-                `;
-                vocabList.appendChild(li);
+    <script>
+        // 在網址後面加上時間戳記，強制瀏覽器抓取最新資料（破解快取卡住的問題）
+        const fetchUrl = 'article.json?t=' + new Date().getTime();
+
+        fetch(fetchUrl)
+            .then(response => response.json())
+            .then(data => {
+                // 顯示日期與標題
+                document.getElementById('date').innerText = data.date;
+                document.getElementById('title').innerText = data.title;
+                
+                // 顯示 50 個單字
+                const vocabList = document.getElementById('vocabulary-list');
+                vocabList.innerHTML = ''; 
+                
+                data.vocabulary.forEach(item => {
+                    const li = document.createElement('li');
+                    li.innerHTML = `
+                        <span class="word">${item.word}</span> 
+                        <span class="pos">(${item.part_of_speech})</span> 
+                        <span class="meaning">${item.meaning}</span>
+                        <span class="example">📝 ${item.example}</span>
+                    `;
+                    vocabList.appendChild(li);
+                });
+            })
+            .catch(error => {
+                console.error('Error fetching vocabulary:', error);
+                document.getElementById('title').innerText = "資料載入失敗，請檢查 article.json 是否正確生成。";
             });
-        })
-        .catch(error => {
-            console.error('Error fetching vocabulary:', error);
-            document.getElementById('title').innerText = "載入失敗，請稍後再試。";
-        });
-</script>
+    </script>
+</body>
+</html>
