@@ -3,7 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>每日單字挑戰</title>
+    <!-- 將瀏覽器上方的分頁標題固定為每日英語單字 -->
+    <title>每日英語單字</title>
     <style>
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -78,20 +79,19 @@
 </head>
 <body>
     <div class="container">
-        <h1 id="title">準備單字中...</h1>
+        <!-- 將網頁內的大標題永遠固定為每日英語單字 -->
+        <h1>每日英語單字</h1>
         <div class="date" id="date"></div>
         <ul id="vocabulary-list"></ul>
     </div>
 
     <script>
-        // 加上時間戳記強制更新快取，避免手機讀取到舊網頁
         const fetchUrl = 'article.json?t=' + new Date().getTime();
 
         fetch(fetchUrl)
             .then(response => response.json())
             .then(data => {
                 document.getElementById('date').innerText = data.date;
-                document.getElementById('title').innerText = data.title;
                 
                 const vocabList = document.getElementById('vocabulary-list');
                 vocabList.innerHTML = ''; 
@@ -99,7 +99,6 @@
                 data.vocabulary.forEach(item => {
                     const li = document.createElement('li');
                     
-                    // 安全檢查，確保有抓到資料
                     const transText = item.example_translation ? item.example_translation : "(未提供翻譯)";
                     
                     li.innerHTML = `
@@ -116,7 +115,7 @@
             })
             .catch(error => {
                 console.error('Error fetching vocabulary:', error);
-                document.getElementById('title').innerText = "資料載入失敗，請檢查 article.json 是否正確生成。";
+                document.getElementById('date').innerText = "資料載入失敗，請檢查 article.json 是否正確生成。";
             });
     </script>
 </body>
