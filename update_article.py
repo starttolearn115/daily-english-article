@@ -11,23 +11,27 @@ def generate_daily_vocabulary():
     client = Groq(api_key=api_key)
     today_str = datetime.now().strftime("%Y-%m-%d")
     
-    # 數量降為 15，確保 API 能在限制時間內順利產出完整 JSON
+    # 🌟 強化版提示詞：加入難度限制與絕對防呆範例
     prompt = """
-    請幫我隨機挑選 15 個台灣高中「學測英文 (GSAT)」範圍的核心單字。
-    請務必以 JSON 格式回傳，必須嚴格按照以下結構，每個單字都必須包含這五個欄位：
+    請幫我挑選 15 個台灣高中「學測英文 (GSAT)」範圍的進階核心單字 (難度約為高中 7000 單字表的 Level 3 到 Level 5，請勿挑選太簡單的單字如 student, happy)。
+    請務必以 JSON 格式回傳。
+    
+    【重要範例格式】
+    請嚴格參考這個範例的欄位對應方式填寫，"word" 欄位必須是「英文單字本身」，不能填成詞性！
     {
         "title": "今日學測單字挑戰",
         "vocabulary": [
             {
-                "word": "英文單字本身",
-                "part_of_speech": "詞性（例如 v., n., adj.）",
-                "meaning": "單字的繁體中文意思",
-                "example": "包含該單字的英文例句",
-                "example_translation": "該英文例句的繁體中文翻譯"
+                "word": "abandon",
+                "part_of_speech": "v.",
+                "meaning": "放棄；拋棄",
+                "example": "The captain gave the order to abandon the sinking ship.",
+                "example_translation": "船長下令棄沉船。"
             }
         ]
     }
-    請確保 vocabulary 陣列中剛好有 15 個單字。絕對不能缺少任何一個欄位。
+    
+    請依照上述範例格式，生成剛好 15 個單字。絕對不能缺少任何一個欄位。
     """
 
     try:
