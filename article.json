@@ -1,110 +1,110 @@
 {
-    "title": "今日學測單字挑戰",
+    "title": "台灣高中GSAT英文單字挑戰",
     "vocabulary": [
         {
-            "word": "n.",
-            "part_of_speech": "名詞",
-            "meaning": "學生",
-            "example": "The student has finished his homework.",
-            "example_translation": "學生完成了他的作業"
+            "word": "abdicate",
+            "part_of_speech": "v.",
+            "meaning": "放棄王位或職權，退位",
+            "example": "The king abdicated the throne after a long period of illness.",
+            "example_translation": "因疾病長期虛弱，而退位"
         },
         {
-            "word": "adj.",
-            "part_of_speech": "形容詞",
-            "meaning": "幸福的",
-            "example": "My life is happy.",
-            "example_translation": "我的生活很幸福"
+            "word": "accommodate",
+            "part_of_speech": "v.",
+            "meaning": "滿足某人的需求或願望，安排住宿或食宿",
+            "example": "The hotel can accommodate 500 guests.",
+            "example_translation": "該飯店可容納500位賓客"
         },
         {
-            "word": "v.",
-            "part_of_speech": "動詞",
-            "meaning": "跳",
-            "example": "She dances well.",
-            "example_translation": "她跳舞得很好"
+            "word": "articulate",
+            "part_of_speech": "v.",
+            "meaning": "表達自己想法或意見，講清楚",
+            "example": "He is an articulate speaker and can express himself well.",
+            "example_translation": "他是一位能表達自己意見的演講者"
         },
         {
-            "word": "n.",
-            "part_of_speech": "名詞",
-            "meaning": "書本",
-            "example": "I have a book in my bag.",
-            "example_translation": "我在背包裡有本書"
+            "word": "bolster",
+            "part_of_speech": "v.",
+            "meaning": "增加或加強某事物，鞏固",
+            "example": "The new policy will bolster the economy.",
+            "example_translation": "新政策將會鞏固經濟"
         },
         {
-            "word": "n.",
-            "part_of_speech": "名詞",
-            "meaning": "城市",
-            "example": "The city is beautiful.",
-            "example_translation": "這個城市很美"
+            "word": "catalog",
+            "part_of_speech": "v.",
+            "meaning": "列出書目、商品等",
+            "example": "The bookstore will catalog all the new arrivals.",
+            "example_translation": "書店會將新到貨書目列出"
         },
         {
-            "word": "v.",
-            "part_of_speech": "動詞",
-            "meaning": "學習",
-            "example": "He studies English every day.",
-            "example_translation": "他每天都在學習英文"
+            "word": "cathartic",
+            "part_of_speech": "adj.",
+            "meaning": "有療癒作用的",
+            "example": "The movie was cathartic and allowed me to release my emotions.",
+            "example_translation": "該影片療癒性很強，使我能夠釋放自己的情緒"
         },
         {
-            "word": "n.",
-            "part_of_speech": "名詞",
-            "meaning": "學校",
-            "example": "The school is close to my home.",
-            "example_translation": "該學校就在我家附近"
+            "word": "compelling",
+            "part_of_speech": "adj.",
+            "meaning": "引人入勝的",
+            "example": "The story was compelling and kept me hooked.",
+            "example_translation": "該故事引人入勝，令我深陷其中"
         },
         {
-            "word": "adj.",
-            "part_of_speech": "形容詞",
-            "meaning": "容易的",
-            "example": "This question is easy.",
-            "example_translation": "這個問題很簡單"
+            "word": "debonair",
+            "part_of_speech": "adj.",
+            "meaning": "有禮貌、幽默的",
+            "example": "He is a debonair gentleman and always treats people kindly.",
+            "example_translation": "他是一位有禮貌且和藹的人，總是對人親善"
         },
         {
-            "word": "n.",
-            "part_of_speech": "名詞",
-            "meaning": "書寫",
-            "example": "He writes a letter to his friend.",
-            "example_translation": "他寫了一封信給他的朋友"
+            "word": "depreciate",
+            "part_of_speech": "v.",
+            "meaning": "減少價值，評價下降",
+            "example": "The value of the stock depreciated after the company went bankrupt.",
+            "example_translation": "該公司破產後，股票的價值大幅下跌"
         },
         {
-            "word": "v.",
-            "part_of_speech": "動詞",
-            "meaning": "吃",
-            "example": "I eat a sandwich for lunch.",
-            "example_translation": "我中午吃了個三明治"
+            "word": "disseminate",
+            "part_of_speech": "v.",
+            "meaning": "散佈或傳播",
+            "example": "The news of his death quickly disseminated around the world.",
+            "example_translation": "他的死亡消息在全球迅速散佈"
         },
         {
-            "word": "adj.",
-            "part_of_speech": "形容詞",
-            "meaning": "熱情的",
-            "example": "She is a passionate singer.",
-            "example_translation": "她是一個熱情的歌手"
+            "word": "equivocal",
+            "part_of_speech": "adj.",
+            "meaning": "含糊不清，難於理解",
+            "example": "The teacher made an equivocal statement and left us confused.",
+            "example_translation": "老師的說話含糊不清，令人糾結"
         },
         {
-            "word": "n.",
-            "part_of_speech": "名詞",
-            "meaning": "運動會",
-            "example": "The Olympics are very popular.",
-            "example_translation": "奧運會很受歡迎"
+            "word": "exacerbate",
+            "part_of_speech": "v.",
+            "meaning": "使某狀況惡化",
+            "example": "The heat wave exacerbated the drought in the region.",
+            "example_translation": "那股熱天氣使當地的缺水問題惡化"
         },
         {
-            "word": "v.",
-            "part_of_speech": "動詞",
-            "meaning": "思考",
-            "example": "He thinks about his future.",
-            "example_translation": "他在思考他的未來"
+            "word": "facilitate",
+            "part_of_speech": "v.",
+            "meaning": "使某事物變得容易或順暢",
+            "example": "The new software will facilitate communication between departments.",
+            "example_translation": "新的軟體將會使各部門之間的溝通變得更順暢"
         },
         {
-            "word": "n.",
-            "part_of_speech": "名詞",
-            "meaning": "天氣",
-            "example": "The weather is bad today.",
-            "example_translation": "今天的天氣很差"
+            "word": "inherently",
+            "part_of_speech": "adv.",
+            "meaning": "內在性地存在著",
+            "example": "This product is inherently safe and non-toxic.",
+            "example_translation": "該產品內在性地存在著安全性和無毒性"
         },
         {
-            "word": "n.",
-            "part_of_speech": "名詞",
-            "meaning": "音樂",
-            "example": "She loves music.",
-            "example_translation": "她喜歡音樂"
+            "word": "maneuver",
+            "part_of_speech": "v.",
+            "meaning": "進行戰術或戰略的行動",
+            "example": "The company will maneuver to stay competitive in the market.",
+            "example_translation": "該公司將會進行戰略行動來維持在市場的競爭力"
         }
     ],
     "date": "2026-07-25"
