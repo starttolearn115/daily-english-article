@@ -1,110 +1,110 @@
 {
-    "title": "台灣高中GSAT英文單字挑戰",
+    "title": "高雄高中英文單字挑戰",
     "vocabulary": [
         {
-            "word": "abdicate",
-            "part_of_speech": "v.",
-            "meaning": "放棄王位或職權，退位",
-            "example": "The king abdicated the throne after a long period of illness.",
-            "example_translation": "因疾病長期虛弱，而退位"
-        },
-        {
-            "word": "accommodate",
-            "part_of_speech": "v.",
-            "meaning": "滿足某人的需求或願望，安排住宿或食宿",
-            "example": "The hotel can accommodate 500 guests.",
-            "example_translation": "該飯店可容納500位賓客"
-        },
-        {
-            "word": "articulate",
-            "part_of_speech": "v.",
-            "meaning": "表達自己想法或意見，講清楚",
-            "example": "He is an articulate speaker and can express himself well.",
-            "example_translation": "他是一位能表達自己意見的演講者"
-        },
-        {
-            "word": "bolster",
-            "part_of_speech": "v.",
-            "meaning": "增加或加強某事物，鞏固",
-            "example": "The new policy will bolster the economy.",
-            "example_translation": "新政策將會鞏固經濟"
-        },
-        {
-            "word": "catalog",
-            "part_of_speech": "v.",
-            "meaning": "列出書目、商品等",
-            "example": "The bookstore will catalog all the new arrivals.",
-            "example_translation": "書店會將新到貨書目列出"
-        },
-        {
-            "word": "cathartic",
+            "word": "ambivalent",
             "part_of_speech": "adj.",
-            "meaning": "有療癒作用的",
-            "example": "The movie was cathartic and allowed me to release my emotions.",
-            "example_translation": "該影片療癒性很強，使我能夠釋放自己的情緒"
+            "meaning": "有兩種或以上同時或相互對立的意義",
+            "example": "She felt ambivalent about the movie because she couldn't decide whether it was good or bad.",
+            "example_translation": "她對這個電影感到難以下定調，因為她不能決定它是好的還是不佳的。"
         },
         {
-            "word": "compelling",
+            "word": "enigmatic",
             "part_of_speech": "adj.",
-            "meaning": "引人入勝的",
-            "example": "The story was compelling and kept me hooked.",
-            "example_translation": "該故事引人入勝，令我深陷其中"
+            "meaning": "讓人難以理解的，神秘的",
+            "example": "The enigmatic smile of the Mona Lisa is a mystery that has puzzled art lovers for centuries.",
+            "example_translation": "蒙娜麗莎那神秘的微笑是困扰藝術愛好者數個世紀的疑團之一。"
         },
         {
-            "word": "debonair",
+            "word": "fastidious",
             "part_of_speech": "adj.",
-            "meaning": "有禮貌、幽默的",
-            "example": "He is a debonair gentleman and always treats people kindly.",
-            "example_translation": "他是一位有禮貌且和藹的人，總是對人親善"
+            "meaning": "要求精確性和細致性的",
+            "example": "She is a fastidious cook who pays attention to every detail in making a dish.",
+            "example_translation": "她是一個要求精益求精的廚師，即使是在烹飪一道菜，也都在於精心準備。"
         },
         {
-            "word": "depreciate",
-            "part_of_speech": "v.",
-            "meaning": "減少價值，評價下降",
-            "example": "The value of the stock depreciated after the company went bankrupt.",
-            "example_translation": "該公司破產後，股票的價值大幅下跌"
-        },
-        {
-            "word": "disseminate",
-            "part_of_speech": "v.",
-            "meaning": "散佈或傳播",
-            "example": "The news of his death quickly disseminated around the world.",
-            "example_translation": "他的死亡消息在全球迅速散佈"
-        },
-        {
-            "word": "equivocal",
+            "word": "habitual",
             "part_of_speech": "adj.",
-            "meaning": "含糊不清，難於理解",
-            "example": "The teacher made an equivocal statement and left us confused.",
-            "example_translation": "老師的說話含糊不清，令人糾結"
+            "meaning": "習慣性的",
+            "example": "He has a habitual habit of checking his phone every hour.",
+            "example_translation": "他有習慣性的習慣，每隔一小時就會檢查他的手機。"
         },
         {
-            "word": "exacerbate",
-            "part_of_speech": "v.",
-            "meaning": "使某狀況惡化",
-            "example": "The heat wave exacerbated the drought in the region.",
-            "example_translation": "那股熱天氣使當地的缺水問題惡化"
+            "word": "impulsive",
+            "part_of_speech": "adj.",
+            "meaning": "做事不經深思熟慮的",
+            "example": "He made an impulsive decision to quit his job without thinking about the consequences.",
+            "example_translation": "他做出了毫不考慮後果的決定，一下子就想辭掉工作。"
         },
         {
-            "word": "facilitate",
-            "part_of_speech": "v.",
-            "meaning": "使某事物變得容易或順暢",
-            "example": "The new software will facilitate communication between departments.",
-            "example_translation": "新的軟體將會使各部門之間的溝通變得更順暢"
+            "word": "incessant",
+            "part_of_speech": "adj.",
+            "meaning": "不斷，連續不斷的",
+            "example": "The incessant noise from the construction site was a nuisance to the neighbors.",
+            "example_translation": "建築工地的不斷噪音對鄰居來說是一大打擾。"
         },
         {
-            "word": "inherently",
-            "part_of_speech": "adv.",
-            "meaning": "內在性地存在著",
-            "example": "This product is inherently safe and non-toxic.",
-            "example_translation": "該產品內在性地存在著安全性和無毒性"
+            "word": "inherent",
+            "part_of_speech": "adj.",
+            "meaning": "內在的，固有的",
+            "example": "The inherent beauty of the nature is something that we should appreciate.",
+            "example_translation": "自然界內在的美是一件我們應該欣賞的事物。"
         },
         {
-            "word": "maneuver",
-            "part_of_speech": "v.",
-            "meaning": "進行戰術或戰略的行動",
-            "example": "The company will maneuver to stay competitive in the market.",
-            "example_translation": "該公司將會進行戰略行動來維持在市場的競爭力"
+            "word": "meticulous",
+            "part_of_speech": "adj.",
+            "meaning": "非常小心的，精細的",
+            "example": "She is a meticulous person who pays attention to every detail in her work.",
+            "example_translation": "她是一個非常注重小節的女人，在她的工作中都會非常認真地對待每個細節。"
+        },
+        {
+            "word": "nonchalant",
+            "part_of_speech": "adj.",
+            "meaning": "漫不經心的，懶散的",
+            "example": "He was nonchalant about the news, even though it was about him.",
+            "example_translation": "他對這個新聞毫不在意，雖然它說到的是他自己。"
+        },
+        {
+            "word": "ostensible",
+            "part_of_speech": "adj.",
+            "meaning": "表面上的，似乎的",
+            "example": "The ostensible reason for his absence was that he was sick, but the truth was he was on vacation.",
+            "example_translation": "他缺席的表面原因是他病了，但事實上他正在度假。"
+        },
+        {
+            "word": "precise",
+            "part_of_speech": "adj.",
+            "meaning": "精確的",
+            "example": "The precise measurement of the ingredients is crucial in making a good dish.",
+            "example_translation": "食材的精確用量對烹飪一道菜是非常關鍵的。"
+        },
+        {
+            "word": "reckless",
+            "part_of_speech": "adj.",
+            "meaning": "不顧後果，莽撞的",
+            "example": "He was reckless in driving and caused an accident.",
+            "example_translation": "他一味不顧後果開車，結果造成了交通事故。"
+        },
+        {
+            "word": "reclusive",
+            "part_of_speech": "adj.",
+            "meaning": "孤僻的，避人眼目的",
+            "example": "He was a reclusive person who avoided social contact.",
+            "example_translation": "他是一個孤僻的人，一般都避免與他人打交道。"
+        },
+        {
+            "word": "vigilant",
+            "part_of_speech": "adj.",
+            "meaning": "常常警覺，警戒的",
+            "example": "The vigilant police officer caught the thief red-handed.",
+            "example_translation": "那位警衛警惕的警察當街抓到小偷。"
+        },
+        {
+            "word": "voracious",
+            "part_of_speech": "adj.",
+            "meaning": "食量大，吃得非常多",
+            "example": "He is a voracious eater who can finish a whole pizza by himself.",
+            "example_translation": "他是一個食量大的人，能夠一個人吃掉整盤披薩。"
         }
     ],
     "date": "2026-07-25"
