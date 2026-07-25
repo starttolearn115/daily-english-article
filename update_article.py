@@ -4,18 +4,16 @@ from datetime import datetime
 from groq import Groq
 
 def generate_daily_vocabulary():
-    # 讀取 GitHub Secrets 裡的 Groq 金鑰
     api_key = os.environ.get("GROQ_API_KEY")
     if not api_key:
         raise ValueError("找不到 GROQ_API_KEY，請確認 GitHub Secrets 設定是否正確。")
     
-    # 初始化 Groq 客戶端
     client = Groq(api_key=api_key)
     today_str = datetime.now().strftime("%Y-%m-%d")
     
-    # 精確定義五個欄位的要求
+    # 數量降為 15，確保 API 能在限制時間內順利產出完整 JSON
     prompt = """
-    請幫我隨機挑選 30 個台灣高中「學測英文 (GSAT)」範圍的核心單字。
+    請幫我隨機挑選 15 個台灣高中「學測英文 (GSAT)」範圍的核心單字。
     請務必以 JSON 格式回傳，必須嚴格按照以下結構，每個單字都必須包含這五個欄位：
     {
         "title": "今日學測單字挑戰",
@@ -29,11 +27,10 @@ def generate_daily_vocabulary():
             }
         ]
     }
-    請確保 vocabulary 陣列中剛好有 30 個單字。絕對不能缺少任何一個欄位。
+    請確保 vocabulary 陣列中剛好有 15 個單字。絕對不能缺少任何一個欄位。
     """
 
     try:
-        # 使用 Llama 3.1 模型
         chat_completion = client.chat.completions.create(
             messages=[
                 {"role": "system", "content": "You are a helpful assistant that strictly outputs JSON."},
@@ -41,17 +38,15 @@ def generate_daily_vocabulary():
             ],
             model="llama-3.1-8b-instant", 
             response_format={"type": "json_object"},
-            max_tokens=5000 
+            max_tokens=4000 
         )
         
-        # 解析 Groq 回傳的 JSON 格式
         article_data = json.loads(chat_completion.choices[0].message.content)
         article_data["date"] = today_str 
         return article_data
         
     except Exception as e:
         print(f"產生單字時發生錯誤: {e}")
-        # 如果發生錯誤的備案
         return {
             "date": today_str,
             "title": "單字產生中斷，請重試",
@@ -71,7 +66,7 @@ def main():
     
     with open('article.json', 'w', encoding='utf-8') as f:
         json.dump(article_data, f, ensure_ascii=False, indent=4)
-    print(f"[{article_data['date']}] 30個完整單字資料已成功由 Groq 生成並更新！")
+    print(f"[{article_data['date']}] 15個完整單字資料已成功由 Groq 生成並更新！")
 
 if __name__ == "__main__":
     main()
