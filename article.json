@@ -1,118 +1,111 @@
 {
-    "title": "台灣高中英文單字挑戰",
+    "title": "台灣高中學測英文單字挑戰",
     "vocabulary": [
         {
-            "word": "acquiesce",
+            "word": "abandon",
             "part_of_speech": "v.",
-            "meaning": "順從；同意",
-            "example": "Despite her reservations, she acquiesced to his decision.",
-            "example_translation": "儘管她有所猶豫，但她最後同意他的決定。"
+            "meaning": "放棄；拋棄",
+            "example": "The captain gave the order to abandon the sinking ship.",
+            "example_translation": "船長下令棄沉船。"
         },
         {
-            "word": "ambivalent",
+            "word": "ambitious",
             "part_of_speech": "adj.",
-            "meaning": "既贊成又反對；兩面皆非",
-            "example": "The ambivalent crowd was unable to make a decision.",
-            "example_translation": "矛盾心態的觀眾們無法做出決定。"
+            "meaning": "有抱負的；有野心的",
+            "example": "She is an ambitious entrepreneur, always looking for new opportunities.",
+            "example_translation": "她是一位有抱負的企業家，總是在找新的機會。"
         },
         {
-            "word": "catalyst",
+            "word": "celebration",
             "part_of_speech": "n.",
-            "meaning": "促進因子；使變化的因素",
-            "example": "The discovery was hailed as a major catalyst for the advancement of medicine.",
-            "example_translation": "這項發現被譽為醫學進展的重大推動力。"
+            "meaning": "慶祝活動；祝賀式",
+            "example": "The wedding celebration was a grand affair.",
+            "example_translation": "婚禮慶祝活動非常盛大。"
         },
         {
-            "word": "deprecate",
+            "word": "communicate",
             "part_of_speech": "v.",
-            "meaning": "降低評價；貶低",
-            "example": "He deprecate the politician's lack of integrity.",
-            "example_translation": "他批評了那名政治家的誠信問題。"
+            "meaning": "溝通；傳達訊息",
+            "example": "She needed to communicate her ideas to the team.",
+            "example_translation": "她需要把自己的想法告訴團隊。"
         },
         {
-            "word": "dilettante",
-            "part_of_speech": "n.",
-            "meaning": "業余好手；無實際能力的專家",
-            "example": "The artist was accused of being a dilettante because of his lack of technical skill.",
-            "example_translation": "藝術家因缺乏技術熟練而被質疑是業餘好手。"
-        },
-        {
-            "word": "egregious",
+            "word": "confident",
             "part_of_speech": "adj.",
-            "meaning": "非常嚴重；極度明顯",
-            "example": "The egregious error in the report wasted a lot of time and resources.",
-            "example_translation": "該報告中的嚴重錯誤浪費了很多時間和資源。"
+            "meaning": "自信的；有信心的",
+            "example": "He is a confident leader, always making decisions.",
+            "example_translation": "他是一位自信的領袖，總是在做決策。"
         },
         {
-            "word": "enigmatic",
+            "word": "decisive",
             "part_of_speech": "adj.",
-            "meaning": "迷惑人心；難於解釋",
-            "example": "The enigmatic smile of the Mona Lisa has puzzled art lovers for centuries.",
-            "example_translation": "蒙娜麗莎的奇怪微笑從古至今困惑了藝術愛好者。"
+            "meaning": "果斷的；有決定力",
+            "example": "The decision was made by a decisive vote.",
+            "example_translation": "決議由果斷的投票做出。"
         },
         {
-            "word": "exacerbate",
+            "word": "dramatic",
+            "part_of_speech": "adj.",
+            "meaning": "戲劇性的；令人驚嚇的",
+            "example": "The dramatic change in the weather was unexpected.",
+            "example_translation": "天氣的戲劇性變化令人意想不到。"
+        },
+        {
+            "word": "emphasize",
             "part_of_speech": "v.",
-            "meaning": "使情況惡化；加劇",
-            "example": "The economic crisis was exacerbated by the government's mishandling of the situation.",
-            "example_translation": "政府處理不當加劇了經濟危機。"
+            "meaning": "強調；著重",
+            "example": "She emphasized the importance of punctuality.",
+            "example_translation": "她強調了正確的時間非常重要。"
         },
         {
-            "word": "fastidious",
-            "part_of_speech": "adj.",
-            "meaning": "挑剔；要求十分嚴格",
-            "example": "The fastidious editor scrutinized every detail of the manuscript.",
-            "example_translation": "嚴謹的編輯審查了手稿的每一項詳細。"
-        },
-        {
-            "word": "heterogeneous",
-            "part_of_speech": "adj.",
-            "meaning": "混合性質；多樣之物",
-            "example": "The city's heterogeneous population reflects its rich cultural heritage.",
-            "example_translation": "城市混合的人口體現了城市豐富的文化遺產。"
-        },
-        {
-            "word": "incongruous",
-            "part_of_speech": "adj.",
-            "meaning": "不相稱；矛盾",
-            "example": "The incongruous note in the symphony was played by mistake.",
-            "example_translation": "交響曲中的不相稱音是錯誤的。"
-        },
-        {
-            "word": "mellifluous",
-            "part_of_speech": "adj.",
-            "meaning": "甜美的；悅耳的",
-            "example": "The singer's mellifluous voice was a perfect match for the music.",
-            "example_translation": "歌手甜美的聲音與音樂完美地匹配。"
-        },
-        {
-            "word": "nadir",
-            "part_of_speech": "n.",
-            "meaning": "谷底；最低點",
-            "example": "The company's stock price reached its nadir during the financial crisis.",
-            "example_translation": "公司的股票價格在經濟危機期間達到谷底。"
-        },
-        {
-            "word": "obfuscate",
+            "word": "evaluate",
             "part_of_speech": "v.",
-            "meaning": "讓人難以理解；使模糊",
-            "example": "The lawyer's complex explanation obfuscated the simple truth.",
-            "example_translation": "法律界的複雜說明使簡單的事實變得令人不明白。"
+            "meaning": "評估；估價",
+            "example": "The manager evaluated the performance of the employees.",
+            "example_translation": "管理者評估員工的表現。"
         },
         {
-            "word": "perfidious",
+            "word": "experienced",
             "part_of_speech": "adj.",
-            "meaning": "不忠誠的；背叛的",
-            "example": "The perfidious act of treason stunned the nation.",
-            "example_translation": "不忠誠的行為使整個國家感到震驚。"
+            "meaning": "有經驗的；熟練的",
+            "example": "He is an experienced pilot with thousands of hours of flight time.",
+            "example_translation": "他是一位有經驗的駕駛，有上千小時的飛行時間。"
         },
         {
-            "word": "perspicacious",
+            "word": "harmonic",
             "part_of_speech": "adj.",
-            "meaning": "敏銳的；有洞察力",
-            "example": "The perspicacious detective solved the case by paying close attention to details.",
-            "example_translation": "敏銳有洞察力的偵探通過留意細節解決了案件。"
+            "meaning": "和諧的；統一的",
+            "example": "The music was played in a harmonic style.",
+            "example_translation": "音樂以和諧的形式呈現。"
+        },
+        {
+            "word": "hypothetical",
+            "part_of_speech": "adj.",
+            "meaning": "假設的；仮設的",
+            "example": "The scientist proposed a hypothetical explanation for the phenomenon.",
+            "example_translation": "科學家提出了一個假设的解釋。"
+        },
+        {
+            "word": "illuminate",
+            "part_of_speech": "v.",
+            "meaning": "照亮；使清楚",
+            "example": "The lamp illuminated the dark room.",
+            "example_translation": "燈光照亮了黑暗的房間。"
+        },
+        {
+            "word": "independent",
+            "part_of_speech": "adj.",
+            "meaning": "獨立的；自主的",
+            "example": "The country is an independent state with its own government.",
+            "example_translation": "該國是一個獨立的國家，有自己的政府。"
+        },
+        {
+            "word": "meticulous",
+            "part_of_speech": "adj.",
+            "meaning": "精確的；小心的",
+            "example": "The artist was meticulous in her work.",
+            "example_translation": "藝術家對她的作品非常小心。"
         }
     ],
-    "date": "2026-07-25"
+    "date": "2026-07-26"
 }
