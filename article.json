@@ -1,111 +1,104 @@
 {
-    "title": "台灣高中學測英文單字挑戰",
+    "title": "台北學測英文範圍單字挑戰",
     "vocabulary": [
         {
-            "word": "abandon",
+            "word": "abdicate",
             "part_of_speech": "v.",
-            "meaning": "放棄；拋棄",
-            "example": "The captain gave the order to abandon the sinking ship.",
-            "example_translation": "船長下令棄沉船。"
+            "meaning": "將皇位讓出的意思，放棄權力",
+            "example": "The king abdicated the throne after a long reign.",
+            "example_translation": "國王在長年的統治之後放棄了王位。"
         },
         {
             "word": "ambitious",
             "part_of_speech": "adj.",
-            "meaning": "有抱負的；有野心的",
-            "example": "She is an ambitious entrepreneur, always looking for new opportunities.",
-            "example_translation": "她是一位有抱負的企業家，總是在找新的機會。"
+            "meaning": "雄心勃勃的；求勝心切的",
+            "example": "She was an ambitious businesswoman who worked hard to succeed.",
+            "example_translation": "她是一個雄心勃勃的商務女性，她努力工作以取得成功。"
         },
         {
-            "word": "celebration",
-            "part_of_speech": "n.",
-            "meaning": "慶祝活動；祝賀式",
-            "example": "The wedding celebration was a grand affair.",
-            "example_translation": "婚禮慶祝活動非常盛大。"
+            "word": "cathartic",
+            "part_of_speech": "adj.",
+            "meaning": "治療性的；療癒性的",
+            "example": "Watching the movie was a cathartic experience for me.",
+            "example_translation": "看這部電影是一種治療性的體驗。"
         },
         {
-            "word": "communicate",
+            "word": "diligent",
+            "part_of_speech": "adj.",
+            "meaning": "勤勉的；勤苦的",
+            "example": "She was a diligent student who always studied hard.",
+            "example_translation": "她是一個勤勉的學生，一直努力學習。"
+        },
+        {
+            "word": "evasive",
+            "part_of_speech": "adj.",
+            "meaning": "躲避的；搖擺不定的",
+            "example": "He was evasive in his answers to the interviewer.",
+            "example_translation": "他在面試中回答中躲避或搖擺不定。"
+        },
+        {
+            "word": "fluctuate",
             "part_of_speech": "v.",
-            "meaning": "溝通；傳達訊息",
-            "example": "She needed to communicate her ideas to the team.",
-            "example_translation": "她需要把自己的想法告訴團隊。"
+            "meaning": "波動；起落",
+            "example": "The stock prices fluctuated wildly during the crisis.",
+            "example_translation": "在危機期間，股票價格波動很劇烈。"
         },
         {
-            "word": "confident",
+            "word": "heterogeneous",
             "part_of_speech": "adj.",
-            "meaning": "自信的；有信心的",
-            "example": "He is a confident leader, always making decisions.",
-            "example_translation": "他是一位自信的領袖，總是在做決策。"
+            "meaning": "種類不同的；多樣化的",
+            "example": "The city's population was heterogeneous and diverse.",
+            "example_translation": "這座城市的人口種類多樣化且多樣多姿。"
         },
         {
-            "word": "decisive",
+            "word": "inert",
             "part_of_speech": "adj.",
-            "meaning": "果斷的；有決定力",
-            "example": "The decision was made by a decisive vote.",
-            "example_translation": "決議由果斷的投票做出。"
+            "meaning": "不活躍的，不動的",
+            "example": "The inert gas in the container was not reactive.",
+            "example_translation": "儲罐內的不活躍氣體不活躍而無反應。"
         },
         {
-            "word": "dramatic",
-            "part_of_speech": "adj.",
-            "meaning": "戲劇性的；令人驚嚇的",
-            "example": "The dramatic change in the weather was unexpected.",
-            "example_translation": "天氣的戲劇性變化令人意想不到。"
-        },
-        {
-            "word": "emphasize",
+            "word": "maneuver",
             "part_of_speech": "v.",
-            "meaning": "強調；著重",
-            "example": "She emphasized the importance of punctuality.",
-            "example_translation": "她強調了正確的時間非常重要。"
+            "meaning": "運用手段；巧妙地做",
+            "example": "The diplomat maneuvered the situation to avoid conflict.",
+            "example_translation": "外交官巧妙地運用手段避免了危機。"
         },
         {
-            "word": "evaluate",
-            "part_of_speech": "v.",
-            "meaning": "評估；估價",
-            "example": "The manager evaluated the performance of the employees.",
-            "example_translation": "管理者評估員工的表現。"
-        },
-        {
-            "word": "experienced",
+            "word": "malleable",
             "part_of_speech": "adj.",
-            "meaning": "有經驗的；熟練的",
-            "example": "He is an experienced pilot with thousands of hours of flight time.",
-            "example_translation": "他是一位有經驗的駕駛，有上千小時的飛行時間。"
+            "meaning": "易被塑造的；可塑性的",
+            "example": "The clay was malleable and easy to shape.",
+            "example_translation": "黏土非常易被塑造可自由塑造。"
         },
         {
-            "word": "harmonic",
+            "word": "obtuse",
             "part_of_speech": "adj.",
-            "meaning": "和諧的；統一的",
-            "example": "The music was played in a harmonic style.",
-            "example_translation": "音樂以和諧的形式呈現。"
+            "meaning": "不敏感的；無感性的",
+            "example": "He was an obtuse person who didn't understand humor.",
+            "example_translation": "他是不敏感的人，對幽默感沒有任何了解"
         },
         {
-            "word": "hypothetical",
+            "word": "paradoxical",
             "part_of_speech": "adj.",
-            "meaning": "假設的；仮設的",
-            "example": "The scientist proposed a hypothetical explanation for the phenomenon.",
-            "example_translation": "科學家提出了一個假设的解釋。"
+            "meaning": "矛盾的；錯綜複雜的",
+            "example": "The statement was paradoxical and hard to understand.",
+            "example_translation": "這個聲明是很奇怪，難被理解！"
         },
         {
-            "word": "illuminate",
-            "part_of_speech": "v.",
-            "meaning": "照亮；使清楚",
-            "example": "The lamp illuminated the dark room.",
-            "example_translation": "燈光照亮了黑暗的房間。"
-        },
-        {
-            "word": "independent",
+            "word": "perspicacious",
             "part_of_speech": "adj.",
-            "meaning": "獨立的；自主的",
-            "example": "The country is an independent state with its own government.",
-            "example_translation": "該國是一個獨立的國家，有自己的政府。"
+            "meaning": "敏感的；睿智的",
+            "example": "She was a perspicacious observer of human behavior.",
+            "example_translation": "她是一位觀察人類行為的敏感性非常強的觀察者。"
         },
         {
-            "word": "meticulous",
+            "word": "recalcitrant",
             "part_of_speech": "adj.",
-            "meaning": "精確的；小心的",
-            "example": "The artist was meticulous in her work.",
-            "example_translation": "藝術家對她的作品非常小心。"
+            "meaning": "抗拒的；不願合作的",
+            "example": "The child was recalcitrant and refused to listen.",
+            "example_translation": "孩子拒絕合作不願意聽從指令"
         }
     ],
-    "date": "2026-07-26"
+    "date": "2026-07-27"
 }
