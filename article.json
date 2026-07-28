@@ -1,104 +1,125 @@
 {
-    "title": "台北學測英文範圍單字挑戰",
+    "title": "高三學測英文單字挑戰",
     "vocabulary": [
         {
             "word": "abdicate",
             "part_of_speech": "v.",
-            "meaning": "將皇位讓出的意思，放棄權力",
-            "example": "The king abdicated the throne after a long reign.",
-            "example_translation": "國王在長年的統治之後放棄了王位。"
+            "meaning": "放棄皇位；棄位",
+            "example": "The king abdicated the throne after a coup.",
+            "example_translation": "在政變之後，國王棄位退下 throne"
         },
         {
-            "word": "ambitious",
+            "word": "acoustic",
             "part_of_speech": "adj.",
-            "meaning": "雄心勃勃的；求勝心切的",
-            "example": "She was an ambitious businesswoman who worked hard to succeed.",
-            "example_translation": "她是一個雄心勃勃的商務女性，她努力工作以取得成功。"
+            "meaning": "聲音的；與聲音相關",
+            "example": "The room had a poor acoustic, with a long reverberation time.",
+            "example_translation": "那間房間的音響效果很差，回音時間很長"
         },
         {
-            "word": "cathartic",
-            "part_of_speech": "adj.",
-            "meaning": "治療性的；療癒性的",
-            "example": "Watching the movie was a cathartic experience for me.",
-            "example_translation": "看這部電影是一種治療性的體驗。"
-        },
-        {
-            "word": "diligent",
-            "part_of_speech": "adj.",
-            "meaning": "勤勉的；勤苦的",
-            "example": "She was a diligent student who always studied hard.",
-            "example_translation": "她是一個勤勉的學生，一直努力學習。"
-        },
-        {
-            "word": "evasive",
-            "part_of_speech": "adj.",
-            "meaning": "躲避的；搖擺不定的",
-            "example": "He was evasive in his answers to the interviewer.",
-            "example_translation": "他在面試中回答中躲避或搖擺不定。"
-        },
-        {
-            "word": "fluctuate",
+            "word": "amputate",
             "part_of_speech": "v.",
-            "meaning": "波動；起落",
-            "example": "The stock prices fluctuated wildly during the crisis.",
-            "example_translation": "在危機期間，股票價格波動很劇烈。"
+            "meaning": "切除身體的一部分",
+            "example": "The doctor had to amputate the leg to save the man's life.",
+            "example_translation": "醫生不得不切除他腿才可以挽救他的生命"
         },
         {
-            "word": "heterogeneous",
-            "part_of_speech": "adj.",
-            "meaning": "種類不同的；多樣化的",
-            "example": "The city's population was heterogeneous and diverse.",
-            "example_translation": "這座城市的人口種類多樣化且多樣多姿。"
-        },
-        {
-            "word": "inert",
-            "part_of_speech": "adj.",
-            "meaning": "不活躍的，不動的",
-            "example": "The inert gas in the container was not reactive.",
-            "example_translation": "儲罐內的不活躍氣體不活躍而無反應。"
-        },
-        {
-            "word": "maneuver",
+            "word": "articulate",
             "part_of_speech": "v.",
-            "meaning": "運用手段；巧妙地做",
-            "example": "The diplomat maneuvered the situation to avoid conflict.",
-            "example_translation": "外交官巧妙地運用手段避免了危機。"
+            "meaning": "表達清楚；講出來",
+            "example": "The professor tried to articulate the complex idea.",
+            "example_translation": "教授試著將複雜的念頭表達出來"
         },
         {
-            "word": "malleable",
-            "part_of_speech": "adj.",
-            "meaning": "易被塑造的；可塑性的",
-            "example": "The clay was malleable and easy to shape.",
-            "example_translation": "黏土非常易被塑造可自由塑造。"
+            "word": "cathedral",
+            "part_of_speech": "n.",
+            "meaning": "主教座堂",
+            "example": "The cathedral was a beautiful example of Gothic architecture.",
+            "example_translation": "主教座堂是哥德式建築的美麗典範"
         },
         {
-            "word": "obtuse",
+            "word": "coincident",
             "part_of_speech": "adj.",
-            "meaning": "不敏感的；無感性的",
-            "example": "He was an obtuse person who didn't understand humor.",
-            "example_translation": "他是不敏感的人，對幽默感沒有任何了解"
+            "meaning": "巧合的；發生一致",
+            "example": "It's a coincident that we both like the same movie.",
+            "example_translation": "我們兩個人都喜歡相同的電影，真是巧合"
         },
         {
-            "word": "paradoxical",
-            "part_of_speech": "adj.",
-            "meaning": "矛盾的；錯綜複雜的",
-            "example": "The statement was paradoxical and hard to understand.",
-            "example_translation": "這個聲明是很奇怪，難被理解！"
+            "word": "commend",
+            "part_of_speech": "v.",
+            "meaning": "推薦；讚揚",
+            "example": "The boss commended the employee for her hard work.",
+            "example_translation": "「老闆」勉勵員工辛苦工作的她"
         },
         {
-            "word": "perspicacious",
-            "part_of_speech": "adj.",
-            "meaning": "敏感的；睿智的",
-            "example": "She was a perspicacious observer of human behavior.",
-            "example_translation": "她是一位觀察人類行為的敏感性非常強的觀察者。"
+            "word": "compassion",
+            "part_of_speech": "n.",
+            "meaning": "同情心；憐憫",
+            "example": "The charity organization showed compassion to the victims.",
+            "example_translation": "「慈善組織」為受害者展現同情心"
         },
         {
-            "word": "recalcitrant",
+            "word": "concise",
             "part_of_speech": "adj.",
-            "meaning": "抗拒的；不願合作的",
-            "example": "The child was recalcitrant and refused to listen.",
-            "example_translation": "孩子拒絕合作不願意聽從指令"
+            "meaning": "簡明的；清楚的",
+            "example": "The professor tried to write a concise report.",
+            "example_translation": "「教授」試著寫出簡明的報告"
+        },
+        {
+            "word": "condone",
+            "part_of_speech": "v.",
+            "meaning": "默許；容忍",
+            "example": "The government condoned the protest.",
+            "example_translation": "「政府」默許抗議行動"
+        },
+        {
+            "word": "confident",
+            "part_of_speech": "adj.",
+            "meaning": "自信的；有把握的",
+            "example": "The student was confident in her answers.",
+            "example_translation": "「學生」對自己的答案很有信心"
+        },
+        {
+            "word": "conglomerate",
+            "part_of_speech": "n.",
+            "meaning": "大企業；合併企業",
+            "example": "The conglomerate was formed by the merge of two companies.",
+            "example_translation": "「大企業」是由兩家公司合併成立的"
+        },
+        {
+            "word": "consensus",
+            "part_of_speech": "n.",
+            "meaning": "共識；一致的意見",
+            "example": "The team worked hard to reach a consensus.",
+            "example_translation": "「團隊」努力達成一致"
+        },
+        {
+            "word": "corroborate",
+            "part_of_speech": "v.",
+            "meaning": "證明；確認",
+            "example": "The evidence corroborate the suspect's confession.",
+            "example_translation": "「證據」確認了嫌疑人供詞的真實性"
+        },
+        {
+            "word": "critical",
+            "part_of_speech": "adj.",
+            "meaning": "批評的；重要的",
+            "example": "The reviewer gave a critical analysis of the movie.",
+            "example_translation": "「評論家」關於這部電影的評論很批評"
+        },
+        {
+            "word": "culminate",
+            "part_of_speech": "v.",
+            "meaning": "達到頂點；完成",
+            "example": "The project culminated in a successful conclusion.",
+            "example_translation": "「計畫」最終成功完成"
+        },
+        {
+            "word": "deductive",
+            "part_of_speech": "adj.",
+            "meaning": "演繹的；推理的",
+            "example": "The detective used deductive reasoning to solve the case.",
+            "example_translation": "「偵探」使用演繹推理來解決案件"
         }
     ],
-    "date": "2026-07-27"
+    "date": "2026-07-28"
 }
