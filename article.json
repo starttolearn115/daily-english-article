@@ -1,13 +1,104 @@
 {
-    "date": "2026-07-30",
-    "title": "單字產生中斷，請重試",
+    "title": "高三英文學測單字挑戰",
     "vocabulary": [
         {
-            "word": "opportunity",
+            "word": "abstruse",
+            "part_of_speech": "adj.",
+            "meaning": "難懂的；晦涩的",
+            "example": "The professor's lecture was so abstruse that few students understood it.",
+            "example_translation": "這位老師的演講太晦涩了，沒有多少學生能夠了解。"
+        },
+        {
+            "word": "conundrum",
             "part_of_speech": "n.",
-            "meaning": "機會",
-            "example": "This is a great opportunity to review what you've learned.",
-            "example_translation": "這是一個複習你所學內容的絕佳機會。"
+            "meaning": "難於解釋或解答的問題；謎語",
+            "example": "The philosopher's words created a conundrum that puzzled the audience.",
+            "example_translation": "這位哲學家的話題製造了一個難題，使聽眾感到迷惑。"
+        },
+        {
+            "word": "diplomatic",
+            "part_of_speech": "adj.",
+            "meaning": "外交的；有禮貌的",
+            "example": "The diplomat's speech was diplomatic and avoided any offense.",
+            "example_translation": "這位外交官的演講非常有禮貌，并且避免了任何藠舌。"
+        },
+        {
+            "word": "enigmatic",
+            "part_of_speech": "adj.",
+            "meaning": "難理解的；謎一般的",
+            "example": "The artist's enigmatic smile was a subject of debate among art lovers.",
+            "example_translation": "這位藝術家的笑容充滿了秘密，成為美術愛好者關注的話題。"
+        },
+        {
+            "word": "equivocate",
+            "part_of_speech": "v.",
+            "meaning": "暫時不能決定，猶豫不決",
+            "example": "The student equivocated over which college to attend.",
+            "example_translation": "這名學生猶豫不決，無法確定要入哪個學院。"
+        },
+        {
+            "word": "fastidious",
+            "part_of_speech": "adj.",
+            "meaning": "要求嚴格的；挑剔的",
+            "example": "The editor was fastidious about grammar and punctuation.",
+            "example_translation": "編輯對文法和標點非常要求嚴格。"
+        },
+        {
+            "word": "inexplicable",
+            "part_of_speech": "adj.",
+            "meaning": "無法解釋的；無理的",
+            "example": "The phenomenon was inexplicable and remained a mystery.",
+            "example_translation": "這一現象無從解釋，留下了秘密。"
+        },
+        {
+            "word": "laissez-faire",
+            "part_of_speech": "n.",
+            "meaning": "任其自然發展；讓它自由發展",
+            "example": "The government adopted a laissez-faire policy towards businesses.",
+            "example_translation": "政府對企業採取了放任自由發展的政策。"
+        },
+        {
+            "word": "magnanimous",
+            "part_of_speech": "adj.",
+            "meaning": "有大量心胸；寬宏大量",
+            "example": "The winner was magnanimous in defeat and praised her opponent.",
+            "example_translation": "勝者在輸給人時，表現出豪放的胸懷，並向對手表現了敬意。"
+        },
+        {
+            "word": "necromancy",
+            "part_of_speech": "n.",
+            "meaning": "巫術的技術；通靈術",
+            "example": "The movie depicted a necromancer who communicated with spirits.",
+            "example_translation": "這部電影描繪了一位通靈術師與亡靈溝通。"
+        },
+        {
+            "word": "obfuscate",
+            "part_of_speech": "v.",
+            "meaning": "使令人混淆；使無法清楚明白",
+            "example": "The politician's words obfuscated the issue and confused the public.",
+            "example_translation": "這名政治人物的話題使公眾對這個問題茫然不解。"
+        },
+        {
+            "word": "paradoxical",
+            "part_of_speech": "adj.",
+            "meaning": "悖論似的；矛盾的",
+            "example": "The poet's paradoxical views on life were a subject of discussion.",
+            "example_translation": "這位詩人的對生死的看法充滿矛盾性，使人感到困惑。"
+        },
+        {
+            "word": "perspicacious",
+            "part_of_speech": "adj.",
+            "meaning": "敏察的；敏感的",
+            "example": "The detective was perspicacious and solved the mystery.",
+            "example_translation": "這名探員敏感、觀察力的很高，成功解決了一樁案件。"
+        },
+        {
+            "word": "peruse",
+            "part_of_speech": "v.",
+            "meaning": "逐字逐句閱讀；細查",
+            "example": "The researcher perused the document to find relevant information.",
+            "example_translation": "這位研究員逐字逐句的閱讀這份文件，以便找出有關資訊。"
         }
-    ]
+    ],
+    "date": "2026-07-31"
 }
