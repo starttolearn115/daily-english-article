@@ -1,118 +1,118 @@
 {
-    "title": "高中英文學測挑戰單字",
+    "title": "台展進階學測英文單字",
     "vocabulary": [
         {
-            "word": "abandon",
+            "word": "abdicate",
             "part_of_speech": "v.",
-            "meaning": "放棄；拋棄",
-            "example": "The captain gave the order to abandon the sinking ship.",
-            "example_translation": "船長下令棄沉船。"
+            "meaning": "退位",
+            "example": "The king was forced to abdicate the throne.",
+            "example_translation": "國王被迫放棄皇位。"
         },
         {
-            "word": "persuade",
+            "word": "affinity",
+            "part_of_speech": "n.",
+            "meaning": "相似或共同之性",
+            "example": "They had a natural affinity for each other.",
+            "example_translation": "他們天生適合彼此。"
+        },
+        {
+            "word": "ambitious",
+            "part_of_speech": "adj.",
+            "meaning": "有抱負、勤奮",
+            "example": "She was an ambitious young woman with big dreams.",
+            "example_translation": "她是一位有抱負的年輕女子，目標很大。"
+        },
+        {
+            "word": "anticipate",
             "part_of_speech": "v.",
-            "meaning": "說服；感動",
-            "example": "The lawyer tried to persuade the judge to leniency.",
-            "example_translation": "律師試圖說服法官降刑。"
+            "meaning": "早一步認識或者預料",
+            "example": "I anticipate a successful outcome.",
+            "example_translation": "我預期結果會成功。"
         },
         {
-            "word": "narrative",
-            "part_of_speech": "n.",
-            "meaning": "敘事的；敘事文",
-            "example": "The novel is a narrative about her childhood.",
-            "example_translation": "這本小說是她的兒童時代的敘事文。"
-        },
-        {
-            "word": "rhetoric",
-            "part_of_speech": "n.",
-            "meaning": "辯論術；修辭學",
-            "example": "The politician's rhetoric fell flat with the audience.",
-            "example_translation": "政客的辯論術在觀眾中毫無聲效。"
-        },
-        {
-            "word": "utopian",
+            "word": "ardent",
             "part_of_speech": "adj.",
-            "meaning": "理想的；樂土",
-            "example": "The utopian community sought to create a perfect society.",
-            "example_translation": "理想社區力求建立一個完美的社會。"
+            "meaning": "熱情的",
+            "example": "She was an ardent follower of the rock band.",
+            "example_translation": "她是一個重頭熱情的搖滾樂迷。"
         },
         {
-            "word": "philosophy",
+            "word": "autonomy",
             "part_of_speech": "n.",
-            "meaning": "哲學",
-            "example": "The professor's philosophy class was always popular.",
-            "example_translation": "教授的哲學課常常人氣很高。"
+            "meaning": "自律",
+            "example": "The country fought for autonomy from its colonial powers.",
+            "example_translation": "國家為了獲得自律而跟殖民地鬥爭。"
         },
         {
-            "word": "diplomacy",
+            "word": "catalyst",
             "part_of_speech": "n.",
-            "meaning": "外交",
-            "example": "The diplomat used diplomacy to resolve the conflict.",
-            "example_translation": "外交官使用外交手段解決了紛爭。"
+            "meaning": "催化劑",
+            "example": "A catalyst can change the direction of a chemical reaction.",
+            "example_translation": "催化者可以改變化學反應的方向。"
         },
         {
-            "word": "nostalgia",
+            "word": "commemorate",
+            "part_of_speech": "v.",
+            "meaning": "紀念",
+            "example": "We will commemorate the 100th anniversary of the war.",
+            "example_translation": "我們將紀念戰爭的百年光榮。"
+        },
+        {
+            "word": "compensation",
             "part_of_speech": "n.",
-            "meaning": "懷舊感",
-            "example": "The old photograph evoked a sense of nostalgia in me.",
-            "example_translation": "那張老照片令我感受到懷舊。"
+            "meaning": "補償",
+            "example": "She received compensation for the lost salary.",
+            "example_translation": "她獲得了薪水缺失的補償。"
         },
         {
-            "word": "irony",
+            "word": "conscience",
             "part_of_speech": "n.",
-            "meaning": "諷刺",
-            "example": "It was an irony that he won the award for losing.",
-            "example_translation": "他敗北後獲得獎項，真是諷刺。"
+            "meaning": "良心",
+            "example": "Her conscience bothered her about what she had done.",
+            "example_translation": "她良心不安想知道自己做什麼。"
         },
         {
-            "word": "paradox",
-            "part_of_speech": "n.",
-            "meaning": "矛盾",
-            "example": "The paradox of the statement was that it was both true and false.",
-            "example_translation": "這個陈述的矛盾之處是在同時是真實和虛假的。"
+            "word": "delegated",
+            "part_of_speech": "v.",
+            "meaning": "轉包或授權",
+            "example": "The manager delegated some tasks to his team members.",
+            "example_translation": "經理將一些任務轉包給團隊成員。"
         },
         {
-            "word": "elitist",
+            "word": "eloquent",
             "part_of_speech": "adj.",
-            "meaning": "貴族情結",
-            "example": "The elitist attitude of the teacher was evident in his words.",
-            "example_translation": "老師表達的是貴族情結的態度。"
+            "meaning": "說話風趣、說得好聽",
+            "example": "The politician was eloquent and persuasive.",
+            "example_translation": "政客的演講風趣且令人信服。"
         },
         {
-            "word": "fascination",
+            "word": "enumerate",
+            "part_of_speech": "v.",
+            "meaning": "數目",
+            "example": "She tried to enumerate all the reasons for her decision.",
+            "example_translation": "她試圖數學上對選擇做出原因。"
+        },
+        {
+            "word": "exacerbate",
+            "part_of_speech": "v.",
+            "meaning": "加重問題",
+            "example": "The bad weather exacerbated the flood situation.",
+            "example_translation": "天氣惡劣使洪水情況惡化。"
+        },
+        {
+            "word": "facilitate",
+            "part_of_speech": "v.",
+            "meaning": "進行",
+            "example": "The program will facilitate communication between countries.",
+            "example_translation": "該計畫將促進國家間的溝通。"
+        },
+        {
+            "word": "hypocrite",
             "part_of_speech": "n.",
-            "meaning": "迷惑",
-            "example": "The film left me in a state of fascination.",
-            "example_translation": "那部電影令我陷入迷惑。"
-        },
-        {
-            "word": "rebellion",
-            "part_of_speech": "n.",
-            "meaning": "叛亂",
-            "example": "The rebellion was sparked by the government's decision.",
-            "example_translation": "政府的決策觸發了叛亂。"
-        },
-        {
-            "word": "optimism",
-            "part_of_speech": "n.",
-            "meaning": "樂觀",
-            "example": "The optimism of the people helped them to overcome the challenges.",
-            "example_translation": "人民的樂觀態度幫助他們克服困難。"
-        },
-        {
-            "word": "sophistry",
-            "part_of_speech": "n.",
-            "meaning": "曲解",
-            "example": "The politician's sophistry was evident in his speech.",
-            "example_translation": "政客的曲解意圖在演講中表露无遗。"
-        },
-        {
-            "word": "utile",
-            "part_of_speech": "adj.",
-            "meaning": "有用的",
-            "example": "The book was a utile guide for the travelers.",
-            "example_translation": "那本書是為旅行者所寫的有用指南。"
+            "meaning": "偽善者",
+            "example": "He was called a hypocrite for his inconsistent behavior.",
+            "example_translation": "他因為行為不一而被人譏為偽君子。"
         }
     ],
-    "date": "2026-07-31"
+    "date": "2026-08-01"
 }
