@@ -1,118 +1,125 @@
 {
-    "title": "台展進階學測英文單字",
+    "title": "高階學測英文單字挑戰",
     "vocabulary": [
         {
-            "word": "abdicate",
+            "word": "persuade",
             "part_of_speech": "v.",
-            "meaning": "退位",
-            "example": "The king was forced to abdicate the throne.",
-            "example_translation": "國王被迫放棄皇位。"
+            "meaning": "說服；哄騙",
+            "example": "She tried to persuade me to join her club.",
+            "example_translation": "她試圖勸我加入她的社團。"
         },
         {
-            "word": "affinity",
-            "part_of_speech": "n.",
-            "meaning": "相似或共同之性",
-            "example": "They had a natural affinity for each other.",
-            "example_translation": "他們天生適合彼此。"
-        },
-        {
-            "word": "ambitious",
+            "word": "reliable",
             "part_of_speech": "adj.",
-            "meaning": "有抱負、勤奮",
-            "example": "She was an ambitious young woman with big dreams.",
-            "example_translation": "她是一位有抱負的年輕女子，目標很大。"
+            "meaning": "可靠的；信任的",
+            "example": "This is a reliable source of information.",
+            "example_translation": "這是一個可靠的資訊來源。"
         },
         {
-            "word": "anticipate",
-            "part_of_speech": "v.",
-            "meaning": "早一步認識或者預料",
-            "example": "I anticipate a successful outcome.",
-            "example_translation": "我預期結果會成功。"
+            "word": "narrative",
+            "part_of_speech": "n.",
+            "meaning": "敘事；報告",
+            "example": "The narrative of the story was engaging.",
+            "example_translation": "故事的敘述很吸引人。"
         },
         {
-            "word": "ardent",
+            "word": "sophisticated",
             "part_of_speech": "adj.",
-            "meaning": "熱情的",
-            "example": "She was an ardent follower of the rock band.",
-            "example_translation": "她是一個重頭熱情的搖滾樂迷。"
+            "meaning": "複雜的；高尚的",
+            "example": "This is a sophisticated piece of art.",
+            "example_translation": "這是一件複雜的藝術品。"
         },
         {
-            "word": "autonomy",
-            "part_of_speech": "n.",
-            "meaning": "自律",
-            "example": "The country fought for autonomy from its colonial powers.",
-            "example_translation": "國家為了獲得自律而跟殖民地鬥爭。"
-        },
-        {
-            "word": "catalyst",
-            "part_of_speech": "n.",
-            "meaning": "催化劑",
-            "example": "A catalyst can change the direction of a chemical reaction.",
-            "example_translation": "催化者可以改變化學反應的方向。"
-        },
-        {
-            "word": "commemorate",
-            "part_of_speech": "v.",
-            "meaning": "紀念",
-            "example": "We will commemorate the 100th anniversary of the war.",
-            "example_translation": "我們將紀念戰爭的百年光榮。"
-        },
-        {
-            "word": "compensation",
-            "part_of_speech": "n.",
-            "meaning": "補償",
-            "example": "She received compensation for the lost salary.",
-            "example_translation": "她獲得了薪水缺失的補償。"
-        },
-        {
-            "word": "conscience",
-            "part_of_speech": "n.",
-            "meaning": "良心",
-            "example": "Her conscience bothered her about what she had done.",
-            "example_translation": "她良心不安想知道自己做什麼。"
-        },
-        {
-            "word": "delegated",
-            "part_of_speech": "v.",
-            "meaning": "轉包或授權",
-            "example": "The manager delegated some tasks to his team members.",
-            "example_translation": "經理將一些任務轉包給團隊成員。"
-        },
-        {
-            "word": "eloquent",
+            "word": "rigorous",
             "part_of_speech": "adj.",
-            "meaning": "說話風趣、說得好聽",
-            "example": "The politician was eloquent and persuasive.",
-            "example_translation": "政客的演講風趣且令人信服。"
+            "meaning": "嚴格的；嚴酷的",
+            "example": "The rigorous training helped her improve her skills.",
+            "example_translation": "嚴格的訓練幫助她提高她自己的技能。"
         },
         {
-            "word": "enumerate",
-            "part_of_speech": "v.",
-            "meaning": "數目",
-            "example": "She tried to enumerate all the reasons for her decision.",
-            "example_translation": "她試圖數學上對選擇做出原因。"
+            "word": "vulnerable",
+            "part_of_speech": "adj.",
+            "meaning": "脆弱的；易受攻擊的",
+            "example": "The children are vulnerable to disease in this environment.",
+            "example_translation": "這些兒童在這個環境下容易感染疾病。"
         },
         {
-            "word": "exacerbate",
-            "part_of_speech": "v.",
-            "meaning": "加重問題",
-            "example": "The bad weather exacerbated the flood situation.",
-            "example_translation": "天氣惡劣使洪水情況惡化。"
+            "word": "skeptical",
+            "part_of_speech": "adj.",
+            "meaning": "疑慮的；懷疑的",
+            "example": "I'm skeptical about the new policy.",
+            "example_translation": "我對新的政策有懷疑。"
         },
         {
-            "word": "facilitate",
-            "part_of_speech": "v.",
-            "meaning": "進行",
-            "example": "The program will facilitate communication between countries.",
-            "example_translation": "該計畫將促進國家間的溝通。"
+            "word": "persistent",
+            "part_of_speech": "adj.",
+            "meaning": "堅強的；執着的",
+            "example": "She was persistent in her efforts to achieve her goal.",
+            "example_translation": "她堅持不懈地努力達到她的目標。"
         },
         {
-            "word": "hypocrite",
+            "word": "complicated",
+            "part_of_speech": "adj.",
+            "meaning": "複雜的；混亂的",
+            "example": "The complicated problem required a good solution.",
+            "example_translation": "那個複雜的問題需要一個好的解決方案。"
+        },
+        {
+            "word": "futile",
+            "part_of_speech": "adj.",
+            "meaning": "徒勞的；無效的",
+            "example": "Her efforts to persuade him were futile.",
+            "example_translation": "她試圖說服他卻徒勞無成。"
+        },
+        {
+            "word": "meticulous",
+            "part_of_speech": "adj.",
+            "meaning": "小心的；細緻的",
+            "example": "She was meticulous in her work.",
+            "example_translation": "她工作細心。"
+        },
+        {
+            "word": "rigor",
             "part_of_speech": "n.",
-            "meaning": "偽善者",
-            "example": "He was called a hypocrite for his inconsistent behavior.",
-            "example_translation": "他因為行為不一而被人譏為偽君子。"
+            "meaning": "嚴格的標準；嚴酷的條件",
+            "example": "The team was under a lot of rigor to meet the deadline.",
+            "example_translation": "團隊面臨著壓力，期限的嚴格要求。"
+        },
+        {
+            "word": "surrender",
+            "part_of_speech": "v.",
+            "meaning": "投降；放棄",
+            "example": "The army was forced to surrender after a long battle.",
+            "example_translation": "軍隊在長時間的戰鬥中被迫投降。"
+        },
+        {
+            "word": "reform",
+            "part_of_speech": "n.",
+            "meaning": "改革；修正",
+            "example": "The government decided to reform the education system.",
+            "example_translation": "政府決定改革教育系統。"
+        },
+        {
+            "word": "exploit",
+            "part_of_speech": "v.",
+            "meaning": "開發；利用",
+            "example": "The company is exploiting the new market.",
+            "example_translation": "公司正在開發新的市場。"
+        },
+        {
+            "word": "sacrifice",
+            "part_of_speech": "v.",
+            "meaning": "犧牲；犧牲",
+            "example": "She sacrificed her chance for happiness.",
+            "example_translation": "她犧牲了她對幸福的追求。"
+        },
+        {
+            "word": "comprehensive",
+            "part_of_speech": "adj.",
+            "meaning": "全面性的；涵蓋性的",
+            "example": "The report was comprehensive and included all the necessary information.",
+            "example_translation": "報告全面涵蓋了所有必要的資訊。"
         }
     ],
-    "date": "2026-08-01"
+    "date": "2026-08-02"
 }
