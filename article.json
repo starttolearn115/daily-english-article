@@ -1,125 +1,13 @@
 {
-    "title": "高階學測英文單字挑戰",
+    "date": "2026-08-03",
+    "title": "單字產生中斷，請重試",
     "vocabulary": [
         {
-            "word": "persuade",
-            "part_of_speech": "v.",
-            "meaning": "說服；哄騙",
-            "example": "She tried to persuade me to join her club.",
-            "example_translation": "她試圖勸我加入她的社團。"
-        },
-        {
-            "word": "reliable",
-            "part_of_speech": "adj.",
-            "meaning": "可靠的；信任的",
-            "example": "This is a reliable source of information.",
-            "example_translation": "這是一個可靠的資訊來源。"
-        },
-        {
-            "word": "narrative",
+            "word": "opportunity",
             "part_of_speech": "n.",
-            "meaning": "敘事；報告",
-            "example": "The narrative of the story was engaging.",
-            "example_translation": "故事的敘述很吸引人。"
-        },
-        {
-            "word": "sophisticated",
-            "part_of_speech": "adj.",
-            "meaning": "複雜的；高尚的",
-            "example": "This is a sophisticated piece of art.",
-            "example_translation": "這是一件複雜的藝術品。"
-        },
-        {
-            "word": "rigorous",
-            "part_of_speech": "adj.",
-            "meaning": "嚴格的；嚴酷的",
-            "example": "The rigorous training helped her improve her skills.",
-            "example_translation": "嚴格的訓練幫助她提高她自己的技能。"
-        },
-        {
-            "word": "vulnerable",
-            "part_of_speech": "adj.",
-            "meaning": "脆弱的；易受攻擊的",
-            "example": "The children are vulnerable to disease in this environment.",
-            "example_translation": "這些兒童在這個環境下容易感染疾病。"
-        },
-        {
-            "word": "skeptical",
-            "part_of_speech": "adj.",
-            "meaning": "疑慮的；懷疑的",
-            "example": "I'm skeptical about the new policy.",
-            "example_translation": "我對新的政策有懷疑。"
-        },
-        {
-            "word": "persistent",
-            "part_of_speech": "adj.",
-            "meaning": "堅強的；執着的",
-            "example": "She was persistent in her efforts to achieve her goal.",
-            "example_translation": "她堅持不懈地努力達到她的目標。"
-        },
-        {
-            "word": "complicated",
-            "part_of_speech": "adj.",
-            "meaning": "複雜的；混亂的",
-            "example": "The complicated problem required a good solution.",
-            "example_translation": "那個複雜的問題需要一個好的解決方案。"
-        },
-        {
-            "word": "futile",
-            "part_of_speech": "adj.",
-            "meaning": "徒勞的；無效的",
-            "example": "Her efforts to persuade him were futile.",
-            "example_translation": "她試圖說服他卻徒勞無成。"
-        },
-        {
-            "word": "meticulous",
-            "part_of_speech": "adj.",
-            "meaning": "小心的；細緻的",
-            "example": "She was meticulous in her work.",
-            "example_translation": "她工作細心。"
-        },
-        {
-            "word": "rigor",
-            "part_of_speech": "n.",
-            "meaning": "嚴格的標準；嚴酷的條件",
-            "example": "The team was under a lot of rigor to meet the deadline.",
-            "example_translation": "團隊面臨著壓力，期限的嚴格要求。"
-        },
-        {
-            "word": "surrender",
-            "part_of_speech": "v.",
-            "meaning": "投降；放棄",
-            "example": "The army was forced to surrender after a long battle.",
-            "example_translation": "軍隊在長時間的戰鬥中被迫投降。"
-        },
-        {
-            "word": "reform",
-            "part_of_speech": "n.",
-            "meaning": "改革；修正",
-            "example": "The government decided to reform the education system.",
-            "example_translation": "政府決定改革教育系統。"
-        },
-        {
-            "word": "exploit",
-            "part_of_speech": "v.",
-            "meaning": "開發；利用",
-            "example": "The company is exploiting the new market.",
-            "example_translation": "公司正在開發新的市場。"
-        },
-        {
-            "word": "sacrifice",
-            "part_of_speech": "v.",
-            "meaning": "犧牲；犧牲",
-            "example": "She sacrificed her chance for happiness.",
-            "example_translation": "她犧牲了她對幸福的追求。"
-        },
-        {
-            "word": "comprehensive",
-            "part_of_speech": "adj.",
-            "meaning": "全面性的；涵蓋性的",
-            "example": "The report was comprehensive and included all the necessary information.",
-            "example_translation": "報告全面涵蓋了所有必要的資訊。"
+            "meaning": "機會",
+            "example": "This is a great opportunity to review what you've learned.",
+            "example_translation": "這是一個複習你所學內容的絕佳機會。"
         }
-    ],
-    "date": "2026-08-02"
+    ]
 }
