@@ -1,13 +1,111 @@
 {
-    "date": "2026-08-03",
-    "title": "單字產生中斷，請重試",
+    "title": "高考學測英文挑選範圍單字",
     "vocabulary": [
         {
-            "word": "opportunity",
+            "word": "abdicate",
+            "part_of_speech": "v.",
+            "meaning": "棄權，讓出職位或權力",
+            "example": "The king abdicated the throne.",
+            "example_translation": "國王讓出帝座。"
+        },
+        {
+            "word": "acrimonious",
+            "part_of_speech": "a.",
+            "meaning": "刻意的、惡毒的",
+            "example": "The acrimonious argument ended in tears.",
+            "example_translation": "刻意惡毒的爭論最後以淚水收場。"
+        },
+        {
+            "word": "acerbic",
+            "part_of_speech": "a.",
+            "meaning": "苦味的、尖銳的",
+            "example": "Her acerbic wit cut down the opponent.",
+            "example_translation": "她尖酸刻薄的語言令對手受傷。"
+        },
+        {
+            "word": "allegory",
             "part_of_speech": "n.",
-            "meaning": "機會",
-            "example": "This is a great opportunity to review what you've learned.",
-            "example_translation": "這是一個複習你所學內容的絕佳機會。"
+            "meaning": "比喻故事、比喻敘述",
+            "example": "The poem is an allegory of love.",
+            "example_translation": "那首詩是愛情的比喻。"
+        },
+        {
+            "word": "ameliorate",
+            "part_of_speech": "v.",
+            "meaning": "改善、加強",
+            "example": "The new policy ameliorate the living condition.",
+            "example_translation": "新的政策改善了生活條件。"
+        },
+        {
+            "word": "analytical",
+            "part_of_speech": "a.",
+            "meaning": "分析的、認真考慮的",
+            "example": "Her analytical mind helped her solve the mystery.",
+            "example_translation": "她的分析頭腦幫助她解決謎團。"
+        },
+        {
+            "word": "apprehensive",
+            "part_of_speech": "a.",
+            "meaning": "懷恐、害怕",
+            "example": "I am apprehensive about the future.",
+            "example_translation": "我對未來感到擔憂。"
+        },
+        {
+            "word": "argumentative",
+            "part_of_speech": "a.",
+            "meaning": "爭論的、反對的",
+            "example": "He is an argumentative person.",
+            "example_translation": "他的人物對爭論的人很反對。"
+        },
+        {
+            "word": "assiduous",
+            "part_of_speech": "a.",
+            "meaning": "勤勞、認真的",
+            "example": "She is assiduous in her studies.",
+            "example_translation": "她在學習上的勤勉和認真的。"
+        },
+        {
+            "word": "cacophony",
+            "part_of_speech": "n.",
+            "meaning": "令人不快的聲音或言語",
+            "example": "The cacophony of the city is deafening.",
+            "example_translation": "城市的聲音令人難以忍受。"
+        },
+        {
+            "word": "chimerical",
+            "part_of_speech": "a.",
+            "meaning": "不存在的、無可行的",
+            "example": "His idea is chimerical and impractical.",
+            "example_translation": "他的念頭是無法實現的。"
+        },
+        {
+            "word": "compelling",
+            "part_of_speech": "a.",
+            "meaning": "具有說服力的、吸引人的",
+            "example": "The story is compelling and engaging.",
+            "example_translation": "該故事令人著迷且引人入勝。"
+        },
+        {
+            "word": "conciliatory",
+            "part_of_speech": "a.",
+            "meaning": "和平的、調解的",
+            "example": "The conciliatory gesture helped to ease the tension.",
+            "example_translation": "調和的姿態幫助消除了緊張氣氛。"
+        },
+        {
+            "word": "contiguous",
+            "part_of_speech": "a.",
+            "meaning": "相鄰的、連接的",
+            "example": "The two countries are contiguous.",
+            "example_translation": "兩個國家毗鄰。"
+        },
+        {
+            "word": "dearth",
+            "part_of_speech": "n.",
+            "meaning": "缺乏、短缺",
+            "example": "There is a dearth of water in the desert.",
+            "example_translation": "沙漠裡乾涸不少。"
         }
-    ]
+    ],
+    "date": "2026-08-04"
 }
