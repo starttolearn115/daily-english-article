@@ -1,111 +1,111 @@
 {
-    "title": "高考學測英文挑選範圍單字",
+    "title": "高中英文學測挑戰單字",
     "vocabulary": [
         {
             "word": "abdicate",
             "part_of_speech": "v.",
-            "meaning": "棄權，讓出職位或權力",
-            "example": "The king abdicated the throne.",
-            "example_translation": "國王讓出帝座。"
+            "meaning": "放棄皇位；讓出權力",
+            "example": "After a scandal, the king was forced to abdicate.",
+            "example_translation": "在丑闻之后，国王被迫让出皇位。"
         },
         {
-            "word": "acrimonious",
-            "part_of_speech": "a.",
-            "meaning": "刻意的、惡毒的",
-            "example": "The acrimonious argument ended in tears.",
-            "example_translation": "刻意惡毒的爭論最後以淚水收場。"
-        },
-        {
-            "word": "acerbic",
-            "part_of_speech": "a.",
-            "meaning": "苦味的、尖銳的",
-            "example": "Her acerbic wit cut down the opponent.",
-            "example_translation": "她尖酸刻薄的語言令對手受傷。"
-        },
-        {
-            "word": "allegory",
-            "part_of_speech": "n.",
-            "meaning": "比喻故事、比喻敘述",
-            "example": "The poem is an allegory of love.",
-            "example_translation": "那首詩是愛情的比喻。"
-        },
-        {
-            "word": "ameliorate",
+            "word": "accelerate",
             "part_of_speech": "v.",
-            "meaning": "改善、加強",
-            "example": "The new policy ameliorate the living condition.",
-            "example_translation": "新的政策改善了生活條件。"
+            "meaning": "加速；快上加快",
+            "example": "The car needs to accelerate quickly to catch up with the traffic.",
+            "example_translation": "车需要迅速加速以赶上交通。"
         },
         {
-            "word": "analytical",
+            "word": "acquaint",
+            "part_of_speech": "v.",
+            "meaning": "交情；知道",
+            "example": "I didn't know him, so I asked my friend to acquaint us.",
+            "example_translation": "我不認識他，所以我問我的朋友介紹一下。"
+        },
+        {
+            "word": "ambitious",
             "part_of_speech": "a.",
-            "meaning": "分析的、認真考慮的",
-            "example": "Her analytical mind helped her solve the mystery.",
-            "example_translation": "她的分析頭腦幫助她解決謎團。"
+            "meaning": "有抱負的；雄心勃勃的",
+            "example": "She is ambitious and wants to be a successful businesswoman.",
+            "example_translation": "(她是個有抱負、渴望成功的女性)"
+        },
+        {
+            "word": "animosity",
+            "part_of_speech": "n.",
+            "meaning": "反感；不悅",
+            "example": "There is animosity between the two countries after the war.",
+            "example_translation": "戰爭之後，這兩個國家間產生了仇恨"
         },
         {
             "word": "apprehensive",
             "part_of_speech": "a.",
-            "meaning": "懷恐、害怕",
-            "example": "I am apprehensive about the future.",
-            "example_translation": "我對未來感到擔憂。"
+            "meaning": "擔心的；不安的",
+            "example": "I'm apprehensive about the exam next week.",
+            "example_translation": "我對下週的考試感到惶恐。"
         },
         {
-            "word": "argumentative",
-            "part_of_speech": "a.",
-            "meaning": "爭論的、反對的",
-            "example": "He is an argumentative person.",
-            "example_translation": "他的人物對爭論的人很反對。"
+            "word": "assail",
+            "part_of_speech": "v.",
+            "meaning": "攻擊；強烈批評",
+            "example": "The critics assailed the movie for its poor acting.",
+            "example_translation": "評論家對电影的演技下了狠手"
         },
         {
             "word": "assiduous",
             "part_of_speech": "a.",
-            "meaning": "勤勞、認真的",
-            "example": "She is assiduous in her studies.",
-            "example_translation": "她在學習上的勤勉和認真的。"
+            "meaning": "勤奮；努力的",
+            "example": "She is an assiduous student and always attends classes on time.",
+            "example_translation": "她很勤奮，總是准時參加課堂"
         },
         {
-            "word": "cacophony",
+            "word": "audacious",
+            "part_of_speech": "a.",
+            "meaning": "大膽的；驕傲的",
+            "example": "The company's audacious plan to expand globally was successful.",
+            "example_translation": "這家公司的全球擴張藍圖很成功"
+        },
+        {
+            "word": "callous",
+            "part_of_speech": "a.",
+            "meaning": "冷酷的；冷心的",
+            "example": "The doctor's callous attitude towards his patients made them suffer.",
+            "example_translation": "醫生對他的病人態度冷酷，讓他們受苦"
+        },
+        {
+            "word": "captivate",
+            "part_of_speech": "v.",
+            "meaning": "迷住；吸引",
+            "example": "The magician captivated the audience with his magic tricks.",
+            "example_translation": "魔術師用他的魔術手法迷住了觀眾"
+        },
+        {
+            "word": "complacent",
+            "part_of_speech": "a.",
+            "meaning": "自滿的；滿意的",
+            "example": "She was complacent with her grade and didn't try to improve.",
+            "example_translation": "(她對她的成績很滿意)"
+        },
+        {
+            "word": "dissension",
             "part_of_speech": "n.",
-            "meaning": "令人不快的聲音或言語",
-            "example": "The cacophony of the city is deafening.",
-            "example_translation": "城市的聲音令人難以忍受。"
+            "meaning": "分裂；爭議",
+            "example": "There is dissension in the team about the strategy.",
+            "example_translation": "這個團隊有關策略的分歧"
         },
         {
-            "word": "chimerical",
+            "word": "egalitarian",
             "part_of_speech": "a.",
-            "meaning": "不存在的、無可行的",
-            "example": "His idea is chimerical and impractical.",
-            "example_translation": "他的念頭是無法實現的。"
+            "meaning": "平等主義的；相等的",
+            "example": "The company promotes an egalitarian work environment.",
+            "example_translation": "公司是平等主義的，所有員工待遇一樣"
         },
         {
-            "word": "compelling",
+            "word": "enigmatic",
             "part_of_speech": "a.",
-            "meaning": "具有說服力的、吸引人的",
-            "example": "The story is compelling and engaging.",
-            "example_translation": "該故事令人著迷且引人入勝。"
-        },
-        {
-            "word": "conciliatory",
-            "part_of_speech": "a.",
-            "meaning": "和平的、調解的",
-            "example": "The conciliatory gesture helped to ease the tension.",
-            "example_translation": "調和的姿態幫助消除了緊張氣氛。"
-        },
-        {
-            "word": "contiguous",
-            "part_of_speech": "a.",
-            "meaning": "相鄰的、連接的",
-            "example": "The two countries are contiguous.",
-            "example_translation": "兩個國家毗鄰。"
-        },
-        {
-            "word": "dearth",
-            "part_of_speech": "n.",
-            "meaning": "缺乏、短缺",
-            "example": "There is a dearth of water in the desert.",
-            "example_translation": "沙漠裡乾涸不少。"
+            "meaning": "神秘的；難解的",
+            "example": "The artist's enigmatic smile is a mystery to everyone.",
+            "example_translation": "藝術家的笑容很難解釋"
         }
     ],
-    "date": "2026-08-04"
+    "date": "2026-08-05"
 }
