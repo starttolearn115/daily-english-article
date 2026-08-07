@@ -1,110 +1,110 @@
 {
-    "title": "台灣高中學測英文範圍核心單字",
+    "title": "高中學測英文範圍核心單字",
     "vocabulary": [
         {
-            "word": "persist",
-            "part_of_speech": "v.",
-            "meaning": "堅持；不斷重複",
-            "example": "She persisted in her efforts to learn the language.",
-            "example_translation": "她堅持學習這門語言。"
-        },
-        {
-            "word": "complicate",
-            "part_of_speech": "v.",
-            "meaning": "複雜化；弄糊塗",
-            "example": "The situation was complicated by the new information.",
-            "example_translation": "當新消息出來後，事情就變得複雜了。"
-        },
-        {
-            "word": "delegate",
-            "part_of_speech": "v.",
-            "meaning": "委派；交給他人",
-            "example": "The boss delegated some tasks to his subordinates.",
-            "example_translation": "老闆將一些任務交給他的下屬。"
-        },
-        {
-            "word": "narrate",
-            "part_of_speech": "v.",
-            "meaning": "講故事；介紹",
-            "example": "She narrated the story of her trip to the audience.",
-            "example_translation": "她向觀眾介紹了她的旅程。"
-        },
-        {
-            "word": "rigorous",
+            "word": "abrupt",
             "part_of_speech": "adj.",
-            "meaning": "嚴格的；認真的",
-            "example": "The rigorous training helped him to improve his skills.",
-            "example_translation": "嚴格的訓練幫助他提升他的技能。"
+            "meaning": "突然的;意外的",
+            "example": "The tour ended abruptly due to a sudden rainstorm.",
+            "example_translation": "旅行因為突然下雨而提前結束。"
         },
         {
-            "word": "sophisticated",
-            "part_of_speech": "adj.",
-            "meaning": "复雜的；高雅的",
-            "example": "The sophisticated system was difficult to understand.",
-            "example_translation": "複雜的系統難以理解。"
-        },
-        {
-            "word": "utilize",
+            "word": "acquiesce",
             "part_of_speech": "v.",
-            "meaning": "利用；運用",
-            "example": "He utilized the resources to complete the project.",
-            "example_translation": "他利用這些資源完成了這個項目。"
+            "meaning": "默認;順從",
+            "example": "The company will acquiesce to the demands of the union.",
+            "example_translation": "公司會滿足工會的要求。"
         },
         {
-            "word": "reconcile",
+            "word": "affinity",
+            "part_of_speech": "n.",
+            "meaning": "聯誼;友好關係",
+            "example": "She felt an affinity with her new roommate.",
+            "example_translation": "她與新房東相處得很融洽。"
+        },
+        {
+            "word": "alienate",
             "part_of_speech": "v.",
-            "meaning": "調解；恢復和解",
-            "example": "They reconciled their differences and became friends again.",
-            "example_translation": "他們與解釋了差異，變成朋友了。"
+            "meaning": "使人疏遠",
+            "example": "Our argument alienated us from our friends.",
+            "example_translation": "我們的爭論使我們與朋友們變得疏遠。"
         },
         {
-            "word": "speculate",
+            "word": "ameliorate",
             "part_of_speech": "v.",
-            "meaning": "臆斷；猜測",
-            "example": "She speculated about the cause of the accident.",
-            "example_translation": "她對意外事件的原因做出了臆斷。"
+            "meaning": "改善;增強",
+            "example": "The new policy will ameliorate the living conditions of the poor.",
+            "example_translation": "新的政策會改善貧窮的人的生活條件。"
         },
         {
-            "word": "prioritize",
+            "word": "apprehensive",
+            "part_of_speech": "adj.",
+            "meaning": "懷疑;忌憚",
+            "example": "He was apprehensive about the upcoming test.",
+            "example_translation": "他對即將來到的考試感到忌憚。"
+        },
+        {
+            "word": "assiduous",
+            "part_of_speech": "adj.",
+            "meaning": "勤奮;兢兢業業",
+            "example": "The researcher was assiduous in collecting data.",
+            "example_translation": "研究員收集資料時很勤奮。"
+        },
+        {
+            "word": "bastion",
+            "part_of_speech": "n.",
+            "meaning": "堡垠；堡壘",
+            "example": "The city is a bastion of culture and art.",
+            "example_translation": "該城市是文化藝術的堡壘。"
+        },
+        {
+            "word": "catastrophe",
+            "part_of_speech": "n.",
+            "meaning": "災難;毀滅",
+            "example": "The earthquake caused a catastrophe in the city.",
+            "example_translation": "地震使城市遭遇災難。"
+        },
+        {
+            "word": "conciliatory",
+            "part_of_speech": "adj.",
+            "meaning": "調解的",
+            "example": "The government took a conciliatory stance towards the protest.",
+            "example_translation": "政府對遊行展現了一種調解的姿態。"
+        },
+        {
+            "word": "contrarian",
+            "part_of_speech": "n.",
+            "meaning": "反對的;反對派",
+            "example": "The contrarian investor made a fortune by predicting the market downturn.",
+            "example_translation": "反對的投資人通過預測市場低潮賺到了大錢。"
+        },
+        {
+            "word": "deprive",
             "part_of_speech": "v.",
-            "meaning": "優先；先後",
-            "example": "He prioritized his tasks to meet the deadline.",
-            "example_translation": "他優先安排他的任務以趕到截止日期。"
+            "meaning": "剥奪;剝奪",
+            "example": "The company will deprive its employees of their bonuses.",
+            "example_translation": "公司會剝奪員工的獎金。"
         },
         {
-            "word": "vulnerable",
-            "part_of_speech": "adj.",
-            "meaning": "脆弱的；易受攻擊",
-            "example": "The company is vulnerable to the economic crisis.",
-            "example_translation": "這間公司在經濟危機中易受侵攻。"
+            "word": "diplomacy",
+            "part_of_speech": "n.",
+            "meaning": "外交;外交手段",
+            "example": "The diplomat used her diplomacy to ease the tension between countries.",
+            "example_translation": "外交官通過外交手段減少了兩國間的緊張局勢。"
         },
         {
-            "word": "sensational",
+            "word": "egocentric",
             "part_of_speech": "adj.",
-            "meaning": "引人入勝的；令人驚嘆的",
-            "example": "The sensational movie captured the attention of the audience.",
-            "example_translation": "這部引人入勝的電影讓觀眾大為嘆為觀止。"
+            "meaning": "自我中心的",
+            "example": "The politician was accused of being egocentric and power-hungry.",
+            "example_translation": "政客被指責是自我中心和追求權力欲。"
         },
         {
-            "word": "meticulous",
+            "word": "egalitarian",
             "part_of_speech": "adj.",
-            "meaning": "小心的；詳盡的",
-            "example": "The meticulous engineer designed the system carefully.",
-            "example_translation": "這名小心的工程師仔細設計了系統。"
-        },
-        {
-            "word": "rigid",
-            "part_of_speech": "adj.",
-            "meaning": "僵硬的；不變的",
-            "example": "The rigid policy caused a lot of controversy.",
-            "example_translation": "這個僵硬的政策引發了大眾對其的質疑。"
-        },
-        {
-            "word": "exhilarating",
-            "part_of_speech": "adj.",
-            "meaning": "令人高興的；興奮的",
-            "example": "The exhilarating experience of skydiving was unforgettable.",
-            "example_translation": "跳伞的令人興奮體驗是難能可貴的。"
+            "meaning": "平等的;平等主義",
+            "example": "The egalitarian society valued equality and fairness.",
+            "example_translation": "平等主義的社會重視平等和公平。"
         }
     ],
     "date": "2026-08-07"
