@@ -1,111 +1,111 @@
 {
-    "title": "高中英文學測挑戰單字",
+    "title": "台灣高中學測英文範圍核心單字",
     "vocabulary": [
         {
-            "word": "abdicate",
+            "word": "persist",
             "part_of_speech": "v.",
-            "meaning": "放棄皇位；讓出權力",
-            "example": "After a scandal, the king was forced to abdicate.",
-            "example_translation": "在丑闻之后，国王被迫让出皇位。"
+            "meaning": "堅持；不斷重複",
+            "example": "She persisted in her efforts to learn the language.",
+            "example_translation": "她堅持學習這門語言。"
         },
         {
-            "word": "accelerate",
+            "word": "complicate",
             "part_of_speech": "v.",
-            "meaning": "加速；快上加快",
-            "example": "The car needs to accelerate quickly to catch up with the traffic.",
-            "example_translation": "车需要迅速加速以赶上交通。"
+            "meaning": "複雜化；弄糊塗",
+            "example": "The situation was complicated by the new information.",
+            "example_translation": "當新消息出來後，事情就變得複雜了。"
         },
         {
-            "word": "acquaint",
+            "word": "delegate",
             "part_of_speech": "v.",
-            "meaning": "交情；知道",
-            "example": "I didn't know him, so I asked my friend to acquaint us.",
-            "example_translation": "我不認識他，所以我問我的朋友介紹一下。"
+            "meaning": "委派；交給他人",
+            "example": "The boss delegated some tasks to his subordinates.",
+            "example_translation": "老闆將一些任務交給他的下屬。"
         },
         {
-            "word": "ambitious",
-            "part_of_speech": "a.",
-            "meaning": "有抱負的；雄心勃勃的",
-            "example": "She is ambitious and wants to be a successful businesswoman.",
-            "example_translation": "(她是個有抱負、渴望成功的女性)"
-        },
-        {
-            "word": "animosity",
-            "part_of_speech": "n.",
-            "meaning": "反感；不悅",
-            "example": "There is animosity between the two countries after the war.",
-            "example_translation": "戰爭之後，這兩個國家間產生了仇恨"
-        },
-        {
-            "word": "apprehensive",
-            "part_of_speech": "a.",
-            "meaning": "擔心的；不安的",
-            "example": "I'm apprehensive about the exam next week.",
-            "example_translation": "我對下週的考試感到惶恐。"
-        },
-        {
-            "word": "assail",
+            "word": "narrate",
             "part_of_speech": "v.",
-            "meaning": "攻擊；強烈批評",
-            "example": "The critics assailed the movie for its poor acting.",
-            "example_translation": "評論家對电影的演技下了狠手"
+            "meaning": "講故事；介紹",
+            "example": "She narrated the story of her trip to the audience.",
+            "example_translation": "她向觀眾介紹了她的旅程。"
         },
         {
-            "word": "assiduous",
-            "part_of_speech": "a.",
-            "meaning": "勤奮；努力的",
-            "example": "She is an assiduous student and always attends classes on time.",
-            "example_translation": "她很勤奮，總是准時參加課堂"
+            "word": "rigorous",
+            "part_of_speech": "adj.",
+            "meaning": "嚴格的；認真的",
+            "example": "The rigorous training helped him to improve his skills.",
+            "example_translation": "嚴格的訓練幫助他提升他的技能。"
         },
         {
-            "word": "audacious",
-            "part_of_speech": "a.",
-            "meaning": "大膽的；驕傲的",
-            "example": "The company's audacious plan to expand globally was successful.",
-            "example_translation": "這家公司的全球擴張藍圖很成功"
+            "word": "sophisticated",
+            "part_of_speech": "adj.",
+            "meaning": "复雜的；高雅的",
+            "example": "The sophisticated system was difficult to understand.",
+            "example_translation": "複雜的系統難以理解。"
         },
         {
-            "word": "callous",
-            "part_of_speech": "a.",
-            "meaning": "冷酷的；冷心的",
-            "example": "The doctor's callous attitude towards his patients made them suffer.",
-            "example_translation": "醫生對他的病人態度冷酷，讓他們受苦"
-        },
-        {
-            "word": "captivate",
+            "word": "utilize",
             "part_of_speech": "v.",
-            "meaning": "迷住；吸引",
-            "example": "The magician captivated the audience with his magic tricks.",
-            "example_translation": "魔術師用他的魔術手法迷住了觀眾"
+            "meaning": "利用；運用",
+            "example": "He utilized the resources to complete the project.",
+            "example_translation": "他利用這些資源完成了這個項目。"
         },
         {
-            "word": "complacent",
-            "part_of_speech": "a.",
-            "meaning": "自滿的；滿意的",
-            "example": "She was complacent with her grade and didn't try to improve.",
-            "example_translation": "(她對她的成績很滿意)"
+            "word": "reconcile",
+            "part_of_speech": "v.",
+            "meaning": "調解；恢復和解",
+            "example": "They reconciled their differences and became friends again.",
+            "example_translation": "他們與解釋了差異，變成朋友了。"
         },
         {
-            "word": "dissension",
-            "part_of_speech": "n.",
-            "meaning": "分裂；爭議",
-            "example": "There is dissension in the team about the strategy.",
-            "example_translation": "這個團隊有關策略的分歧"
+            "word": "speculate",
+            "part_of_speech": "v.",
+            "meaning": "臆斷；猜測",
+            "example": "She speculated about the cause of the accident.",
+            "example_translation": "她對意外事件的原因做出了臆斷。"
         },
         {
-            "word": "egalitarian",
-            "part_of_speech": "a.",
-            "meaning": "平等主義的；相等的",
-            "example": "The company promotes an egalitarian work environment.",
-            "example_translation": "公司是平等主義的，所有員工待遇一樣"
+            "word": "prioritize",
+            "part_of_speech": "v.",
+            "meaning": "優先；先後",
+            "example": "He prioritized his tasks to meet the deadline.",
+            "example_translation": "他優先安排他的任務以趕到截止日期。"
         },
         {
-            "word": "enigmatic",
-            "part_of_speech": "a.",
-            "meaning": "神秘的；難解的",
-            "example": "The artist's enigmatic smile is a mystery to everyone.",
-            "example_translation": "藝術家的笑容很難解釋"
+            "word": "vulnerable",
+            "part_of_speech": "adj.",
+            "meaning": "脆弱的；易受攻擊",
+            "example": "The company is vulnerable to the economic crisis.",
+            "example_translation": "這間公司在經濟危機中易受侵攻。"
+        },
+        {
+            "word": "sensational",
+            "part_of_speech": "adj.",
+            "meaning": "引人入勝的；令人驚嘆的",
+            "example": "The sensational movie captured the attention of the audience.",
+            "example_translation": "這部引人入勝的電影讓觀眾大為嘆為觀止。"
+        },
+        {
+            "word": "meticulous",
+            "part_of_speech": "adj.",
+            "meaning": "小心的；詳盡的",
+            "example": "The meticulous engineer designed the system carefully.",
+            "example_translation": "這名小心的工程師仔細設計了系統。"
+        },
+        {
+            "word": "rigid",
+            "part_of_speech": "adj.",
+            "meaning": "僵硬的；不變的",
+            "example": "The rigid policy caused a lot of controversy.",
+            "example_translation": "這個僵硬的政策引發了大眾對其的質疑。"
+        },
+        {
+            "word": "exhilarating",
+            "part_of_speech": "adj.",
+            "meaning": "令人高興的；興奮的",
+            "example": "The exhilarating experience of skydiving was unforgettable.",
+            "example_translation": "跳伞的令人興奮體驗是難能可貴的。"
         }
     ],
-    "date": "2026-08-05"
+    "date": "2026-08-07"
 }
