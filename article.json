@@ -1,111 +1,111 @@
 {
-    "title": "高中學測英文範圍核心單字",
+    "title": "高中英文挑戰單字",
     "vocabulary": [
-        {
-            "word": "abrupt",
-            "part_of_speech": "adj.",
-            "meaning": "突然的;意外的",
-            "example": "The tour ended abruptly due to a sudden rainstorm.",
-            "example_translation": "旅行因為突然下雨而提前結束。"
-        },
         {
             "word": "acquiesce",
             "part_of_speech": "v.",
-            "meaning": "默認;順從",
-            "example": "The company will acquiesce to the demands of the union.",
-            "example_translation": "公司會滿足工會的要求。"
+            "meaning": "默認；同意",
+            "example": "She eventually acquiesced to his demands.",
+            "example_translation": "她最後終於同意他的要求。"
         },
         {
-            "word": "affinity",
-            "part_of_speech": "n.",
-            "meaning": "聯誼;友好關係",
-            "example": "She felt an affinity with her new roommate.",
-            "example_translation": "她與新房東相處得很融洽。"
+            "word": "enigmatic",
+            "part_of_speech": "a.",
+            "meaning": "神秘的；難解的",
+            "example": "The artist's latest work is an enigmatic sculpture.",
+            "example_translation": "這位藝術家的最新作品是一幅難解的裝置。"
         },
         {
-            "word": "alienate",
+            "word": "exacerbate",
             "part_of_speech": "v.",
-            "meaning": "使人疏遠",
-            "example": "Our argument alienated us from our friends.",
-            "example_translation": "我們的爭論使我們與朋友們變得疏遠。"
+            "meaning": "使情況惡化；加劇",
+            "example": "The politician's words exacerbated the tensions.",
+            "example_translation": "那位政治家的話使局勢惡化。"
         },
         {
-            "word": "ameliorate",
-            "part_of_speech": "v.",
-            "meaning": "改善;增強",
-            "example": "The new policy will ameliorate the living conditions of the poor.",
-            "example_translation": "新的政策會改善貧窮的人的生活條件。"
+            "word": "fastidious",
+            "part_of_speech": "a.",
+            "meaning": "細節的；要求高的",
+            "example": "He was a fastidious editor, paying attention to every detail.",
+            "example_translation": "他是一名要求很高的編輯，非常關注小細節。"
         },
         {
-            "word": "apprehensive",
-            "part_of_speech": "adj.",
-            "meaning": "懷疑;忌憚",
-            "example": "He was apprehensive about the upcoming test.",
-            "example_translation": "他對即將來到的考試感到忌憚。"
-        },
-        {
-            "word": "assiduous",
-            "part_of_speech": "adj.",
-            "meaning": "勤奮;兢兢業業",
-            "example": "The researcher was assiduous in collecting data.",
-            "example_translation": "研究員收集資料時很勤奮。"
-        },
-        {
-            "word": "bastion",
+            "word": "hindsight",
             "part_of_speech": "n.",
-            "meaning": "堡垠；堡壘",
-            "example": "The city is a bastion of culture and art.",
-            "example_translation": "該城市是文化藝術的堡壘。"
+            "meaning": "知識；理解",
+            "example": "Looking back, we can see the mistake in hindsight.",
+            "example_translation": "現在回頭看，我们才明白以前的錯誤。"
         },
         {
-            "word": "catastrophe",
+            "word": "insubstantial",
+            "part_of_speech": "a.",
+            "meaning": "空洞的；無實質內容的",
+            "example": "The movie's plot was insubstantial and lacked depth.",
+            "example_translation": "這部電影的故宮非常空洞，没有內容。"
+        },
+        {
+            "word": "meticulous",
+            "part_of_speech": "a.",
+            "meaning": "小心的；要求高的",
+            "example": "She is a meticulous researcher, gathering data carefully.",
+            "example_translation": "她是一個小心謹慎的研究人員，非常關注數據的準確性。"
+        },
+        {
+            "word": "naivety",
             "part_of_speech": "n.",
-            "meaning": "災難;毀滅",
-            "example": "The earthquake caused a catastrophe in the city.",
-            "example_translation": "地震使城市遭遇災難。"
+            "meaning": "天真；無經驗",
+            "example": "Her naivety made her vulnerable to manipulation.",
+            "example_translation": "她的天真使她容易被操控。"
         },
         {
-            "word": "conciliatory",
-            "part_of_speech": "adj.",
-            "meaning": "調解的",
-            "example": "The government took a conciliatory stance towards the protest.",
-            "example_translation": "政府對遊行展現了一種調解的姿態。"
+            "word": "obscure",
+            "part_of_speech": "a.",
+            "meaning": "不清楚的；不明顯的",
+            "example": "The obscure reference made it difficult to understand the joke.",
+            "example_translation": "那個不清楚的參考使得笑話難以理解。"
         },
         {
-            "word": "contrarian",
+            "word": "ostentatious",
+            "part_of_speech": "a.",
+            "meaning": "顯示富有的；誇張的",
+            "example": "The ostentatious display of wealth was gaudy and tasteless.",
+            "example_translation": "那位富人顯示他的財富太誇張了，實在难看。"
+        },
+        {
+            "word": "perfidious",
+            "part_of_speech": "a.",
+            "meaning": "無信義的；背叛的",
+            "example": "The company was known for its perfidious business practices.",
+            "example_translation": "那公司以背叛的商業行徑而聞名。"
+        },
+        {
+            "word": "prodigious",
+            "part_of_speech": "a.",
+            "meaning": "驚人的；出色的",
+            "example": "The prodigious talent of the young musician was evident in his performance.",
+            "example_translation": "那位年輕的音樂家驚人的天份在表演中一览无余。"
+        },
+        {
+            "word": "rigorous",
+            "part_of_speech": "a.",
+            "meaning": "嚴格的；持久的",
+            "example": "The rigorous training schedule was grueling and demanding.",
+            "example_translation": "嚴格的訓練計劃使得練習非常難熬且非常辛苦。"
+        },
+        {
+            "word": "serendipity",
             "part_of_speech": "n.",
-            "meaning": "反對的;反對派",
-            "example": "The contrarian investor made a fortune by predicting the market downturn.",
-            "example_translation": "反對的投資人通過預測市場低潮賺到了大錢。"
+            "meaning": "偶然發現的好運氣",
+            "example": "Finding the rare book was a case of serendipity.",
+            "example_translation": "偶然發現那本罕见的書是一種好運氣。"
         },
         {
-            "word": "deprive",
-            "part_of_speech": "v.",
-            "meaning": "剥奪;剝奪",
-            "example": "The company will deprive its employees of their bonuses.",
-            "example_translation": "公司會剝奪員工的獎金。"
-        },
-        {
-            "word": "diplomacy",
+            "word": "sophistry",
             "part_of_speech": "n.",
-            "meaning": "外交;外交手段",
-            "example": "The diplomat used her diplomacy to ease the tension between countries.",
-            "example_translation": "外交官通過外交手段減少了兩國間的緊張局勢。"
-        },
-        {
-            "word": "egocentric",
-            "part_of_speech": "adj.",
-            "meaning": "自我中心的",
-            "example": "The politician was accused of being egocentric and power-hungry.",
-            "example_translation": "政客被指責是自我中心和追求權力欲。"
-        },
-        {
-            "word": "egalitarian",
-            "part_of_speech": "adj.",
-            "meaning": "平等的;平等主義",
-            "example": "The egalitarian society valued equality and fairness.",
-            "example_translation": "平等主義的社會重視平等和公平。"
+            "meaning": "巧言令色；花言巧語",
+            "example": "The politician's sophistry was transparent and insincere.",
+            "example_translation": "那位政治家的花言巧語表明他完全不夠誠實。"
         }
     ],
-    "date": "2026-08-07"
+    "date": "2026-08-08"
 }
