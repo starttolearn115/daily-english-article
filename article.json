@@ -1,111 +1,111 @@
 {
-    "title": "高中英文挑戰單字",
+    "title": "高中學測英文範圍核心單字",
     "vocabulary": [
         {
-            "word": "acquiesce",
-            "part_of_speech": "v.",
-            "meaning": "默認；同意",
-            "example": "She eventually acquiesced to his demands.",
-            "example_translation": "她最後終於同意他的要求。"
-        },
-        {
-            "word": "enigmatic",
-            "part_of_speech": "a.",
-            "meaning": "神秘的；難解的",
-            "example": "The artist's latest work is an enigmatic sculpture.",
-            "example_translation": "這位藝術家的最新作品是一幅難解的裝置。"
-        },
-        {
-            "word": "exacerbate",
-            "part_of_speech": "v.",
-            "meaning": "使情況惡化；加劇",
-            "example": "The politician's words exacerbated the tensions.",
-            "example_translation": "那位政治家的話使局勢惡化。"
-        },
-        {
-            "word": "fastidious",
-            "part_of_speech": "a.",
-            "meaning": "細節的；要求高的",
-            "example": "He was a fastidious editor, paying attention to every detail.",
-            "example_translation": "他是一名要求很高的編輯，非常關注小細節。"
-        },
-        {
-            "word": "hindsight",
+            "word": "dilemma",
             "part_of_speech": "n.",
-            "meaning": "知識；理解",
-            "example": "Looking back, we can see the mistake in hindsight.",
-            "example_translation": "現在回頭看，我们才明白以前的錯誤。"
+            "meaning": "困境；難題",
+            "example": "She was faced with a dilemma whether to accept the job offer or not.",
+            "example_translation": "她被要求接受工作邀約或是拒絕工作邀約。"
         },
         {
-            "word": "insubstantial",
-            "part_of_speech": "a.",
-            "meaning": "空洞的；無實質內容的",
-            "example": "The movie's plot was insubstantial and lacked depth.",
-            "example_translation": "這部電影的故宮非常空洞，没有內容。"
+            "word": "equivocate",
+            "part_of_speech": "v.",
+            "meaning": "使用含糊或謊言的語言",
+            "example": "He began to equivocate about his age when asked.",
+            "example_translation": "有人問他的年齡時，他開始說謊"
         },
         {
-            "word": "meticulous",
-            "part_of_speech": "a.",
-            "meaning": "小心的；要求高的",
-            "example": "She is a meticulous researcher, gathering data carefully.",
-            "example_translation": "她是一個小心謹慎的研究人員，非常關注數據的準確性。"
+            "word": "marginalize",
+            "part_of_speech": "v.",
+            "meaning": "邊緣化；排除在外",
+            "example": "The government's policies marginalized the minority group.",
+            "example_translation": "政府的政策邊緣化了少數民族"
         },
         {
-            "word": "naivety",
-            "part_of_speech": "n.",
-            "meaning": "天真；無經驗",
-            "example": "Her naivety made her vulnerable to manipulation.",
-            "example_translation": "她的天真使她容易被操控。"
+            "word": "narrate",
+            "part_of_speech": "v.",
+            "meaning": "描述故事或歷史人物的行為",
+            "example": "She narrated the events leading up to the war.",
+            "example_translation": "她描述了戰爭前的事件"
         },
         {
-            "word": "obscure",
-            "part_of_speech": "a.",
-            "meaning": "不清楚的；不明顯的",
-            "example": "The obscure reference made it difficult to understand the joke.",
-            "example_translation": "那個不清楚的參考使得笑話難以理解。"
+            "word": "ostensibly",
+            "part_of_speech": "adv.",
+            "meaning": "表面上；在表面上看起來",
+            "example": "The company was ostensibly profitable, but in reality, it was struggling.",
+            "example_translation": "公司表面上看起來很有利益，但實際上，公司卻在經歷著經濟困難"
         },
         {
-            "word": "ostentatious",
-            "part_of_speech": "a.",
-            "meaning": "顯示富有的；誇張的",
-            "example": "The ostentatious display of wealth was gaudy and tasteless.",
-            "example_translation": "那位富人顯示他的財富太誇張了，實在难看。"
+            "word": "perspicacious",
+            "part_of_speech": "adj.",
+            "meaning": "有洞察力；有理解力",
+            "example": "She was a perspicacious observer of human behavior.",
+            "example_translation": "她對人類行為具有強烈的洞察力"
         },
         {
-            "word": "perfidious",
-            "part_of_speech": "a.",
-            "meaning": "無信義的；背叛的",
-            "example": "The company was known for its perfidious business practices.",
-            "example_translation": "那公司以背叛的商業行徑而聞名。"
+            "word": "precocious",
+            "part_of_speech": "adj.",
+            "meaning": "早熟；過早成熟",
+            "example": "The child was precocious and could read at the age of three.",
+            "example_translation": "孩子非常早熟，三歲就會看書"
         },
         {
             "word": "prodigious",
-            "part_of_speech": "a.",
-            "meaning": "驚人的；出色的",
-            "example": "The prodigious talent of the young musician was evident in his performance.",
-            "example_translation": "那位年輕的音樂家驚人的天份在表演中一览无余。"
+            "part_of_speech": "adj.",
+            "meaning": "巨大；偉大的",
+            "example": "The company made a prodigious profit in the past year.",
+            "example_translation": "公司在去年的收益非常巨大"
         },
         {
-            "word": "rigorous",
-            "part_of_speech": "a.",
-            "meaning": "嚴格的；持久的",
-            "example": "The rigorous training schedule was grueling and demanding.",
-            "example_translation": "嚴格的訓練計劃使得練習非常難熬且非常辛苦。"
+            "word": "reclusive",
+            "part_of_speech": "adj.",
+            "meaning": "不願與人接觸；孤獨",
+            "example": "The reclusive billionaire lived in a secluded mansion.",
+            "example_translation": "孤獨的億萬富豪住在隔絕外界的房子"
         },
         {
-            "word": "serendipity",
+            "word": "sedentary",
+            "part_of_speech": "adj.",
+            "meaning": "久居一處；不喜歡運動",
+            "example": "He leads a sedentary lifestyle and rarely exercises.",
+            "example_translation": "他久居一處，不喜歡運動，很少運動"
+        },
+        {
+            "word": "skepticism",
             "part_of_speech": "n.",
-            "meaning": "偶然發現的好運氣",
-            "example": "Finding the rare book was a case of serendipity.",
-            "example_translation": "偶然發現那本罕见的書是一種好運氣。"
+            "meaning": "猶豫不決；不信任",
+            "example": "Her skepticism about the product's effectiveness made her hesitate to buy it.",
+            "example_translation": "她對於產品的有效性猶豫不決，所以不願意購買"
         },
         {
-            "word": "sophistry",
+            "word": "taciturn",
+            "part_of_speech": "adj.",
+            "meaning": "少言寡語；不愛講話",
+            "example": "The taciturn man sat in silence for a long time.",
+            "example_translation": "寡言的男人在一旁沉默不語"
+        },
+        {
+            "word": "temperamental",
+            "part_of_speech": "adj.",
+            "meaning": "情緒起伏；容易失控",
+            "example": "The artist was temperamental and prone to tantrums.",
+            "example_translation": "藝術家情緒容易起伏，容易發脾氣"
+        },
+        {
+            "word": "turmoil",
             "part_of_speech": "n.",
-            "meaning": "巧言令色；花言巧語",
-            "example": "The politician's sophistry was transparent and insincere.",
-            "example_translation": "那位政治家的花言巧語表明他完全不夠誠實。"
+            "meaning": "混亂；搖蕩",
+            "example": "The country was in turmoil after the coup.",
+            "example_translation": "國家在軍事政變後陷入混亂"
+        },
+        {
+            "word": "vindictive",
+            "part_of_speech": "adj.",
+            "meaning": "報復；復仇心",
+            "example": "The vindictive ex-partner sought revenge on the current partner.",
+            "example_translation": "前伴侶對現任伴侶懷有復仇心"
         }
     ],
-    "date": "2026-08-08"
+    "date": "2026-08-09"
 }
