@@ -1,111 +1,118 @@
 {
-    "title": "高中學測英文範圍核心單字",
+    "title": "學測英文單字挑戰",
     "vocabulary": [
+        {
+            "word": "abandon",
+            "part_of_speech": "v.",
+            "meaning": "放棄；拋棄",
+            "example": "The captain gave the order to abandon the sinking ship.",
+            "example_translation": "船長下令棄沉船。"
+        },
+        {
+            "word": "ambiguous",
+            "part_of_speech": "adj.",
+            "meaning": "含意不明；有兩難兩可的情況",
+            "example": "The instructions were ambiguous, making it hard to follow.",
+            "example_translation": "指示很不明確，難以遵行。"
+        },
+        {
+            "word": "catastrophic",
+            "part_of_speech": "adj.",
+            "meaning": "造成災難性的後果",
+            "example": "The fire caused a catastrophic damage to the city.",
+            "example_translation": "大火造成嚴重的破壞。"
+        },
         {
             "word": "dilemma",
             "part_of_speech": "n.",
-            "meaning": "困境；難題",
-            "example": "She was faced with a dilemma whether to accept the job offer or not.",
-            "example_translation": "她被要求接受工作邀約或是拒絕工作邀約。"
+            "meaning": "兩難兩可的困境",
+            "example": "She was stuck in a dilemma about what to wear.",
+            "example_translation": "她在不知該穿什麼衣服的困境。"
         },
         {
-            "word": "equivocate",
+            "word": "enumerate",
             "part_of_speech": "v.",
-            "meaning": "使用含糊或謊言的語言",
-            "example": "He began to equivocate about his age when asked.",
-            "example_translation": "有人問他的年齡時，他開始說謊"
+            "meaning": "逐一列舉；清點",
+            "example": "The teacher asked the students to enumerate the reasons why the sky was blue.",
+            "example_translation": "老師要求學生逐一列舉天空為藍色的原因。"
         },
         {
-            "word": "marginalize",
-            "part_of_speech": "v.",
-            "meaning": "邊緣化；排除在外",
-            "example": "The government's policies marginalized the minority group.",
-            "example_translation": "政府的政策邊緣化了少數民族"
-        },
-        {
-            "word": "narrate",
-            "part_of_speech": "v.",
-            "meaning": "描述故事或歷史人物的行為",
-            "example": "She narrated the events leading up to the war.",
-            "example_translation": "她描述了戰爭前的事件"
-        },
-        {
-            "word": "ostensibly",
-            "part_of_speech": "adv.",
-            "meaning": "表面上；在表面上看起來",
-            "example": "The company was ostensibly profitable, but in reality, it was struggling.",
-            "example_translation": "公司表面上看起來很有利益，但實際上，公司卻在經歷著經濟困難"
-        },
-        {
-            "word": "perspicacious",
+            "word": "equivocal",
             "part_of_speech": "adj.",
-            "meaning": "有洞察力；有理解力",
-            "example": "She was a perspicacious observer of human behavior.",
-            "example_translation": "她對人類行為具有強烈的洞察力"
+            "meaning": "含義不明確；有兩難兩可的情況",
+            "example": "The politician's statement was equivocal, leaving everyone confused.",
+            "example_translation": "政治家的講話含義不明確，讓許多人感到混淆。"
+        },
+        {
+            "word": "exacerbate",
+            "part_of_speech": "v.",
+            "meaning": "使情況變得嚴重；加劇",
+            "example": "The delay exacerbated the already tense situation.",
+            "example_translation": "延誤的行程使原本緊張的情況更加惡化。"
+        },
+        {
+            "word": "finesse",
+            "part_of_speech": "n.",
+            "meaning": "細致的技巧或判斷力",
+            "example": "She possessed a certain finesse in her cooking.",
+            "example_translation": "她在烹飪方面有一定的技巧。"
+        },
+        {
+            "word": "incongruous",
+            "part_of_speech": "adj.",
+            "meaning": "不相稱的；不協調的",
+            "example": "The expensive watch looked incongruous on the beggar's wrist.",
+            "example_translation": "名貴的鐘錶看起來不太適合乞丐的手臂。"
+        },
+        {
+            "word": "inexorable",
+            "part_of_speech": "adj.",
+            "meaning": "不可挽回的；不容違背的",
+            "example": "The inexorable force of time was unstoppable.",
+            "example_translation": "時間的不可抗拒之力讓人無法抗逆。"
+        },
+        {
+            "word": "malleable",
+            "part_of_speech": "adj.",
+            "meaning": "容易被塑造或改變的",
+            "example": "The malleable clay was shaped into a beautiful sculpture.",
+            "example_translation": "可塑的黏土被塑形成一個美麗的雕像。"
+        },
+        {
+            "word": "nuance",
+            "part_of_speech": "n.",
+            "meaning": "細微的情況或差異",
+            "example": "The artist tried to capture the nuances of the human face.",
+            "example_translation": "藝術家試圖捕捉人面上的微妙情況。"
+        },
+        {
+            "word": "obdurate",
+            "part_of_speech": "adj.",
+            "meaning": "頑固的；不願意變更的",
+            "example": "The obdurate manager refused to listen to the employees' concerns.",
+            "example_translation": "企業裡頑固的管理者拒絕聽取員工的建議。"
+        },
+        {
+            "word": "perpetuate",
+            "part_of_speech": "v.",
+            "meaning": "使某種狀況或情況持續存在",
+            "example": "The company perpetuates the stereotype of women being inferior.",
+            "example_translation": "公司持續使人抱持著女性劣等的刻板印象。"
         },
         {
             "word": "precocious",
             "part_of_speech": "adj.",
-            "meaning": "早熟；過早成熟",
-            "example": "The child was precocious and could read at the age of three.",
-            "example_translation": "孩子非常早熟，三歲就會看書"
+            "meaning": "表現出超乎尋常的早熟和才能的",
+            "example": "The child was precocious, speaking fluently in multiple languages.",
+            "example_translation": "那個孩子表現出來似乎有超乎尋常的才能，說了幾種語言。"
         },
         {
-            "word": "prodigious",
+            "word": "rigid",
             "part_of_speech": "adj.",
-            "meaning": "巨大；偉大的",
-            "example": "The company made a prodigious profit in the past year.",
-            "example_translation": "公司在去年的收益非常巨大"
-        },
-        {
-            "word": "reclusive",
-            "part_of_speech": "adj.",
-            "meaning": "不願與人接觸；孤獨",
-            "example": "The reclusive billionaire lived in a secluded mansion.",
-            "example_translation": "孤獨的億萬富豪住在隔絕外界的房子"
-        },
-        {
-            "word": "sedentary",
-            "part_of_speech": "adj.",
-            "meaning": "久居一處；不喜歡運動",
-            "example": "He leads a sedentary lifestyle and rarely exercises.",
-            "example_translation": "他久居一處，不喜歡運動，很少運動"
-        },
-        {
-            "word": "skepticism",
-            "part_of_speech": "n.",
-            "meaning": "猶豫不決；不信任",
-            "example": "Her skepticism about the product's effectiveness made her hesitate to buy it.",
-            "example_translation": "她對於產品的有效性猶豫不決，所以不願意購買"
-        },
-        {
-            "word": "taciturn",
-            "part_of_speech": "adj.",
-            "meaning": "少言寡語；不愛講話",
-            "example": "The taciturn man sat in silence for a long time.",
-            "example_translation": "寡言的男人在一旁沉默不語"
-        },
-        {
-            "word": "temperamental",
-            "part_of_speech": "adj.",
-            "meaning": "情緒起伏；容易失控",
-            "example": "The artist was temperamental and prone to tantrums.",
-            "example_translation": "藝術家情緒容易起伏，容易發脾氣"
-        },
-        {
-            "word": "turmoil",
-            "part_of_speech": "n.",
-            "meaning": "混亂；搖蕩",
-            "example": "The country was in turmoil after the coup.",
-            "example_translation": "國家在軍事政變後陷入混亂"
-        },
-        {
-            "word": "vindictive",
-            "part_of_speech": "adj.",
-            "meaning": "報復；復仇心",
-            "example": "The vindictive ex-partner sought revenge on the current partner.",
-            "example_translation": "前伴侶對現任伴侶懷有復仇心"
+            "meaning": "不能屈曲的；頑固的",
+            "example": "The rigid metal couldn't be bent under any circumstances.",
+            "example_translation": "那塊堅硬的金屬無論如何都無法彎曲。"
         }
     ],
-    "date": "2026-08-09"
+    "date": "2026-08-10"
 }
