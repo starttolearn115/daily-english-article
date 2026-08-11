@@ -1,118 +1,118 @@
 {
-    "title": "學測英文單字挑戰",
+    "title": "高中學測英文範圍進階核心單字挑選",
     "vocabulary": [
         {
-            "word": "abandon",
+            "word": "abdicate",
             "part_of_speech": "v.",
-            "meaning": "放棄；拋棄",
-            "example": "The captain gave the order to abandon the sinking ship.",
-            "example_translation": "船長下令棄沉船。"
+            "meaning": "放棄權力",
+            "example": "The king abdicated the throne at the end of the year.",
+            "example_translation": "王國在年底宣告退位。"
         },
         {
-            "word": "ambiguous",
+            "word": "acquiesce",
+            "part_of_speech": "v.",
+            "meaning": "同意或屈服",
+            "example": "After repeated refusal, the manager acquiesced to the team's demands.",
+            "example_translation": "經過反覆拒絕，經理最終屈服於球團的要求。"
+        },
+        {
+            "word": "ambivalent",
             "part_of_speech": "adj.",
-            "meaning": "含意不明；有兩難兩可的情況",
-            "example": "The instructions were ambiguous, making it hard to follow.",
-            "example_translation": "指示很不明確，難以遵行。"
+            "meaning": "既擁有正面的又有負面的意義",
+            "example": "I had an ambivalent feeling towards the movie, it was both beautiful and disturbing.",
+            "example_translation": "對於這部電影，我有著兩面性感受，既美好又令人不安。"
         },
         {
-            "word": "catastrophic",
-            "part_of_speech": "adj.",
-            "meaning": "造成災難性的後果",
-            "example": "The fire caused a catastrophic damage to the city.",
-            "example_translation": "大火造成嚴重的破壞。"
+            "word": "assert",
+            "part_of_speech": "v.",
+            "meaning": "堅持或宣稱",
+            "example": "She asserted her point of view in the meeting.",
+            "example_translation": "她在會議中堅持她的看法。"
         },
         {
-            "word": "dilemma",
+            "word": "benevolence",
             "part_of_speech": "n.",
-            "meaning": "兩難兩可的困境",
-            "example": "She was stuck in a dilemma about what to wear.",
-            "example_translation": "她在不知該穿什麼衣服的困境。"
+            "meaning": "善意或好意",
+            "example": "The charity's benevolence has helped many families in need.",
+            "example_translation": "這個慈善組織的善意幫助了許多有需要的家庭。"
         },
         {
-            "word": "enumerate",
-            "part_of_speech": "v.",
-            "meaning": "逐一列舉；清點",
-            "example": "The teacher asked the students to enumerate the reasons why the sky was blue.",
-            "example_translation": "老師要求學生逐一列舉天空為藍色的原因。"
-        },
-        {
-            "word": "equivocal",
+            "word": "cognitive",
             "part_of_speech": "adj.",
-            "meaning": "含義不明確；有兩難兩可的情況",
-            "example": "The politician's statement was equivocal, leaving everyone confused.",
-            "example_translation": "政治家的講話含義不明確，讓許多人感到混淆。"
+            "meaning": "感知或認知",
+            "example": "The cognitive skills of the students need to be improved.",
+            "example_translation": "學生們的感知或認知能力需要提高。"
+        },
+        {
+            "word": "deflect",
+            "part_of_speech": "v.",
+            "meaning": "躲避或轉移注意",
+            "example": "She tried to deflect the teacher's question by talking to her friends.",
+            "example_translation": "她試圖躲避老師的問題和她的朋友溝通。"
+        },
+        {
+            "word": "dissatisfaction",
+            "part_of_speech": "n.",
+            "meaning": "不滿或失望",
+            "example": "The product's quality caused significant dissatisfaction among customers.",
+            "example_translation": "產品的品質導致了顧客的巨大失望。"
+        },
+        {
+            "word": "elicit",
+            "part_of_speech": "v.",
+            "meaning": "引發或激發",
+            "example": "The question elicits a strong reaction from the audience.",
+            "example_translation": "這個問題激發了觀眾強烈的反應。"
         },
         {
             "word": "exacerbate",
             "part_of_speech": "v.",
-            "meaning": "使情況變得嚴重；加劇",
-            "example": "The delay exacerbated the already tense situation.",
-            "example_translation": "延誤的行程使原本緊張的情況更加惡化。"
+            "meaning": "使情況惡化",
+            "example": "The news exacerbated the situation, causing panic among the people.",
+            "example_translation": "這個新聞使情況惡化，引起了人們的恐慌。"
         },
         {
-            "word": "finesse",
+            "word": "fastidious",
+            "part_of_speech": "adj.",
+            "meaning": "講究或要求很高",
+            "example": "He was a fastidious person who paid attention to every detail.",
+            "example_translation": "他是個講究的人，對每個細節都非常在乎。"
+        },
+        {
+            "word": "genuineness",
             "part_of_speech": "n.",
-            "meaning": "細致的技巧或判斷力",
-            "example": "She possessed a certain finesse in her cooking.",
-            "example_translation": "她在烹飪方面有一定的技巧。"
+            "meaning": "真實或真誠",
+            "example": "The artist's genuineness was reflected in his artwork.",
+            "example_translation": "這位藝術家的真實性通過他的作品得到體現。"
         },
         {
-            "word": "incongruous",
+            "word": "heterogeneous",
             "part_of_speech": "adj.",
-            "meaning": "不相稱的；不協調的",
-            "example": "The expensive watch looked incongruous on the beggar's wrist.",
-            "example_translation": "名貴的鐘錶看起來不太適合乞丐的手臂。"
+            "meaning": "異質或多樣化",
+            "example": "The society is heterogeneous, with people from different cultures.",
+            "example_translation": "這個社會是異質的，每個人有不同的文化背景。"
         },
         {
-            "word": "inexorable",
+            "word": "inexplicable",
             "part_of_speech": "adj.",
-            "meaning": "不可挽回的；不容違背的",
-            "example": "The inexorable force of time was unstoppable.",
-            "example_translation": "時間的不可抗拒之力讓人無法抗逆。"
+            "meaning": "無法理解或說明",
+            "example": "The phenomenon was inexplicable, leaving scientists puzzled.",
+            "example_translation": "現象無法理解，讓科學家們感到困惑。"
         },
         {
-            "word": "malleable",
+            "word": "justifiable",
             "part_of_speech": "adj.",
-            "meaning": "容易被塑造或改變的",
-            "example": "The malleable clay was shaped into a beautiful sculpture.",
-            "example_translation": "可塑的黏土被塑形成一個美麗的雕像。"
+            "meaning": "可以正當地或合理地辯護",
+            "example": "His behaviour was justifiable, given the circumstances.",
+            "example_translation": "他的行為可以被正當地或合理地辯護，考慮到情況。"
         },
         {
-            "word": "nuance",
+            "word": "narrative",
             "part_of_speech": "n.",
-            "meaning": "細微的情況或差異",
-            "example": "The artist tried to capture the nuances of the human face.",
-            "example_translation": "藝術家試圖捕捉人面上的微妙情況。"
-        },
-        {
-            "word": "obdurate",
-            "part_of_speech": "adj.",
-            "meaning": "頑固的；不願意變更的",
-            "example": "The obdurate manager refused to listen to the employees' concerns.",
-            "example_translation": "企業裡頑固的管理者拒絕聽取員工的建議。"
-        },
-        {
-            "word": "perpetuate",
-            "part_of_speech": "v.",
-            "meaning": "使某種狀況或情況持續存在",
-            "example": "The company perpetuates the stereotype of women being inferior.",
-            "example_translation": "公司持續使人抱持著女性劣等的刻板印象。"
-        },
-        {
-            "word": "precocious",
-            "part_of_speech": "adj.",
-            "meaning": "表現出超乎尋常的早熟和才能的",
-            "example": "The child was precocious, speaking fluently in multiple languages.",
-            "example_translation": "那個孩子表現出來似乎有超乎尋常的才能，說了幾種語言。"
-        },
-        {
-            "word": "rigid",
-            "part_of_speech": "adj.",
-            "meaning": "不能屈曲的；頑固的",
-            "example": "The rigid metal couldn't be bent under any circumstances.",
-            "example_translation": "那塊堅硬的金屬無論如何都無法彎曲。"
+            "meaning": "故事或敘事",
+            "example": "The novel has a complex narrative structure.",
+            "example_translation": "這部小說的敘事結構複雜。"
         }
     ],
-    "date": "2026-08-10"
+    "date": "2026-08-11"
 }
