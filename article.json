@@ -2,117 +2,110 @@
     "title": "高中學測英文範圍進階核心單字挑選",
     "vocabulary": [
         {
-            "word": "abdicate",
+            "word": "abandon",
             "part_of_speech": "v.",
-            "meaning": "放棄權力",
-            "example": "The king abdicated the throne at the end of the year.",
-            "example_translation": "王國在年底宣告退位。"
+            "meaning": "放棄；拋棄",
+            "example": "The captain gave the order to abandon the sinking ship.",
+            "example_translation": "船長下令棄沉船。"
         },
         {
-            "word": "acquiesce",
+            "word": "persuade",
             "part_of_speech": "v.",
-            "meaning": "同意或屈服",
-            "example": "After repeated refusal, the manager acquiesced to the team's demands.",
-            "example_translation": "經過反覆拒絕，經理最終屈服於球團的要求。"
+            "meaning": "說服；促使",
+            "example": "She tried to persuade me to go to the party.",
+            "example_translation": "她試圖說服我去參加派對。"
         },
         {
-            "word": "ambivalent",
+            "word": "reliable",
             "part_of_speech": "adj.",
-            "meaning": "既擁有正面的又有負面的意義",
-            "example": "I had an ambivalent feeling towards the movie, it was both beautiful and disturbing.",
-            "example_translation": "對於這部電影，我有著兩面性感受，既美好又令人不安。"
+            "meaning": "可靠的；信任的",
+            "example": "He is a reliable friend who always helps me.",
+            "example_translation": "他是個可靠的朋友，他總是幫助我。"
         },
         {
-            "word": "assert",
-            "part_of_speech": "v.",
-            "meaning": "堅持或宣稱",
-            "example": "She asserted her point of view in the meeting.",
-            "example_translation": "她在會議中堅持她的看法。"
+            "word": "complicated",
+            "part_of_speech": "adj.",
+            "meaning": "複雜的；困難的",
+            "example": "The problem is very complicated and difficult to solve.",
+            "example_translation": "問題很複雜，很難解決。"
         },
         {
-            "word": "benevolence",
+            "word": "sophisticated",
+            "part_of_speech": "adj.",
+            "meaning": "複雜的；微妙的",
+            "example": "The new technology is sophisticated and requires great expertise.",
+            "example_translation": "新技術複雜，需要很高的專業知識。"
+        },
+        {
+            "word": "rigorous",
+            "part_of_speech": "adj.",
+            "meaning": "嚴格的；要求高的",
+            "example": "The teacher requires that their students follow a rigorous study plan.",
+            "example_translation": "教師要求學生遵循嚴格的學習計畫。"
+        },
+        {
+            "word": "authentic",
+            "part_of_speech": "adj.",
+            "meaning": "真實的；原始的",
+            "example": "The authentic painting is valuable and sought after.",
+            "example_translation": "真實的畫作有價值且被大量搜求。"
+        },
+        {
+            "word": "inherent",
+            "part_of_speech": "adj.",
+            "meaning": "固有的；內在的",
+            "example": "The inherent qualities of a person determine their character.",
+            "example_translation": "一個人的固有品質決定著他的品格。"
+        },
+        {
+            "word": "ambiguous",
+            "part_of_speech": "adj.",
+            "meaning": "晦涩的；含糊的",
+            "example": "The poet used ambiguous words to convey his thoughts.",
+            "example_translation": "詩人使用晦涩的詞彙表達他的想法。"
+        },
+        {
+            "word": "rigorously",
+            "part_of_speech": "adv.",
+            "meaning": "認真地；嚴格地",
+            "example": "She studied rigorously for the exam.",
+            "example_translation": "她認真地準備考試。"
+        },
+        {
+            "word": "vulnerable",
+            "part_of_speech": "adj.",
+            "meaning": "脆弱的；易受傷害的",
+            "example": "The city is vulnerable to the effects of climate change.",
+            "example_translation": "這個城市脆弱，易受氣候變化的影響。"
+        },
+        {
+            "word": "persistent",
+            "part_of_speech": "adj.",
+            "meaning": "堅持不懈的；不放棄的",
+            "example": "She is persistent in her pursuit of a career in music.",
+            "example_translation": "她堅持不懈地追求音樂事業。"
+        },
+        {
+            "word": "sensitive",
+            "part_of_speech": "adj.",
+            "meaning": "敏感的；易受到感染的",
+            "example": "The new employee was sensitive to the company's culture.",
+            "example_translation": "新職員對公司的文化很敏感。"
+        },
+        {
+            "word": "ambition",
             "part_of_speech": "n.",
-            "meaning": "善意或好意",
-            "example": "The charity's benevolence has helped many families in need.",
-            "example_translation": "這個慈善組織的善意幫助了許多有需要的家庭。"
+            "meaning": "雄心；抱負",
+            "example": "His ambition is to become a successful entrepreneur.",
+            "example_translation": "他的雄心是成為一位成功的企業家。"
         },
         {
-            "word": "cognitive",
-            "part_of_speech": "adj.",
-            "meaning": "感知或認知",
-            "example": "The cognitive skills of the students need to be improved.",
-            "example_translation": "學生們的感知或認知能力需要提高。"
-        },
-        {
-            "word": "deflect",
-            "part_of_speech": "v.",
-            "meaning": "躲避或轉移注意",
-            "example": "She tried to deflect the teacher's question by talking to her friends.",
-            "example_translation": "她試圖躲避老師的問題和她的朋友溝通。"
-        },
-        {
-            "word": "dissatisfaction",
+            "word": "resilience",
             "part_of_speech": "n.",
-            "meaning": "不滿或失望",
-            "example": "The product's quality caused significant dissatisfaction among customers.",
-            "example_translation": "產品的品質導致了顧客的巨大失望。"
-        },
-        {
-            "word": "elicit",
-            "part_of_speech": "v.",
-            "meaning": "引發或激發",
-            "example": "The question elicits a strong reaction from the audience.",
-            "example_translation": "這個問題激發了觀眾強烈的反應。"
-        },
-        {
-            "word": "exacerbate",
-            "part_of_speech": "v.",
-            "meaning": "使情況惡化",
-            "example": "The news exacerbated the situation, causing panic among the people.",
-            "example_translation": "這個新聞使情況惡化，引起了人們的恐慌。"
-        },
-        {
-            "word": "fastidious",
-            "part_of_speech": "adj.",
-            "meaning": "講究或要求很高",
-            "example": "He was a fastidious person who paid attention to every detail.",
-            "example_translation": "他是個講究的人，對每個細節都非常在乎。"
-        },
-        {
-            "word": "genuineness",
-            "part_of_speech": "n.",
-            "meaning": "真實或真誠",
-            "example": "The artist's genuineness was reflected in his artwork.",
-            "example_translation": "這位藝術家的真實性通過他的作品得到體現。"
-        },
-        {
-            "word": "heterogeneous",
-            "part_of_speech": "adj.",
-            "meaning": "異質或多樣化",
-            "example": "The society is heterogeneous, with people from different cultures.",
-            "example_translation": "這個社會是異質的，每個人有不同的文化背景。"
-        },
-        {
-            "word": "inexplicable",
-            "part_of_speech": "adj.",
-            "meaning": "無法理解或說明",
-            "example": "The phenomenon was inexplicable, leaving scientists puzzled.",
-            "example_translation": "現象無法理解，讓科學家們感到困惑。"
-        },
-        {
-            "word": "justifiable",
-            "part_of_speech": "adj.",
-            "meaning": "可以正當地或合理地辯護",
-            "example": "His behaviour was justifiable, given the circumstances.",
-            "example_translation": "他的行為可以被正當地或合理地辯護，考慮到情況。"
-        },
-        {
-            "word": "narrative",
-            "part_of_speech": "n.",
-            "meaning": "故事或敘事",
-            "example": "The novel has a complex narrative structure.",
-            "example_translation": "這部小說的敘事結構複雜。"
+            "meaning": "堅韌性；抗逆力",
+            "example": "The athlete developed resilience after a series of failures.",
+            "example_translation": "運動員在一系列失敗中磨練了自己的堅韌性。"
         }
     ],
-    "date": "2026-08-11"
+    "date": "2026-08-12"
 }
