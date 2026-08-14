@@ -1,111 +1,13 @@
 {
-    "title": "台灣高中學測英文範圍核心單字",
+    "date": "2026-08-14",
+    "title": "單字產生中斷，請重試",
     "vocabulary": [
         {
-            "word": "abandon",
-            "part_of_speech": "v.",
-            "meaning": "放棄；拋棄",
-            "example": "The captain gave the order to abandon the sinking ship.",
-            "example_translation": "船長下令棄沉船。"
-        },
-        {
-            "word": "ambitious",
-            "part_of_speech": "adj.",
-            "meaning": "抱有雄心；有進取性",
-            "example": "She is an ambitious entrepreneur who wants to start her own business.",
-            "example_translation": "她是一位雄心勃勃的企業家，想創辦自己的公司。"
-        },
-        {
-            "word": "comprehend",
-            "part_of_speech": "v.",
-            "meaning": "理解；體會",
-            "example": "I'm trying to comprehend the complex ideas in the book.",
-            "example_translation": "我在嘗試理解書中複雜的理念。"
-        },
-        {
-            "word": "diligent",
-            "part_of_speech": "adj.",
-            "meaning": "勤勉；努力",
-            "example": "He is a diligent worker who always meets his deadlines.",
-            "example_translation": "他是一位勤勉的工作者，總能順利完成任務。"
-        },
-        {
-            "word": "eloquent",
-            "part_of_speech": "adj.",
-            "meaning": "說話富有感染力；口才好",
-            "example": "He is an eloquent speaker who can persuade his audience.",
-            "example_translation": "他是一位能說服聽眾的才藝好的人。"
-        },
-        {
-            "word": "equivocal",
-            "part_of_speech": "adj.",
-            "meaning": "含混不清；含糊其辭",
-            "example": "His response was equivocal, leaving us unsure of what he meant.",
-            "example_translation": "他對我們的回應含混不清，留下我們不清楚他想表達的意義。"
-        },
-        {
-            "word": "exaggerate",
-            "part_of_speech": "v.",
-            "meaning": "誇大事實；說話過分地誇張",
-            "example": "Don't exaggerate the story, it's not that interesting.",
-            "example_translation": "別誇大這件事，它其實不那麼有趣。"
-        },
-        {
-            "word": "impede",
-            "part_of_speech": "v.",
-            "meaning": "阻塞；妨礙",
-            "example": "The rain will impede our plans for the picnic.",
-            "example_translation": "下雨會阻礙我們計劃的野餐。"
-        },
-        {
-            "word": "narrate",
-            "part_of_speech": "v.",
-            "meaning": "講故事；描述",
-            "example": "The author will narrate the story from his childhood.",
-            "example_translation": "作家會從他的童年講故事。"
-        },
-        {
-            "word": "oblige",
-            "part_of_speech": "v.",
-            "meaning": "義務；應該做某件事",
-            "example": "I feel obliged to help my friend in need.",
-            "example_translation": "我覺得應該幫助我的朋友。"
-        },
-        {
-            "word": "precise",
-            "part_of_speech": "adj.",
-            "meaning": "精確；準確",
-            "example": "The scientist needs precise measurements to conduct the experiment.",
-            "example_translation": "科學家需要準確的測量來進行實驗。"
-        },
-        {
-            "word": "rationalize",
-            "part_of_speech": "v.",
-            "meaning": "合理化；給理由",
-            "example": "Don't rationalize your actions, you should take responsibility.",
-            "example_translation": "別合理化你的行為，你應該承擔責任。"
-        },
-        {
-            "word": "sentiment",
+            "word": "opportunity",
             "part_of_speech": "n.",
-            "meaning": "情緒；態度",
-            "example": "The politician's speech was full of sentiment and passion.",
-            "example_translation": "政治家的演說充滿情感和熱情。"
-        },
-        {
-            "word": "sophisticated",
-            "part_of_speech": "adj.",
-            "meaning": "複雜；精緻",
-            "example": "The art exhibition featured sophisticated sculptures that were truly breathtaking.",
-            "example_translation": "美術展覽中展出精緻的雕塑，確實令人嘆為觀止。"
-        },
-        {
-            "word": "tactic",
-            "part_of_speech": "n.",
-            "meaning": "戰術；策略",
-            "example": "The coach developed a new tactic to beat the opponent.",
-            "example_translation": "教練發展了一種新戰術來擊敗對手。"
+            "meaning": "機會",
+            "example": "This is a great opportunity to review what you've learned.",
+            "example_translation": "這是一個複習你所學內容的絕佳機會。"
         }
-    ],
-    "date": "2026-08-13"
+    ]
 }
