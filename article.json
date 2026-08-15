@@ -1,13 +1,125 @@
 {
-    "date": "2026-08-14",
-    "title": "單字產生中斷，請重試",
+    "title": "",
     "vocabulary": [
         {
-            "word": "opportunity",
+            "word": "abandon",
+            "part_of_speech": "v.",
+            "meaning": "放棄；拋棄",
+            "example": "The captain gave the order to abandon the sinking ship.",
+            "example_translation": "船長下令棄沉船。"
+        },
+        {
+            "word": "accelerate",
+            "part_of_speech": "v.",
+            "meaning": "增加速度；加快；促進",
+            "example": "The company will accelerate the development of the new technology.",
+            "example_translation": "公司將加快新技術研發的步調。"
+        },
+        {
+            "word": "ambiguous",
+            "part_of_speech": "adj.",
+            "meaning": "模糊的；不明確的",
+            "example": "The word has an ambiguous meaning in different contexts.",
+            "example_translation": "在不同背景下這個字的意思有所變化。"
+        },
+        {
+            "word": "anticipate",
+            "part_of_speech": "v.",
+            "meaning": "提前預見；預料",
+            "example": "I think I can anticipate the problem before it happens.",
+            "example_translation": "我可以猜到可能會出現問題。"
+        },
+        {
+            "word": "apocalypse",
             "part_of_speech": "n.",
-            "meaning": "機會",
-            "example": "This is a great opportunity to review what you've learned.",
-            "example_translation": "這是一個複習你所學內容的絕佳機會。"
+            "meaning": "末日；末世",
+            "example": "The apocalyptic movie depicts a post-apocalyptic world.",
+            "example_translation": "末日片描述了一個末世世界。"
+        },
+        {
+            "word": "artificial",
+            "part_of_speech": "adj.",
+            "meaning": "人造的；人製的",
+            "example": "The artificial intelligence system is becoming increasingly sophisticated.",
+            "example_translation": "人工智慧系統越來越具複雜性。"
+        },
+        {
+            "word": "catalyst",
+            "part_of_speech": "n.",
+            "meaning": "催化劑；促進劑",
+            "example": "The new policy became a catalyst for economic growth.",
+            "example_translation": "新政策成為了促進經濟成長的驅動力。"
+        },
+        {
+            "word": "clarify",
+            "part_of_speech": "v.",
+            "meaning": "使清楚；使明瞭",
+            "example": "She needs to clarify her position on the issue.",
+            "example_translation": "她需要對這個問題發表明確立場。"
+        },
+        {
+            "word": "conglomerate",
+            "part_of_speech": "n.",
+            "meaning": "大公司；壽司集團",
+            "example": "The conglomerate has diversified its business across various industries.",
+            "example_translation": "壽司集團跨越多個行業進行業務多元化。"
+        },
+        {
+            "word": "conundrum",
+            "part_of_speech": "n.",
+            "meaning": "難題；糊塗",
+            "example": "The mystery novel presented a complex conundrum for the detective.",
+            "example_translation": "那本神秘小說向偵探呈現了極度複雜的難題。"
+        },
+        {
+            "word": "deconstruct",
+            "part_of_speech": "v.",
+            "meaning": "撕敘析；拆解",
+            "example": "The critic deconstructed the politician's speech to reveal its true meaning.",
+            "example_translation": "那個評論家拆解政客的演說，揭露其真實含義。"
+        },
+        {
+            "word": "dissatisfaction",
+            "part_of_speech": "n.",
+            "meaning": "不滿；不耐煩",
+            "example": "The consumer expressed dissatisfaction with the product's quality.",
+            "example_translation": "消費者們對產品品質不滿。"
+        },
+        {
+            "word": "elicit",
+            "part_of_speech": "v.",
+            "meaning": "提煉；引出",
+            "example": "The researcher sought to elicit the respondent's true opinion.",
+            "example_translation": "這位研究人員試圖獲得受訪者的真實意見。"
+        },
+        {
+            "word": "enigmatic",
+            "part_of_speech": "adj.",
+            "meaning": "神秘的；隱藏的",
+            "example": "The enigmatic smile of the Mona Lisa has sparked curiosity.",
+            "example_translation": "莫尼麗莎的神秘微笑激起了人們的好奇心。"
+        },
+        {
+            "word": "equivocate",
+            "part_of_speech": "v.",
+            "meaning": "含糊其辭；含含而不露",
+            "example": "The politician's statement was seen as evasive, rather than straightforward.",
+            "example_translation": "政客的這番話被視為含而不露。"
+        },
+        {
+            "word": "extrapolate",
+            "part_of_speech": "v.",
+            "meaning": "推測；合理推斷",
+            "example": "Scientists extrapolated the data from a small sample size.",
+            "example_translation": "科學家對小樣本量的數據進行了推測。"
+        },
+        {
+            "word": "finesse",
+            "part_of_speech": "n.",
+            "meaning": "細致的技巧；高明",
+            "example": "The artist used finesse to create a delicate painting.",
+            "example_translation": "那個藝術家使用細致之技巧創作出一幅精致的畫作。"
         }
-    ]
+    ],
+    "date": "2026-08-15"
 }
